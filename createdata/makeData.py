@@ -1,4 +1,4 @@
-from random import *
+import random
 import os
 import math
 #load Data from /lists
@@ -7,7 +7,7 @@ ID = []
 while True:
     line = idList.readline()
     if not line: break
-    if len(line) > 4 : ID.append(line)
+    if len(line) > 4 : ID.append(line[:-1])
 
 temp = math.ceil(len(ID)/2)
 NICKNAME = ID[0:temp]
@@ -18,14 +18,14 @@ PASSWORD = []
 while True:
     line = passwordList.readline()
     if not line: break
-    PASSWORD.append(line)
+    PASSWORD.append(line[:-1])
 
 nameList = open('lists/namelist.txt','r')
 NAME= []
 while True:
     line = nameList.readline()
     if not line: break
-    NAME.append(line)
+    NAME.append(line[:-1])
 
 
 DATE = ['월','화','수','목','금','토','일']
@@ -38,15 +38,15 @@ AD_LIMIT_PRICE = [0,10000,15000,30000]
 #requires number of stores, and number of Delivery app
 def makeData1(num_stores, num_delApp, STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT) :
     for i in range(0,num_stores) :
-        op_time_week = randint(10,17)
-        working_hour_week = randint(10,15)
+        op_time_week = random.randrange(10,18)
+        working_hour_week = random.randrange(10,16)
         close_time_week = min(op_time_week+working_hour_week,4+24) % 24
 
-        week_break = randint(15,16)
-        week_break_end= randint(16,17)
+        week_break = random.randrange(15,17)
+        week_break_end= random.randrange(16,18)
 
-        op_time_weekend = randint(9,15)
-        working_hour_weekend = randint(12,18)
+        op_time_weekend = random.randrange(9,16)
+        working_hour_weekend = random.randrange(12,19)
         close_time_weekend = min(op_time_weekend+working_hour_weekend,4+24) % 24
 
         #STORE_OP_TIME
@@ -59,10 +59,8 @@ def makeData1(num_stores, num_delApp, STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT)
 
         #DERIVERY_TIP, APP_DISCOUNT
         for j in range(0, num_delApp) :
-            DERIVERY_TIP.append({'DT_APP_ID':j,'DT_S_ID':i,'DT_PRICE':DT_LIMIT_PRICE[randint(0,length(DT_LIMIT_PRICE))],'DEL_TIP':TIP[randint(0,length(TIP))]})
+            DERIVERY_TIP.append({'DT_APP_ID':j,'DT_S_ID':i,'DT_PRICE':DT_LIMIT_PRICE[random.randrange(0,len(DT_LIMIT_PRICE))],'DEL_TIP':TIP[random.randrange(0,len(TIP)-1)]})
             APP_DISCOUNT.append({'AD_APP_ID':j,'AD_S_ID':i,'AD_PRICE':AD_LIMIT_PRICE[0],'AD_DISCNT':DISCOUNT[0]})
-
-
 
 
 #REVIEW, USER
@@ -72,37 +70,31 @@ def makeData2(num_review, num_user, REVIEW, USER) :
     random.shuffle(ID)
     random.shuffle(PASSWORD)
     random.shuffle(NAME)
-    
-    for i in (0,num_user):
+    for i in range(0,num_user):
         USER.append({'U_ID':i,'ID':ID[i],'PW':PASSWORD[i],'NAME':NAME[i],'NICKNAME':NICKNAME[i]})
         
-    
-        
-
-
-    
-    
-#        USER.append({'U_ID':,'ID':,'PW':,'NAME':,'NICKNAME':
-#         })
-
-#       REVIEW.append({'REVIEW_ID':,'RS_ID':.'RU_ID':.'POINTS':,'COMMENTS':
-#          })
-    
-    
-
-
+    for j in range(0,num_review):
+        temp_storeID = random.randrange(1,1001)
+        temp_userID = random.randrange(1,num_user+1)
+        temp_point = random.randrange(1,6)
+        REVIEW.append({'REVIEW_ID':j, 'RS_ID': temp_storeID, 'RU_ID':temp_userID, 'POINTS':temp_point})
 
 
 # Lists that are going to be transfer to json
-#STORE_OP_TIME=[]
-#DERIVERY_TIP=[]
-#APP_DISCOUNT=[]
-#REVIEW=[]
-#USER=[]
+STORE_OP_TIME=[]
+DERIVERY_TIP=[]
+APP_DISCOUNT=[]
+REVIEW=[]
+USER=[]
 
+makeData1(4000,3,STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT)
+makeData2(1000,1000,REVIEW,USER)
 
-
-
+print(STORE_OP_TIME[10])
+print(DERIVERY_TIP[10])
+print(APP_DISCOUNT[10])
+print(REVIEW[10])
+print(USER[10])
 
 #create jsonFile
 
