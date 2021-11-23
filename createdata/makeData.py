@@ -45,6 +45,10 @@ def makeData1(num_stores, num_delApp, STORE_OP_TIME[], DERIVERY_TIP[], APP_DISCO
 #REVIEW, USER
 
 def makeData2(num_review, num_user, REVIEW[], USER[]) {
+    nameList = open('/wordlist/usernames.txt','r').readlines()
+    passwordList = open('/wordlist/ssh_passwd.txt','r').readlines()
+
+    
     
 
 }
