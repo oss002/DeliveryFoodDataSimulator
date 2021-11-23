@@ -1,5 +1,6 @@
 from bs4 import BeautifulSoup
 import json
+import random
 
 html = open('namestats.html','r',encoding="UTF-8")
 soup = BeautifulSoup(html,'html.parser')
@@ -19,6 +20,7 @@ for i in range(0,len(firstname)) :
     for j in range(0,len(lastname)):
         names.append(lastname[j]+firstname[i])
 
+random.shuffle(names)
 outputFile = open("namelist.txt",'w');
 for i in range(0,len(names)):
     outputFile.write(names[i]+"\n")
