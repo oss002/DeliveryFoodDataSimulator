@@ -1,6 +1,8 @@
 import random
 import os
 import math
+import json
+
 #load Data from /lists
 idList = open('lists/usernames.txt','r')
 ID = []
@@ -103,4 +105,17 @@ print(len(REVIEW))
 print(len(USER))
 
 #create jsonFile
+with open('STORE_OP_TIME.json','w',encoding='utf-8') as file:
+    json.dump(STORE_OP_TIME, file, ensure_ascii=False, indent='\t')
 
+with open('DERIVERY_TIP.json','w',encoding='utf-8') as file:
+    json.dump(DERIVERY_TIP, file, ensure_ascii=False, indent='\t')
+
+with open('APP_DISCOUNT.json','w',encoding='utf-8') as file:
+    json.dump(APP_DISCOUNT, file, ensure_ascii=False, indent='\t')
+
+with open('REVIEW.json','w',encoding='utf-8') as file:
+    json.dump(REVIEW, file, ensure_ascii=False, indent='\t')
+
+with open('USER.json','w',encoding='utf-8') as file:
+    json.dump(USER, file, ensure_ascii=False, indent='\t')
