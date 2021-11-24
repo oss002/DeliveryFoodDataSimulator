@@ -64,7 +64,7 @@ def makeData1(num_stores, num_delApp, STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT)
 
 
 #REVIEW, USER
-
+#requires number of review, and number of user
 def makeData2(num_review, num_user, REVIEW, USER) :
     random.shuffle(NICKNAME)
     random.shuffle(ID)
@@ -87,7 +87,7 @@ APP_DISCOUNT=[]
 REVIEW=[]
 USER=[]
 
-makeData1(4000,3,STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT)
+makeData1(8000,4,STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT)
 makeData2(1000,1000,REVIEW,USER)
 
 print(STORE_OP_TIME[10])
@@ -95,6 +95,12 @@ print(DERIVERY_TIP[10])
 print(APP_DISCOUNT[10])
 print(REVIEW[10])
 print(USER[10])
+
+print(len(STORE_OP_TIME))
+print(len(DERIVERY_TIP))
+print(len(APP_DISCOUNT))
+print(len(REVIEW))
+print(len(USER))
 
 #create jsonFile
 
