@@ -1,0 +1,3217 @@
+{
+	"store": [
+		{
+			"s_id": 0,
+			"s_name": "배포큰냉면선생",
+			"address": "경기도 수원시 영통구 매탄동 1250-1 1층 103호",
+			"s_phone": "",
+			"order_n": 5300
+		},
+		{
+			"s_id": 1,
+			"s_name": "도로시파스타연정-수원시청점",
+			"address": "경기도 수원시 권선구 권선동 1160-5 1층 점포좌측 코너상가",
+			"s_phone": "050702875992",
+			"order_n": 10517
+		},
+		{
+			"s_id": 2,
+			"s_name": "정성돈가스-영통점",
+			"address": "경기도 수원시 영통구 영통동 1002-13 1층",
+			"s_phone": "050718655542",
+			"order_n": 22378
+		},
+		{
+			"s_id": 3,
+			"s_name": "백호초밥",
+			"address": "경기도 수원시 권선구 권선동 1019-2 3층 1호",
+			"s_phone": "",
+			"order_n": 23569
+		},
+		{
+			"s_id": 4,
+			"s_name": "아그집쭈꾸미-인계점",
+			"address": "경기도 수원시 팔달구 인계동 1020-3 1층",
+			"s_phone": "050352916116",
+			"order_n": 29639
+		},
+		{
+			"s_id": 5,
+			"s_name": "뚠뚠이김밥-광교법조타운점",
+			"address": "경기도 수원시 영통구 하동 985 102호",
+			"s_phone": "",
+			"order_n": 45170
+		},
+		{
+			"s_id": 6,
+			"s_name": "착한설렁탕-인계점",
+			"address": "경기도 수원시 팔달구 인계동 965-9 1층",
+			"s_phone": "",
+			"order_n": 17388
+		},
+		{
+			"s_id": 7,
+			"s_name": "고기랑",
+			"address": "경기도 수원시 팔달구 인계동 1116-6 2층",
+			"s_phone": "",
+			"order_n": 28574
+		},
+		{
+			"s_id": 8,
+			"s_name": "백소정-인계점",
+			"address": "경기도 수원시 팔달구 인계동 1113-10 혁재빌딩 1층",
+			"s_phone": "",
+			"order_n": 20866
+		},
+		{
+			"s_id": 9,
+			"s_name": "채선당도시락&샐러드-수원시청점",
+			"address": "경기도 수원시 권선구 권선동 1013-12 1층 102호",
+			"s_phone": "050702876402",
+			"order_n": 18267
+		},
+		{
+			"s_id": 10,
+			"s_name": "신(辛)춘향전&왕뚝배기김치찌개",
+			"address": "경기도 수원시 팔달구 인계동 1038-16 1층",
+			"s_phone": "050718641306",
+			"order_n": 38621
+		},
+		{
+			"s_id": 11,
+			"s_name": "샌두-수원영통점",
+			"address": "경기도 수원시 영통구 영통동 971-1 벽적골롯데아파트 971-1 벽적골롯데아파트 벽적골롯데아파트 생활편익시설 125호",
+			"s_phone": "050702781771",
+			"order_n": 29165
+		},
+		{
+			"s_id": 12,
+			"s_name": "비앤스수제버거&함박스테이크",
+			"address": "경기도 수원시 권선구 곡반정동 511-3 101호",
+			"s_phone": "050712940576",
+			"order_n": 26678
+		},
+		{
+			"s_id": 13,
+			"s_name": "다담감자탕-본점",
+			"address": "경기도 수원시 장안구 영화동 342-18 터미널보신탕 1층",
+			"s_phone": "",
+			"order_n": 3408
+		},
+		{
+			"s_id": 14,
+			"s_name": "수노타포차-수원본점",
+			"address": "경기도 수원시 팔달구 인계동 1042-6 2층 214호",
+			"s_phone": "",
+			"order_n": 13907
+		},
+		{
+			"s_id": 15,
+			"s_name": "비어웍스-상현역점",
+			"address": "경기도 용인시 수지구 상현동 1132-4 광교 리치안 오피스텔 1132-4 광교 리치안 오피스텔 1층 112호",
+			"s_phone": "050702782125",
+			"order_n": 24225
+		},
+		{
+			"s_id": 16,
+			"s_name": "서초동사람들-광교직영점",
+			"address": "경기도 수원시 영통구 하동 969 1층 101호",
+			"s_phone": "",
+			"order_n": 9432
+		},
+		{
+			"s_id": 17,
+			"s_name": "혼밥학교혼술전공",
+			"address": "경기도 수원시 권선구 권선동 1019-2 3층 302호",
+			"s_phone": "",
+			"order_n": 48433
+		},
+		{
+			"s_id": 18,
+			"s_name": "우가네연탄돼지불고기",
+			"address": "경기도 수원시 팔달구 인계동 999-10 1층",
+			"s_phone": "050712946288",
+			"order_n": 31971
+		},
+		{
+			"s_id": 19,
+			"s_name": "올랄라임실피자",
+			"address": "경기도 용인시 기흥구 영덕동 1021 휴먼시아 흥덕마을4단지 상가동 1층 102호",
+			"s_phone": "",
+			"order_n": 4361
+		},
+		{
+			"s_id": 20,
+			"s_name": "셰프스위트",
+			"address": "경기도 수원시 팔달구 남창동 78 1층 102호",
+			"s_phone": "",
+			"order_n": 23478
+		},
+		{
+			"s_id": 21,
+			"s_name": "장안아구탕",
+			"address": "경기도 수원시 장안구 영화동 275-3 1층",
+			"s_phone": "",
+			"order_n": 45853
+		},
+		{
+			"s_id": 22,
+			"s_name": "이유치킨-수원원천점",
+			"address": "경기도 수원시 영통구 원천동 607 인터프라자 1층 103호",
+			"s_phone": "",
+			"order_n": 49922
+		},
+		{
+			"s_id": 23,
+			"s_name": "삼부자봉평메밀",
+			"address": "경기도 수원시 팔달구 화서동 61-7 1층",
+			"s_phone": "",
+			"order_n": 33007
+		},
+		{
+			"s_id": 24,
+			"s_name": "친구덮밥&샤브샤브-본점",
+			"address": "경기도 수원시 팔달구 인계동 1030-5 1층",
+			"s_phone": "",
+			"order_n": 23409
+		},
+		{
+			"s_id": 25,
+			"s_name": "건쓰와플토스트",
+			"address": "경기도 수원시 권선구 권선동 1049-7 동원빌딩 1층 3호",
+			"s_phone": "",
+			"order_n": 24644
+		},
+		{
+			"s_id": 26,
+			"s_name": "수원JMT치킨",
+			"address": "경기도 수원시 영통구 원천동 29-25 1층 1호",
+			"s_phone": "",
+			"order_n": 11598
+		},
+		{
+			"s_id": 27,
+			"s_name": "미친냉면",
+			"address": "경기도 수원시 권선구 권선동 965-6 205-1호",
+			"s_phone": "",
+			"order_n": 43256
+		},
+		{
+			"s_id": 28,
+			"s_name": "방콕",
+			"address": "경기도 수원시 영통구 하동 989 원희캐슬 광교 에이동 1층 115호",
+			"s_phone": "",
+			"order_n": 46907
+		},
+		{
+			"s_id": 29,
+			"s_name": "Sullivan&파스타&샐러드",
+			"address": "경기도 수원시 영통구 하동 1016-1 광교 SK VIEW Lake B 117",
+			"s_phone": "050352882176",
+			"order_n": 34086
+		},
+		{
+			"s_id": 30,
+			"s_name": "식사준비-권선점",
+			"address": "경기도 수원시 권선구 권선동 1330 권선자이 이편한세상 상가1동 A113(일부)호",
+			"s_phone": "",
+			"order_n": 36982
+		},
+		{
+			"s_id": 31,
+			"s_name": "수빈이네베이커리&죽디저트카페",
+			"address": "경기도 수원시 팔달구 인계동 1005-3 1층 102호",
+			"s_phone": "",
+			"order_n": 42055
+		},
+		{
+			"s_id": 32,
+			"s_name": "명동수제돈까스-세류점",
+			"address": "경기도 수원시 권선구 세류동 1148-63 1층",
+			"s_phone": "050352888166",
+			"order_n": 42406
+		},
+		{
+			"s_id": 33,
+			"s_name": "아그야밥묵자-본점",
+			"address": "경기도 수원시 권선구 권선동 1259-2 1층",
+			"s_phone": "050352942215",
+			"order_n": 15607
+		},
+		{
+			"s_id": 34,
+			"s_name": "파스타1980-수원시청점",
+			"address": "경기도 수원시 권선구 권선동 1019-2 4층 405호",
+			"s_phone": "",
+			"order_n": 34482
+		},
+		{
+			"s_id": 35,
+			"s_name": "화통집-북문점",
+			"address": "경기도 수원시 장안구 영화동 327-1 월드프라자 104호",
+			"s_phone": "",
+			"order_n": 39837
+		},
+		{
+			"s_id": 36,
+			"s_name": "짱닭치킨-조원점",
+			"address": "경기도 수원시 장안구 조원동 770-10 1층",
+			"s_phone": "",
+			"order_n": 3152
+		},
+		{
+			"s_id": 37,
+			"s_name": "한우에진심인집",
+			"address": "경기도 수원시 영통구 매탄동 196 1층",
+			"s_phone": "",
+			"order_n": 24792
+		},
+		{
+			"s_id": 38,
+			"s_name": "호호히닭발",
+			"address": "경기도 수원시 팔달구 화서동 105-18 1층",
+			"s_phone": "",
+			"order_n": 22695
+		},
+		{
+			"s_id": 39,
+			"s_name": "Bigjoepizzachicken&pub",
+			"address": "경기도 수원시 영통구 하동 988-1 107호",
+			"s_phone": "",
+			"order_n": 20195
+		},
+		{
+			"s_id": 40,
+			"s_name": "치킨봉국시",
+			"address": "경기도 수원시 권선구 세류동 477-14 1층",
+			"s_phone": "",
+			"order_n": 37479
+		},
+		{
+			"s_id": 41,
+			"s_name": "오매운닭발",
+			"address": "경기도 수원시 팔달구 우만동 532-27 1층",
+			"s_phone": "",
+			"order_n": 42654
+		},
+		{
+			"s_id": 42,
+			"s_name": "문여사닭강정-팔달본점",
+			"address": "경기도 수원시 팔달구 팔달로3가 118 102호",
+			"s_phone": "050352934692",
+			"order_n": 1486
+		},
+		{
+			"s_id": 43,
+			"s_name": "어부촌-권선점",
+			"address": "경기도 수원시 권선구 권선동 1252-1 1층",
+			"s_phone": "",
+			"order_n": 7790
+		},
+		{
+			"s_id": 44,
+			"s_name": "아빠야샤브바",
+			"address": "경기도 수원시 영통구 매탄동 1263-4 우영프라자Ⅱ 1층 107호",
+			"s_phone": "",
+			"order_n": 38888
+		},
+		{
+			"s_id": 45,
+			"s_name": "단양흑마늘닭강정",
+			"address": "경기도 수원시 팔달구 팔달로2가 112-2 중앙니즈몰 1층 1004호, 1005호",
+			"s_phone": "",
+			"order_n": 41832
+		},
+		{
+			"s_id": 46,
+			"s_name": "백담김치찜-권선점",
+			"address": "경기도 수원시 권선구 세류동 1111-21",
+			"s_phone": "050372570224",
+			"order_n": 17383
+		},
+		{
+			"s_id": 47,
+			"s_name": "역전할머니맥주-광교상현역점",
+			"address": "경기도 용인시 수지구 상현동 1132-1 1층 103호,104호",
+			"s_phone": "050712869578",
+			"order_n": 5374
+		},
+		{
+			"s_id": 48,
+			"s_name": "반반덮밥",
+			"address": "경기도 수원시 영통구 영통동 1010-9 대원빌딩 2층 208호 키친웨이브 2호실",
+			"s_phone": "",
+			"order_n": 20216
+		},
+		{
+			"s_id": 49,
+			"s_name": "퍼펙트파인트",
+			"address": "경기도 수원시 영통구 원천동 589 광교중흥에스클래스 판매시설동 B2층 243호",
+			"s_phone": "",
+			"order_n": 13572
+		},
+		{
+			"s_id": 50,
+			"s_name": "담꾹-수원아주대점",
+			"address": "경기도 수원시 영통구 매탄동 153-127 1층 102호",
+			"s_phone": "",
+			"order_n": 42761
+		},
+		{
+			"s_id": 51,
+			"s_name": "미니꼬마김밥-매탄점",
+			"address": "경기도 수원시 영통구 매탄동 1253-4 1층 103호",
+			"s_phone": "",
+			"order_n": 49174
+		},
+		{
+			"s_id": 52,
+			"s_name": "장호덕손만두-매교점",
+			"address": "경기도 수원시 팔달구 매교동 51-2 1층",
+			"s_phone": "",
+			"order_n": 28919
+		}
+	],
+	"menu": [
+		{
+			"m_name": "배포큰 물냉면",
+			"m_id": 1,
+			"ms_id": 0,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "배포큰 비빔냉면",
+			"m_id": 2,
+			"ms_id": 0,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "나혼자 실속 세트",
+			"m_id": 3,
+			"ms_id": 1,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "둘이서 실속 콤보",
+			"m_id": 4,
+			"ms_id": 1,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "21900"
+		},
+		{
+			"m_name": "둘이서 만찬 세트",
+			"m_id": 5,
+			"ms_id": 1,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "23900"
+		},
+		{
+			"m_name": "정성등심돈까스",
+			"m_id": 6,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "정성치즈돈까스",
+			"m_id": 7,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "정성고구마치즈돈까스",
+			"m_id": 8,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "정성생선까스",
+			"m_id": 9,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "고구마 치즈 돈까스",
+			"m_id": 10,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "돈까스 김치 나베（매콤）",
+			"m_id": 11,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "치즈돈까스 김치 나베（매콤）",
+			"m_id": 12,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "고구마치즈돈까스 김치 나베（매콤／달콤）",
+			"m_id": 13,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "정성우동",
+			"m_id": 14,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "김치우동",
+			"m_id": 15,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "어묵우동",
+			"m_id": 16,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "왕새우튀김우동",
+			"m_id": 17,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "차돌 볶음우동",
+			"m_id": 18,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "해물 볶음우동",
+			"m_id": 19,
+			"ms_id": 2,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "백호모듬초밥 11ps",
+			"m_id": 20,
+			"ms_id": 3,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "백호특초밥 13ps",
+			"m_id": 21,
+			"ms_id": 3,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16500"
+		},
+		{
+			"m_name": "백호 v.i.p 특선 15ps",
+			"m_id": 22,
+			"ms_id": 3,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "22500"
+		},
+		{
+			"m_name": "쭈꾸미볶음",
+			"m_id": 23,
+			"ms_id": 4,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "쭈꾸미볶음＋보쌈（大）",
+			"m_id": 24,
+			"ms_id": 4,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "45000"
+		},
+		{
+			"m_name": "쭈꾸미볶음＋보쌈（中）",
+			"m_id": 25,
+			"ms_id": 4,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "코다리＋쭈꾸미볶음",
+			"m_id": 26,
+			"ms_id": 4,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "50000"
+		},
+		{
+			"m_name": "코다리찜",
+			"m_id": 27,
+			"ms_id": 4,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "뚠뚠이김밥",
+			"m_id": 28,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "2900"
+		},
+		{
+			"m_name": "참치김밥",
+			"m_id": 29,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "생와사비참치김밥",
+			"m_id": 30,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "김치참치김밥",
+			"m_id": 31,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "멸추김밥",
+			"m_id": 32,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "불고기김밥",
+			"m_id": 33,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "돈까스김밥",
+			"m_id": 34,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "크림치즈김밥",
+			"m_id": 35,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "4300"
+		},
+		{
+			"m_name": "햄치즈김밥",
+			"m_id": 36,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "4300"
+		},
+		{
+			"m_name": "묵은지매운참치김밥",
+			"m_id": 37,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "4300"
+		},
+		{
+			"m_name": "크래미김밥",
+			"m_id": 38,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "4300"
+		},
+		{
+			"m_name": "꼬마뚠뚠이",
+			"m_id": 39,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "당면떡볶이",
+			"m_id": 40,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "쫄면",
+			"m_id": 41,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "돌솥비빔밥",
+			"m_id": 42,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "순두부찌개",
+			"m_id": 43,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "오징어덮밥",
+			"m_id": 44,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "제육덮밥",
+			"m_id": 45,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "등심돈까스",
+			"m_id": 46,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "우동",
+			"m_id": 47,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "비빔국수",
+			"m_id": 48,
+			"ms_id": 5,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "설렁탕",
+			"m_id": 49,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "제육덮밥",
+			"m_id": 50,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "전통육개장",
+			"m_id": 51,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "육개장칼국수",
+			"m_id": 52,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "왕만두육개장",
+			"m_id": 53,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "차돌육개장",
+			"m_id": 54,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "내장탕",
+			"m_id": 55,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "전주비빔밥",
+			"m_id": 56,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "콩나물국밥",
+			"m_id": 57,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "순두부찌개",
+			"m_id": 58,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "참치김치찌개",
+			"m_id": 59,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "돼지김치찌개",
+			"m_id": 60,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "사골떡만두국",
+			"m_id": 61,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "갈비찐만두 7개",
+			"m_id": 62,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "왕만두 （고기）",
+			"m_id": 63,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "쭈꾸미만두",
+			"m_id": 64,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "불향가득제육 2인",
+			"m_id": 65,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "밥도둑쭈꾸미 2인",
+			"m_id": 66,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "갈비찜",
+			"m_id": 67,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "부대찌개",
+			"m_id": 68,
+			"ms_id": 6,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 69,
+			"ms_id": 7,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "회냉면（후식）",
+			"m_id": 70,
+			"ms_id": 7,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "물냉면（후식）",
+			"m_id": 71,
+			"ms_id": 7,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "비빔냉면（후식）",
+			"m_id": 72,
+			"ms_id": 7,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "된장찌개",
+			"m_id": 73,
+			"ms_id": 7,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "로스카츠",
+			"m_id": 74,
+			"ms_id": 8,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "모짜렐라 치즈카츠",
+			"m_id": 75,
+			"ms_id": 8,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "에비텐 모듬카츠",
+			"m_id": 76,
+			"ms_id": 8,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "치즈 모듬카츠",
+			"m_id": 77,
+			"ms_id": 8,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "간장제육 도시락",
+			"m_id": 78,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7700"
+		},
+		{
+			"m_name": "고추장제육 도시락",
+			"m_id": 79,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "그릴드치킨 도시락",
+			"m_id": 80,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "닭갈비 도시락",
+			"m_id": 81,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8700"
+		},
+		{
+			"m_name": "오징어볶음 도시락",
+			"m_id": 82,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9200"
+		},
+		{
+			"m_name": "등심돈까스 도시락",
+			"m_id": 83,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "연어구이 도시락",
+			"m_id": 84,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "소불고기 도시락",
+			"m_id": 85,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9400"
+		},
+		{
+			"m_name": "와규떡갈비 도시락",
+			"m_id": 86,
+			"ms_id": 9,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "리얼 딸기바나나우유",
+			"m_id": 87,
+			"ms_id": 11,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "이소라주스 （뷰티／다이어트／피부미용）",
+			"m_id": 88,
+			"ms_id": 11,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "로얄 밀크티",
+			"m_id": 89,
+			"ms_id": 11,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "메론 바나나우유",
+			"m_id": 90,
+			"ms_id": 11,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "비앤스 프라이 버거",
+			"m_id": 91,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "베이직 버거",
+			"m_id": 92,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "치즈 베이직 버거",
+			"m_id": 93,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "에그 후라이 버거",
+			"m_id": 94,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "하와이안 버거",
+			"m_id": 95,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "바비큐 갈릭 칩스 버거",
+			"m_id": 96,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "멜팅 치즈 버거",
+			"m_id": 97,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "통새우 후라이 버거",
+			"m_id": 98,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "더블그램 버거",
+			"m_id": 99,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "프리미엄 버거",
+			"m_id": 100,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "비앤스 스페셜 버거",
+			"m_id": 101,
+			"ms_id": 12,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "감자탕（반조리, 공깃밥 별도）",
+			"m_id": 102,
+			"ms_id": 13,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "뼈해장국（완조리, 공깃밥 제공）",
+			"m_id": 103,
+			"ms_id": 13,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "제육볶음（공기밥 별도）",
+			"m_id": 104,
+			"ms_id": 13,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "비빔밥",
+			"m_id": 105,
+			"ms_id": 13,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "낙지덮밥",
+			"m_id": 106,
+			"ms_id": 14,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "제육덮밥",
+			"m_id": 107,
+			"ms_id": 14,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "떡만두국",
+			"m_id": 108,
+			"ms_id": 14,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "블랙페퍼치킨（Best）",
+			"m_id": 109,
+			"ms_id": 15,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "블랙세사미치킨",
+			"m_id": 110,
+			"ms_id": 15,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "너티양념치킨",
+			"m_id": 111,
+			"ms_id": 15,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "반반（후라이드반＋양념반）",
+			"m_id": 112,
+			"ms_id": 15,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "사골 시래기 국밥",
+			"m_id": 113,
+			"ms_id": 16,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "꼬막 비빔밥",
+			"m_id": 114,
+			"ms_id": 16,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "해초 비빔밥",
+			"m_id": 115,
+			"ms_id": 16,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 116,
+			"ms_id": 17,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "곤드레밥",
+			"m_id": 117,
+			"ms_id": 17,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "탕수육（200g이상）",
+			"m_id": 118,
+			"ms_id": 17,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "도토리묵（200g이상）",
+			"m_id": 119,
+			"ms_id": 17,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "사각 김치전（200g）이상",
+			"m_id": 120,
+			"ms_id": 17,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "계란말이",
+			"m_id": 121,
+			"ms_id": 17,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "맥주안주",
+			"m_id": 122,
+			"ms_id": 17,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "튀김안주",
+			"m_id": 123,
+			"ms_id": 17,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "활짝 PIZZA SET",
+			"m_id": 124,
+			"ms_id": 19,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "주름 PIZZA SET",
+			"m_id": 125,
+			"ms_id": 19,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "웃음 PIZZA SET",
+			"m_id": 126,
+			"ms_id": 19,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "OH LA LA PIZZA SET",
+			"m_id": 127,
+			"ms_id": 19,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "해물토마토리소토",
+			"m_id": 128,
+			"ms_id": 20,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "해물크림리소토",
+			"m_id": 129,
+			"ms_id": 20,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "트러플크림리소토",
+			"m_id": 130,
+			"ms_id": 20,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "구운 관자와 시금치리소토",
+			"m_id": 131,
+			"ms_id": 20,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "아구탕（비조리）",
+			"m_id": 132,
+			"ms_id": 21,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "아구찜",
+			"m_id": 133,
+			"ms_id": 21,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "맑은탕（지리）",
+			"m_id": 134,
+			"ms_id": 21,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "파스타치요（베이크시리즈）",
+			"m_id": 135,
+			"ms_id": 22,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "18900"
+		},
+		{
+			"m_name": "파스타치요（베이크후라이드,순살）",
+			"m_id": 136,
+			"ms_id": 22,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "19900"
+		},
+		{
+			"m_name": "파스타치요（크리스피시리즈）",
+			"m_id": 137,
+			"ms_id": 22,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "18900"
+		},
+		{
+			"m_name": "파스타치요（크리스피시리즈,순살）",
+			"m_id": 138,
+			"ms_id": 22,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "19900"
+		},
+		{
+			"m_name": "물막국수",
+			"m_id": 139,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "비빔막국수",
+			"m_id": 140,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "메밀보리밥",
+			"m_id": 141,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "메밀칼국수",
+			"m_id": 142,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "메밀수제비",
+			"m_id": 143,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "얼큰메밀칼국수",
+			"m_id": 144,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "얼큰메밀수제비",
+			"m_id": 145,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "메밀떡만두국",
+			"m_id": 146,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "메밀왕만두",
+			"m_id": 147,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "메밀전병",
+			"m_id": 148,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "메밀전",
+			"m_id": 149,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "메밀부추전",
+			"m_id": 150,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "메밀해물파전",
+			"m_id": 151,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "메밀싹무침",
+			"m_id": 152,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "보쌈",
+			"m_id": 153,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "수육",
+			"m_id": 154,
+			"ms_id": 23,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "수제돈까스",
+			"m_id": 155,
+			"ms_id": 24,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "낚지볶음",
+			"m_id": 156,
+			"ms_id": 24,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "국물소불고기",
+			"m_id": 157,
+			"ms_id": 24,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "미니 모카커피빵 （（ NEW ））",
+			"m_id": 158,
+			"ms_id": 25,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "작은이모 우동볶이 （（ NEW ））",
+			"m_id": 159,
+			"ms_id": 25,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9300"
+		},
+		{
+			"m_name": "미니샐러드",
+			"m_id": 160,
+			"ms_id": 26,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "맥케인 양념 감자튀김",
+			"m_id": 161,
+			"ms_id": 26,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "쥐포튀김 6장",
+			"m_id": 162,
+			"ms_id": 26,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "멘보샤 5개",
+			"m_id": 163,
+			"ms_id": 26,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "치즈볼 4개",
+			"m_id": 164,
+			"ms_id": 26,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "미쳐버린 비빔냉면",
+			"m_id": 165,
+			"ms_id": 27,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "미쳐버린 물냉면",
+			"m_id": 166,
+			"ms_id": 27,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "대박냉면（양많은분들 가시죠）",
+			"m_id": 167,
+			"ms_id": 27,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "미친세트（비＋물）",
+			"m_id": 168,
+			"ms_id": 27,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "제주돼지 4총사",
+			"m_id": 169,
+			"ms_id": 27,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "세트（태국쌀국수 꾸웨이띠오＋볶음쌀국수 퍼싸오＋야채춘권＋음료）",
+			"m_id": 170,
+			"ms_id": 28,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "새우 오징어 화지타 샐러드",
+			"m_id": 171,
+			"ms_id": 29,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "그릴 닭 가슴살 샐러드",
+			"m_id": 172,
+			"ms_id": 29,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "고깃집 물냉면",
+			"m_id": 173,
+			"ms_id": 30,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6900"
+		},
+		{
+			"m_name": "고깃집 비빔냉면",
+			"m_id": 174,
+			"ms_id": 30,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "돼지양념구이",
+			"m_id": 175,
+			"ms_id": 30,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "마카롱（프랑스 오리지널）",
+			"m_id": 176,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "대만식 햄치즈 연유샌드 1개（4겹샌드）",
+			"m_id": 177,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "모카번 1개（커피의맛）",
+			"m_id": 178,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "초코 브라우니 1개（찐~초코）",
+			"m_id": 179,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "초코 머핀 1개",
+			"m_id": 180,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "치즈 머핀 1개",
+			"m_id": 181,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "베이비슈",
+			"m_id": 182,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "크로와상",
+			"m_id": 183,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "크로크무슈 1개（햄 치즈）",
+			"m_id": 184,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "몽블랑 스페츄리 1개（메이플）",
+			"m_id": 185,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "허니허니 브레드 1개（생크림 , 3가지의맛）",
+			"m_id": 186,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "크림만땅 카스테라 1개（빅 사이즈）",
+			"m_id": 187,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "갈릭크림치즈 브레드 1개（8쪽 원형 브레드）",
+			"m_id": 188,
+			"ms_id": 31,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "생선까스",
+			"m_id": 189,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "치킨까스",
+			"m_id": 190,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "돈까스",
+			"m_id": 191,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "데리야끼 돈까스",
+			"m_id": 192,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "치즈돈까스",
+			"m_id": 193,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "치즈고구마돈까스",
+			"m_id": 194,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "떡갈비 스테이크",
+			"m_id": 195,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "피자돈까스",
+			"m_id": 196,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "곱배기돈까스",
+			"m_id": 197,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "모듬까스（생선1＋돈까스1＋치킨1＋함박1）",
+			"m_id": 198,
+			"ms_id": 32,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "생고기＋스팸김치찌개",
+			"m_id": 199,
+			"ms_id": 33,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "알탕",
+			"m_id": 200,
+			"ms_id": 33,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "동태탕",
+			"m_id": 201,
+			"ms_id": 33,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "해장 파스타",
+			"m_id": 202,
+			"ms_id": 34,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "베이컨 크림 파스타",
+			"m_id": 203,
+			"ms_id": 34,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "해산물 크림 파스타",
+			"m_id": 204,
+			"ms_id": 34,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "해산물 토마토 파스타",
+			"m_id": 205,
+			"ms_id": 34,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "해산물 로제 파스타",
+			"m_id": 206,
+			"ms_id": 34,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "새우 오일 파스타",
+			"m_id": 207,
+			"ms_id": 34,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "감자탕",
+			"m_id": 208,
+			"ms_id": 35,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "뼈찜",
+			"m_id": 209,
+			"ms_id": 35,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "소곱창전골 2~3인분",
+			"m_id": 210,
+			"ms_id": 35,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "소불고기 2인",
+			"m_id": 211,
+			"ms_id": 35,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "김치찌개 1인",
+			"m_id": 212,
+			"ms_id": 35,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "포치킨＋콜라 500mL",
+			"m_id": 213,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "쓰리치킨＋콜라 500mL",
+			"m_id": 214,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "한마리 반반뼈치킨＋콜라 500mL",
+			"m_id": 215,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "한마리 반반 순살치킨＋콜라 500mL",
+			"m_id": 216,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "두마리 뼈후라이드치킨＋콜라 500mL",
+			"m_id": 217,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "두마리 순살후라이드치킨＋콜라 500mL",
+			"m_id": 218,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "치킨과 똥집사이",
+			"m_id": 219,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "똥집과 감튀사이",
+			"m_id": 220,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "치킨과 볶밥사이",
+			"m_id": 221,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "치킨과타코사이",
+			"m_id": 222,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "크리스피",
+			"m_id": 223,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "양념",
+			"m_id": 224,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "어니언치킨",
+			"m_id": 225,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "파닭치킨",
+			"m_id": 226,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "고추마요치킨",
+			"m_id": 227,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "와사비마요치킨",
+			"m_id": 228,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "깻잎간장치킨",
+			"m_id": 229,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "마늘간장치킨",
+			"m_id": 230,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "불닭치킨",
+			"m_id": 231,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "스트라이프 양념치킨",
+			"m_id": 232,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "스트라이프 불닭치킨",
+			"m_id": 233,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "깐풍치킨",
+			"m_id": 234,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "양념파닭",
+			"m_id": 235,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "커리치킨",
+			"m_id": 236,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "매운커리치킨",
+			"m_id": 237,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "그냥간장치킨",
+			"m_id": 238,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "매운간장치킨",
+			"m_id": 239,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "스위트델리치킨",
+			"m_id": 240,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "샤워크림치킨",
+			"m_id": 241,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "치즈스노우 치킨",
+			"m_id": 242,
+			"ms_id": 36,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "경상도 노란 콩잎김치 150g",
+			"m_id": 243,
+			"ms_id": 37,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "밥도둑 젓갈 양념고추 200g",
+			"m_id": 244,
+			"ms_id": 37,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "별미콩나물 장조림 150g",
+			"m_id": 245,
+			"ms_id": 37,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "매장인기 간장고추 150g",
+			"m_id": 246,
+			"ms_id": 37,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "매장인기 어묵볶음",
+			"m_id": 247,
+			"ms_id": 37,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "골라먹는 한우 장조림",
+			"m_id": 248,
+			"ms_id": 37,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "국물닭발",
+			"m_id": 249,
+			"ms_id": 38,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "무뼈닭발",
+			"m_id": 250,
+			"ms_id": 38,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "통닭발",
+			"m_id": 251,
+			"ms_id": 38,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "소금똥집볶음",
+			"m_id": 252,
+			"ms_id": 38,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "슈퍼 콤비네이션（R）",
+			"m_id": 253,
+			"ms_id": 39,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16700"
+		},
+		{
+			"m_name": "빅죠 페퍼로니（R）",
+			"m_id": 254,
+			"ms_id": 39,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16700"
+		},
+		{
+			"m_name": "슈퍼 불고기（R）",
+			"m_id": 255,
+			"ms_id": 39,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16700"
+		},
+		{
+			"m_name": "불라피뇨（매콤）（R）",
+			"m_id": 256,
+			"ms_id": 39,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "17700"
+		},
+		{
+			"m_name": "직화 스테이크 앤 쉬림프（R）",
+			"m_id": 257,
+			"ms_id": 39,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "18700"
+		},
+		{
+			"m_name": "핫치킨 앤 쉬림프（매콤）（R）",
+			"m_id": 258,
+			"ms_id": 39,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "18700"
+		},
+		{
+			"m_name": "（추천）옛날통닭",
+			"m_id": 259,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "（추천）숙성마늘치킨",
+			"m_id": 260,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "반반치킨（양념＋후라이드）",
+			"m_id": 261,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "양념치킨",
+			"m_id": 262,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "매운양념치킨",
+			"m_id": 263,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "봉다리치킨（다리＋날개）",
+			"m_id": 264,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "숙성후라이드",
+			"m_id": 265,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "순살치킨",
+			"m_id": 266,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "순살양념치킨",
+			"m_id": 267,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "수원왕갈비통닭",
+			"m_id": 268,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "숙성간장치킨",
+			"m_id": 269,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "뼈닭발",
+			"m_id": 270,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "무뼈닭발",
+			"m_id": 271,
+			"ms_id": 40,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "세트（오닭발＋마늘똥집）",
+			"m_id": 272,
+			"ms_id": 41,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "세트（오닭발＋마늘똥집＋주먹밥）",
+			"m_id": 273,
+			"ms_id": 41,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "세트（오닭발＋후라이드）",
+			"m_id": 274,
+			"ms_id": 41,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "세트（오닭발＋날치알주먹밥＋콩나물국）",
+			"m_id": 275,
+			"ms_id": 41,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "세트（무뼈닭발＋날치알주먹밥＋콩나물국）",
+			"m_id": 276,
+			"ms_id": 41,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "반반 set（닭강정＋오징어 강정）",
+			"m_id": 277,
+			"ms_id": 42,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "반반 set（닭강정＋타코야끼）",
+			"m_id": 278,
+			"ms_id": 42,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "계란말이",
+			"m_id": 279,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "계란찜",
+			"m_id": 280,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "스팸구이",
+			"m_id": 281,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "코카콜라",
+			"m_id": 282,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "사이다",
+			"m_id": 283,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "환타",
+			"m_id": 284,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "주먹밥",
+			"m_id": 285,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "계란후라이",
+			"m_id": 286,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 287,
+			"ms_id": 43,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "오뎅 추가",
+			"m_id": 288,
+			"ms_id": 44,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "피쉬볼 추가",
+			"m_id": 289,
+			"ms_id": 44,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "우삼겹 추가",
+			"m_id": 290,
+			"ms_id": 44,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "야채 추가",
+			"m_id": 291,
+			"ms_id": 44,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "우동 사리 추가",
+			"m_id": 292,
+			"ms_id": 44,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "평오뎅（꼬불이） 꼬치 추가",
+			"m_id": 293,
+			"ms_id": 44,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "공기밥 추가",
+			"m_id": 294,
+			"ms_id": 44,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "날계란 추가",
+			"m_id": 295,
+			"ms_id": 44,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "500"
+		},
+		{
+			"m_name": "",
+			"m_id": 296,
+			"ms_id": 45,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": ""
+		},
+		{
+			"m_name": "",
+			"m_id": 297,
+			"ms_id": 45,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": ""
+		},
+		{
+			"m_name": "삼겹김치찜（강추）",
+			"m_id": 298,
+			"ms_id": 46,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "목살김치찜（강추）",
+			"m_id": 299,
+			"ms_id": 46,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "참치김치찜",
+			"m_id": 300,
+			"ms_id": 46,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "스팸김치찜（인기）",
+			"m_id": 301,
+			"ms_id": 46,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "고등어김치찜",
+			"m_id": 302,
+			"ms_id": 46,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "꽁치김치찜",
+			"m_id": 303,
+			"ms_id": 46,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "（신메뉴）불닭 로제 파스타",
+			"m_id": 304,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "（신메뉴）찐불맛 뼈닭발",
+			"m_id": 305,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "시원한황도",
+			"m_id": 306,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "치즈라볶이 튀김범벅",
+			"m_id": 307,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "짜파구리 튀김범벅",
+			"m_id": 308,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "치즈라볶이",
+			"m_id": 309,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "짜파구리",
+			"m_id": 310,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "（불）짬뽕탕",
+			"m_id": 311,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "어묵탕",
+			"m_id": 312,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "할매네 바지락탕",
+			"m_id": 313,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "모듬소세지",
+			"m_id": 314,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "수제소세지",
+			"m_id": 315,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "골빔면",
+			"m_id": 316,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "살얼음 파인애플",
+			"m_id": 317,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "할매콤볼",
+			"m_id": 318,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "할매네 술국",
+			"m_id": 319,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "팡팡 미트볼",
+			"m_id": 320,
+			"ms_id": 47,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "（NEW）강남뚝배기불고기덮밥 1인분",
+			"m_id": 321,
+			"ms_id": 48,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "1인 인기세트（덮밥1＋튀김3종＋음료1） 1인",
+			"m_id": 322,
+			"ms_id": 48,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "（best）종로식오징어덮밥&도시락 1인분",
+			"m_id": 323,
+			"ms_id": 48,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "엄마손 매콤제육덮밥 1인분",
+			"m_id": 324,
+			"ms_id": 48,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "집밥돼지불고기간장덮밥 1인분",
+			"m_id": 325,
+			"ms_id": 48,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "돈까스덮밥 1인분",
+			"m_id": 326,
+			"ms_id": 48,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "치킨가라아게덮밥&도시락 1인분",
+			"m_id": 327,
+			"ms_id": 48,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "더블 치즈 페퍼로니 피자",
+			"m_id": 328,
+			"ms_id": 49,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "청양 페퍼로니 피자",
+			"m_id": 329,
+			"ms_id": 49,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "베이컨 하와이언 피자",
+			"m_id": 330,
+			"ms_id": 49,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "베이컨 포테이토 피자",
+			"m_id": 331,
+			"ms_id": 49,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "부대찌개",
+			"m_id": 332,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "안동찜닭",
+			"m_id": 333,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "제육볶음",
+			"m_id": 334,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "소고기국",
+			"m_id": 335,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "즉석떡볶이",
+			"m_id": 336,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "치즈떡볶이",
+			"m_id": 337,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "12900"
+		},
+		{
+			"m_name": "차돌된장찌개",
+			"m_id": 338,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "닭볶음탕",
+			"m_id": 339,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "백합미역국",
+			"m_id": 340,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "8700"
+		},
+		{
+			"m_name": "크림파스타",
+			"m_id": 341,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "크림떡볶이",
+			"m_id": 342,
+			"ms_id": 50,
+			"category": "분식",
+			"spicy": 2,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "우동",
+			"m_id": 343,
+			"ms_id": 51,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "쫄면",
+			"m_id": 344,
+			"ms_id": 51,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "김치우동",
+			"m_id": 345,
+			"ms_id": 51,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "왕고기만두 5개",
+			"m_id": 346,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "왕김치만두 5개",
+			"m_id": 347,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "새우고기만두 6개",
+			"m_id": 348,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "새우김치만두 6개",
+			"m_id": 349,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "꼬마고기만두 8개",
+			"m_id": 350,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "꼬마김치만두 8개",
+			"m_id": 351,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "갈비고기만두 8개",
+			"m_id": 352,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "아주매운김치만두 8개",
+			"m_id": 353,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 3,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "쌀옥수수 찐빵 6개",
+			"m_id": 354,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "전골용만두 1팩15개",
+			"m_id": 355,
+			"ms_id": 52,
+			"category": "분식",
+			"spicy": 1,
+			"as_price": "11000"
+		}
+	]
+}

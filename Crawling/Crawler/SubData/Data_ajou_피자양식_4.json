@@ -1,0 +1,9573 @@
+{
+	"store": [
+		{
+			"s_id": 0,
+			"s_name": "집스테이크-수원직영점",
+			"address": "경기도 수원시 영통구 매탄동 101-4",
+			"s_phone": "050718611751",
+			"order_n": 43752
+		},
+		{
+			"s_id": 1,
+			"s_name": "모던한식당-수원매탄점",
+			"address": "경기도 수원시 영통구 매탄동 207-26 1층 우측",
+			"s_phone": "050352934702",
+			"order_n": 20511
+		},
+		{
+			"s_id": 2,
+			"s_name": "올랄라임실피자",
+			"address": "경기도 용인시 기흥구 영덕동 1021 휴먼시아 흥덕마을4단지 상가동 1층 102호",
+			"s_phone": "",
+			"order_n": 8964
+		},
+		{
+			"s_id": 3,
+			"s_name": "파도랑미국식수제피자",
+			"address": "경기도 수원시 영통구 하동 970-1 1층 103, 104호",
+			"s_phone": "",
+			"order_n": 4767
+		},
+		{
+			"s_id": 4,
+			"s_name": "하우드",
+			"address": "경기도 수원시 팔달구 교동 11-31 1층",
+			"s_phone": "",
+			"order_n": 23275
+		},
+		{
+			"s_id": 5,
+			"s_name": "셰프스위트",
+			"address": "경기도 수원시 팔달구 남창동 78 1층 102호",
+			"s_phone": "",
+			"order_n": 39435
+		},
+		{
+			"s_id": 6,
+			"s_name": "커피에밥은어때",
+			"address": "경기도 수원시 팔달구 인계동 319-6 신반포아파트 1층 111,112,114호",
+			"s_phone": "",
+			"order_n": 41133
+		},
+		{
+			"s_id": 7,
+			"s_name": "GO집스테이크도시락-수원직영점",
+			"address": "경기도 수원시 영통구 매탄동 101-4",
+			"s_phone": "050718611750",
+			"order_n": 21156
+		},
+		{
+			"s_id": 8,
+			"s_name": "소년의레시피",
+			"address": "경기도 수원시 권선구 탑동 843-6 1층",
+			"s_phone": "050352845232",
+			"order_n": 3430
+		},
+		{
+			"s_id": 9,
+			"s_name": "왓수다",
+			"address": "경기도 용인시 수지구 상현동 1117-2 1층 101호",
+			"s_phone": "",
+			"order_n": 18318
+		},
+		{
+			"s_id": 10,
+			"s_name": "태리로제떡볶이-아주대점",
+			"address": "경기도 수원시 영통구 원천동 29-1 지하1층",
+			"s_phone": "",
+			"order_n": 4572
+		},
+		{
+			"s_id": 11,
+			"s_name": "쉐프뺑의프리미엄스테이크",
+			"address": "경기도 수원시 팔달구 인계동 1115-18 3층",
+			"s_phone": "",
+			"order_n": 11814
+		},
+		{
+			"s_id": 12,
+			"s_name": "삼삼버거-매탄점",
+			"address": "경기도 수원시 영통구 매탄동 1217 한국아파트 상가동 106호",
+			"s_phone": "",
+			"order_n": 15326
+		},
+		{
+			"s_id": 13,
+			"s_name": "집에서안주를Beer쓰",
+			"address": "경기도 수원시 영통구 원천동 572-3 101호",
+			"s_phone": "050718608833",
+			"order_n": 43944
+		},
+		{
+			"s_id": 14,
+			"s_name": "배떡-매탄점",
+			"address": "경기도 수원시 영통구 매탄동 196-95 1층",
+			"s_phone": "050352937373",
+			"order_n": 11536
+		},
+		{
+			"s_id": 15,
+			"s_name": "고칸아주대점",
+			"address": "경기도 수원시 팔달구 우만동 61-1 1층",
+			"s_phone": "050712998937",
+			"order_n": 13496
+		},
+		{
+			"s_id": 16,
+			"s_name": "몽글몽글카레-영통점",
+			"address": "경기도 수원시 영통구 원천동 72-31 1층 102호",
+			"s_phone": "",
+			"order_n": 18431
+		},
+		{
+			"s_id": 17,
+			"s_name": "1인용연어덮밥전문",
+			"address": "경기도 수원시 팔달구 우만동 61-1 1층",
+			"s_phone": "050712999528",
+			"order_n": 40525
+		},
+		{
+			"s_id": 18,
+			"s_name": "피자마루-세류점",
+			"address": "경기도 수원시 권선구 권선동 1000 1층",
+			"s_phone": "",
+			"order_n": 9992
+		},
+		{
+			"s_id": 19,
+			"s_name": "파라삼겹&짜글이",
+			"address": "경기도 수원시 영통구 매탄동 101-4",
+			"s_phone": "050718611608",
+			"order_n": 43907
+		},
+		{
+			"s_id": 20,
+			"s_name": "아주대순살두마리치킨",
+			"address": "경기도 수원시 팔달구 우만동 575-1 아록빌딩 1층 105호",
+			"s_phone": "050352859121",
+			"order_n": 31355
+		},
+		{
+			"s_id": 21,
+			"s_name": "맥쓰(MEXX)세계치킨-광교호수공원점",
+			"address": "경기도 수원시 영통구 하동 1019 광교 더샵 레이크파크 B1층 20호,21호",
+			"s_phone": "",
+			"order_n": 41895
+		},
+		{
+			"s_id": 22,
+			"s_name": "홀덤피자치킨",
+			"address": "경기도 수원시 팔달구 영동 42-8 2층",
+			"s_phone": "",
+			"order_n": 5419
+		},
+		{
+			"s_id": 23,
+			"s_name": "포메인-아주대점",
+			"address": "경기도 수원시 팔달구 우만동 85-3 우만동R타워 204호",
+			"s_phone": "050352869634",
+			"order_n": 47482
+		},
+		{
+			"s_id": 24,
+			"s_name": "1번떡볶이-광교점",
+			"address": "경기도 수원시 영통구 이의동 1352 에듀하임1309오피스텔 101동 105호",
+			"s_phone": "050712993917",
+			"order_n": 38959
+		},
+		{
+			"s_id": 25,
+			"s_name": "맛집큐브스테이크",
+			"address": "경기도 수원시 팔달구 우만동 61-1 1층",
+			"s_phone": "050712998976",
+			"order_n": 37856
+		},
+		{
+			"s_id": 26,
+			"s_name": "분식먹고브런치먹고",
+			"address": "경기도 수원시 영통구 이의동 1352 에듀하임1309오피스텔 101동 105호",
+			"s_phone": "050712993911",
+			"order_n": 6499
+		},
+		{
+			"s_id": 27,
+			"s_name": "스테이크&일식돈까스",
+			"address": "경기도 수원시 팔달구 우만동 61-1 1층",
+			"s_phone": "050712998954",
+			"order_n": 20597
+		},
+		{
+			"s_id": 28,
+			"s_name": "1인분&푸드테라피",
+			"address": "경기도 수원시 팔달구 우만동 67-4 104호",
+			"s_phone": "050352877530",
+			"order_n": 20666
+		},
+		{
+			"s_id": 29,
+			"s_name": "파스타1980-수원시청점",
+			"address": "경기도 수원시 권선구 권선동 1019-2 4층 405호",
+			"s_phone": "",
+			"order_n": 24139
+		},
+		{
+			"s_id": 30,
+			"s_name": "오사카타코야끼-매탄아대점",
+			"address": "경기도 수원시 영통구 매탄동 153-97 102호",
+			"s_phone": "050352583148",
+			"order_n": 12494
+		},
+		{
+			"s_id": 31,
+			"s_name": "고도리비스트로-본점",
+			"address": "경기도 수원시 영통구 이의동 1261-8 1층 101호",
+			"s_phone": "",
+			"order_n": 38667
+		},
+		{
+			"s_id": 32,
+			"s_name": "프랭크버거-광교에듀타운점",
+			"address": "경기도 수원시 영통구 이의동 1348 광교중앙역 SK VIEW 비동 141호",
+			"s_phone": "",
+			"order_n": 25772
+		},
+		{
+			"s_id": 33,
+			"s_name": "별미간장새우전문점",
+			"address": "경기도 수원시 팔달구 우만동 61-1 1층",
+			"s_phone": "050712998956",
+			"order_n": 26194
+		},
+		{
+			"s_id": 34,
+			"s_name": "1인분&떡볶이토스트",
+			"address": "경기도 수원시 영통구 이의동 1352 에듀하임1309오피스텔 101동 105호",
+			"s_phone": "050712993910",
+			"order_n": 30635
+		},
+		{
+			"s_id": 35,
+			"s_name": "을지로만선호프-직영광교점",
+			"address": "경기도 수원시 영통구 하동 1021 힐스테이트 광교 301동 제지2층 153호",
+			"s_phone": "",
+			"order_n": 32332
+		},
+		{
+			"s_id": 36,
+			"s_name": "돈쫄엔파스타",
+			"address": "경기도 수원시 팔달구 우만동 552 1층 101호",
+			"s_phone": "050718634716",
+			"order_n": 30125
+		},
+		{
+			"s_id": 37,
+			"s_name": "돈카츠마켙-광교점",
+			"address": "경기도 수원시 영통구 이의동 1331 광교푸르지오 월드마크 1331 광교푸르지오 월드마크, 월드스퀘어 204동 비1층 비-05호",
+			"s_phone": "050352995545",
+			"order_n": 23349
+		},
+		{
+			"s_id": 38,
+			"s_name": "호아면-황골점",
+			"address": "경기도 수원시 영통구 영통동 950-2 1층",
+			"s_phone": "050352885447",
+			"order_n": 47156
+		},
+		{
+			"s_id": 39,
+			"s_name": "우주샐러드",
+			"address": "경기도 수원시 영통구 신동 340-7 102호",
+			"s_phone": "050352953451",
+			"order_n": 42525
+		},
+		{
+			"s_id": 40,
+			"s_name": "써브웨이-광교중앙점",
+			"address": "경기도 수원시 영통구 이의동 1331 광교푸르지오 월드마크, 월드스퀘어 204동 1층 1-017호",
+			"s_phone": "050718658428",
+			"order_n": 34158
+		},
+		{
+			"s_id": 41,
+			"s_name": "세상의모든아침-광교점",
+			"address": "경기도 수원시 영통구 원천동 593 광교아이파크 판매에이치동 3층 321~328호",
+			"s_phone": "",
+			"order_n": 2100
+		},
+		{
+			"s_id": 42,
+			"s_name": "단아한브런치",
+			"address": "경기도 수원시 영통구 이의동 1369-2 국제프라자 1층 104호",
+			"s_phone": "",
+			"order_n": 34540
+		},
+		{
+			"s_id": 43,
+			"s_name": "GTSBURGER",
+			"address": "경기도 수원시 영통구 영통동 968 동보.신명아파트 상가동 지하1층 B5호",
+			"s_phone": "",
+			"order_n": 1325
+		},
+		{
+			"s_id": 44,
+			"s_name": "맨하탄버거&치킨-수원점",
+			"address": "경기도 수원시 팔달구 매산로2가 6-1 1층",
+			"s_phone": "",
+			"order_n": 46149
+		},
+		{
+			"s_id": 45,
+			"s_name": "백화원-수원점",
+			"address": "경기도 수원시 팔달구 우만동 484-23 1층",
+			"s_phone": "",
+			"order_n": 35184
+		},
+		{
+			"s_id": 46,
+			"s_name": "샐러드박스-광교호수점",
+			"address": "경기도 수원시 영통구 하동 1015 광교 효성해링턴 타워 레이크 1동 109호",
+			"s_phone": "050352956244",
+			"order_n": 7619
+		},
+		{
+			"s_id": 47,
+			"s_name": "한끼집밥-본점",
+			"address": "경기도 수원시 팔달구 인계동 1127-1 한화 꿈에그린 파크 1층 107호",
+			"s_phone": "",
+			"order_n": 16877
+		},
+		{
+			"s_id": 48,
+			"s_name": "Bigjoepizzachicken&pub",
+			"address": "경기도 수원시 영통구 하동 988-1 107호",
+			"s_phone": "",
+			"order_n": 19826
+		},
+		{
+			"s_id": 49,
+			"s_name": "쏭남아쌀국수&볶음면",
+			"address": "경기도 수원시 영통구 하동 989 원희캐슬 광교 A동 1층 116호",
+			"s_phone": "",
+			"order_n": 23849
+		},
+		{
+			"s_id": 50,
+			"s_name": "149플라밍고",
+			"address": "경기도 수원시 영통구 하동 960 1층 101호",
+			"s_phone": "",
+			"order_n": 46576
+		},
+		{
+			"s_id": 51,
+			"s_name": "빛다리",
+			"address": "경기도 수원시 영통구 원천동 593 광교아이파크 판매제이동 160~167",
+			"s_phone": "",
+			"order_n": 45124
+		},
+		{
+			"s_id": 52,
+			"s_name": "태국식팟타이전문점-트립아시아",
+			"address": "경기도 수원시 팔달구 인계동 1120-3 2층",
+			"s_phone": "050718632501",
+			"order_n": 8382
+		},
+		{
+			"s_id": 53,
+			"s_name": "하늘돈까스-동수원점",
+			"address": "경기도 수원시 영통구 매탄동 130-21 104",
+			"s_phone": "050352598784",
+			"order_n": 230
+		},
+		{
+			"s_id": 54,
+			"s_name": "타코비-수원인계점",
+			"address": "경기도 수원시 팔달구 인계동 1008-9 1008-9 1층 103호",
+			"s_phone": "050352845319",
+			"order_n": 28388
+		},
+		{
+			"s_id": 55,
+			"s_name": "취향저격안심탕수육-인계점",
+			"address": "경기도 수원시 팔달구 인계동 1025-4 1층",
+			"s_phone": "050712945558",
+			"order_n": 49659
+		},
+		{
+			"s_id": 56,
+			"s_name": "뉴욕백반수제버거&파스타",
+			"address": "경기도 수원시 영통구 이의동 1331 광교푸르지오 월드마크, 월드스퀘어 204동 B1층 B-54호",
+			"s_phone": "050352842321",
+			"order_n": 42433
+		}
+	],
+	"menu": [
+		{
+			"m_name": "（쌈채소） 삼겹살 도시락（250g）",
+			"m_id": 1,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "（파채）삼겹살 도시락 200g",
+			"m_id": 2,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "（샐러드） 삼겹살 도시락 200g",
+			"m_id": 3,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "매운떙초삼겹 도시락 200g",
+			"m_id": 4,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "갈비맛삼겹 도시락 200g",
+			"m_id": 5,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "SMART 비프스테이크 고기만200g",
+			"m_id": 6,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "（프리미엄）비프스테이크도시락（200g）",
+			"m_id": 7,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16500"
+		},
+		{
+			"m_name": "（인기）SMART 간딴 삼겹 고기만 300g",
+			"m_id": 8,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "（인기）SMART 반반 간딴 삼겹 고기만 400g",
+			"m_id": 9,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "（대용량）간딴 삼겹 고기만",
+			"m_id": 10,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "크림어니언 치킨가라아게 도시락",
+			"m_id": 11,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "쌈채소 세트",
+			"m_id": 12,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "쌈채소（10장）",
+			"m_id": 13,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "넓적밥（밥＋계란후라이）",
+			"m_id": 14,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 15,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "계란후라이",
+			"m_id": 16,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "통마늘구이",
+			"m_id": 17,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "구운양파",
+			"m_id": 18,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "해쉬브라운치즈구이",
+			"m_id": 19,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "미니샐러드",
+			"m_id": 20,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "파저리 추가",
+			"m_id": 21,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "생수 500mL",
+			"m_id": 22,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "씨그램 탄산수 350mL",
+			"m_id": 23,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "코카콜라 500mL",
+			"m_id": 24,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "코카콜라 1.25L",
+			"m_id": 25,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "스프라이트 500mL",
+			"m_id": 26,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "스프라이트 1.25L",
+			"m_id": 27,
+			"ms_id": 0,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "통삼겹 오븐구이（300g）",
+			"m_id": 28,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "참목살 오븐구이（300g）",
+			"m_id": 29,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "혼자곱닭（순살250g＋소대창60g）",
+			"m_id": 30,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "혼술1 혼도리탕or홀로찜닭or혼자곱닭or로제찜닭＋사이드메뉴택1",
+			"m_id": 31,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "바베큐 오븐 치킨（500g）",
+			"m_id": 32,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "양념 오븐 치킨（500g）",
+			"m_id": 33,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "마늘간장 오븐 치킨（500g）",
+			"m_id": 34,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "혼밥1 모던사골국밥＋사이드메뉴택1",
+			"m_id": 35,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "혼밥2 비빔밥＋사이드메뉴택1",
+			"m_id": 36,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "혼밥3 덮밥＋사이드메뉴택1",
+			"m_id": 37,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "돈까스 커리덮밥",
+			"m_id": 38,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "로제찜닭",
+			"m_id": 39,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "얼큰 차돌 곰국수",
+			"m_id": 40,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "통삼겹 커리덮밥",
+			"m_id": 41,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "참목살 커리덮밥",
+			"m_id": 42,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "차돌 커리덮밥",
+			"m_id": 43,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "혼도리탕（순살）",
+			"m_id": 44,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "얼큰 곰 만두국",
+			"m_id": 45,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "차돌 곰국수",
+			"m_id": 46,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "홀로찜닭（순살）",
+			"m_id": 47,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "혼자곱닭（순살250g＋소대창60g）",
+			"m_id": 48,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "로제찜닭",
+			"m_id": 49,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "혼밥1 모던사골국밥＋사이드메뉴택1",
+			"m_id": 50,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "혼밥2 비빔밥＋사이드메뉴택1",
+			"m_id": 51,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "혼밥3 덮밥＋사이드메뉴택1",
+			"m_id": 52,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "혼술1 혼도리탕or홀로찜닭or혼자곱닭or로제찜닭＋사이드메뉴택1",
+			"m_id": 53,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "혼술2 오븐구이＋사이드메뉴 택1",
+			"m_id": 54,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "공기밥추가",
+			"m_id": 55,
+			"ms_id": 1,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "활짝 PIZZA SET",
+			"m_id": 56,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "주름 PIZZA SET",
+			"m_id": 57,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "웃음 PIZZA SET",
+			"m_id": 58,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "OH LA LA PIZZA SET",
+			"m_id": 59,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "쉬림프골드 피자",
+			"m_id": 60,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "포테이토골드 피자",
+			"m_id": 61,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "리치바이트골드 피자",
+			"m_id": 62,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "더블크러스트 피자",
+			"m_id": 63,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "치즈바이트 피자",
+			"m_id": 64,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "핫치킨 피자",
+			"m_id": 65,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "고구마 피자",
+			"m_id": 66,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "궁중불고기 피자",
+			"m_id": 67,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "포테이토 피자",
+			"m_id": 68,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "머쉬룸 피자",
+			"m_id": 69,
+			"ms_id": 2,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "치즈피자",
+			"m_id": 70,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "페퍼로니피자",
+			"m_id": 71,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "하와이안쉬림프피자",
+			"m_id": 72,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "미트볼피자",
+			"m_id": 73,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "시금치피자",
+			"m_id": 74,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "옥수수베이컨피자",
+			"m_id": 75,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "애그인핼피자",
+			"m_id": 76,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "하프앤하프",
+			"m_id": 77,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "피쉬앤칩스",
+			"m_id": 78,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "통오징어앤칩스",
+			"m_id": 79,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "쥐포튀김",
+			"m_id": 80,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "포테이토프라이",
+			"m_id": 81,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "양송이치즈프라이",
+			"m_id": 82,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "추가피클",
+			"m_id": 83,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "500"
+		},
+		{
+			"m_name": "코카콜라 500mL",
+			"m_id": 84,
+			"ms_id": 3,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "카르보",
+			"m_id": 85,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "새우크림",
+			"m_id": 86,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "치킨오이스터",
+			"m_id": 87,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "해물크래마",
+			"m_id": 88,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "안심크래마",
+			"m_id": 89,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "하우스 바케트",
+			"m_id": 90,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "꽃게로지 파스타",
+			"m_id": 91,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "참나물 오일 파스타",
+			"m_id": 92,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "새우토마토 리조또",
+			"m_id": 93,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "새우크림 리조또",
+			"m_id": 94,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "안심버섯 리조또",
+			"m_id": 95,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "치킨도리아",
+			"m_id": 96,
+			"ms_id": 4,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "해물토마토리소토",
+			"m_id": 97,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "해물크림리소토",
+			"m_id": 98,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "트러플크림리소토",
+			"m_id": 99,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "구운 관자와 시금치리소토",
+			"m_id": 100,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "까르보나라파스타",
+			"m_id": 101,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "해물 한가득파스타",
+			"m_id": 102,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "블랙명란파스타",
+			"m_id": 103,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "구운관자와 시금치파스타",
+			"m_id": 104,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "왕새우 여덞마리파스타",
+			"m_id": 105,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "매콤스테이크파스타",
+			"m_id": 106,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "홈메이드 바질페스토파스타",
+			"m_id": 107,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "담백 새우파스타",
+			"m_id": 108,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "담백 명란파스타",
+			"m_id": 109,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "시원한 국물 봉골레파스타",
+			"m_id": 110,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "버섯 풍미 가득파스타",
+			"m_id": 111,
+			"ms_id": 5,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "수제 왕돈까스 기본세트（스프＋소스）",
+			"m_id": 112,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "김치볶음밥",
+			"m_id": 113,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "떡만두국（밥없음）",
+			"m_id": 114,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "김치황태 수제비（밥없음）",
+			"m_id": 115,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "약간매운 카레라이스（밥제공）",
+			"m_id": 116,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "수제 왕돈까스 기본세트（스프＋소스）",
+			"m_id": 117,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "김치볶음밥",
+			"m_id": 118,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "떡만두국（밥없음）",
+			"m_id": 119,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "김치황태 수제비（밥없음）",
+			"m_id": 120,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "약간매운 카레라이스（밥제공）",
+			"m_id": 121,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "라떼 헤이즐넛 HOT",
+			"m_id": 122,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "라떼 헤이즐넛 ICE",
+			"m_id": 123,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "라떼 모카 HOT",
+			"m_id": 124,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "라떼 모카 ICE",
+			"m_id": 125,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "라떼바닐라 HOT",
+			"m_id": 126,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "라떼바닐라 ICE",
+			"m_id": 127,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "아메리카노 HOT",
+			"m_id": 128,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "아메리카노 ICE",
+			"m_id": 129,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "유자차 HOT",
+			"m_id": 130,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "유자차 ICE",
+			"m_id": 131,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "키위주스",
+			"m_id": 132,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "바나나주스",
+			"m_id": 133,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "딸기주스",
+			"m_id": 134,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "콜라",
+			"m_id": 135,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "사이다",
+			"m_id": 136,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "환타 오렌지",
+			"m_id": 137,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "환타 포도",
+			"m_id": 138,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "환타 파인애플",
+			"m_id": 139,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "토마토주스",
+			"m_id": 140,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "자색고구마라떼 HOT",
+			"m_id": 141,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "자색고구마라떼 ICE",
+			"m_id": 142,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "오곡라떼 HOT",
+			"m_id": 143,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "오곡라떼 ICE",
+			"m_id": 144,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "녹차라떼 HOT",
+			"m_id": 145,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "녹차라떼 ICE",
+			"m_id": 146,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "코코아 HOT",
+			"m_id": 147,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "코코아 ICE",
+			"m_id": 148,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "율무차 HOT",
+			"m_id": 149,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "율무차 ICE",
+			"m_id": 150,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "복숭아티 HOT",
+			"m_id": 151,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "복숭아티 ICE",
+			"m_id": 152,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "아이스컵 미니 팥빙수",
+			"m_id": 153,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "국용기 큰 팥빙수",
+			"m_id": 154,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "별도／밥공기 1人",
+			"m_id": 155,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "별도／크림스프 1人",
+			"m_id": 156,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "별도／양파드레싱소스",
+			"m_id": 157,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "별도／계란후라이（소금간x）1개",
+			"m_id": 158,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "만두튀김4개",
+			"m_id": 159,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "치킨너겟8개",
+			"m_id": 160,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "김말이튀김5개",
+			"m_id": 161,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "치즈스틱3개",
+			"m_id": 162,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "작두콩차",
+			"m_id": 163,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "냉오미자차",
+			"m_id": 164,
+			"ms_id": 6,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "（쌈채소）삼겹살 도시락（250g）",
+			"m_id": 165,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "（파채）삼겹살 도시락 200g",
+			"m_id": 166,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "（샐러드） 삼겹살 도시락 200g",
+			"m_id": 167,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "（인기）SMART 간딴 삼겹 고기만 300g",
+			"m_id": 168,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "（인기）SMART 반반 간딴 삼겹 고기만 400g",
+			"m_id": 169,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "（대용량）간딴 삼겹 고기만",
+			"m_id": 170,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "（프리미엄）비프스테이크도시락（200g）",
+			"m_id": 171,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16500"
+		},
+		{
+			"m_name": "SMART 비프스테이크 고기만200g",
+			"m_id": 172,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "매운떙초삼겹 도시락 200g",
+			"m_id": 173,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "갈비맛삼겹 도시락 200g",
+			"m_id": 174,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "크림어니언 치킨가라아게 도시락",
+			"m_id": 175,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "쌈채소 세트",
+			"m_id": 176,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "쌈채소（10장）",
+			"m_id": 177,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "넓적밥（밥＋계란후라이）",
+			"m_id": 178,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 179,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "계란후라이",
+			"m_id": 180,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "파저리 추가",
+			"m_id": 181,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "통마늘구이",
+			"m_id": 182,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "구운양파",
+			"m_id": 183,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "해쉬브라운치즈구이",
+			"m_id": 184,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "미니샐러드",
+			"m_id": 185,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "생수 500mL",
+			"m_id": 186,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "씨그램 탄산수 350mL",
+			"m_id": 187,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "코카콜라 500mL",
+			"m_id": 188,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "코카콜라 1.25L",
+			"m_id": 189,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "스프라이트 500mL",
+			"m_id": 190,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "스프라이트 1.25L",
+			"m_id": 191,
+			"ms_id": 7,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "토마토파스타",
+			"m_id": 192,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "알리오올리오",
+			"m_id": 193,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "까르보나라",
+			"m_id": 194,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "투움바파스타",
+			"m_id": 195,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "베이컨 로제파스타",
+			"m_id": 196,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "새우 로제파스타",
+			"m_id": 197,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "김치필라프",
+			"m_id": 198,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "김치삼겹 필라프",
+			"m_id": 199,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "삼겹필라프",
+			"m_id": 200,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "목살필라프",
+			"m_id": 201,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "우삼겹필라프",
+			"m_id": 202,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "닭다리살 필라프",
+			"m_id": 203,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "닭다리 스테이크카레",
+			"m_id": 204,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "우삼겹카레",
+			"m_id": 205,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "치킨 가라아게카레",
+			"m_id": 206,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "새우튀김카레",
+			"m_id": 207,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈가츠카레",
+			"m_id": 208,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "치즈돈가츠카레",
+			"m_id": 209,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "게살튀김카레",
+			"m_id": 210,
+			"ms_id": 8,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "콰트로 치즈 R",
+			"m_id": 211,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16400"
+		},
+		{
+			"m_name": "초리조 디아볼라 R",
+			"m_id": 212,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16400"
+		},
+		{
+			"m_name": "마르게리따 버팔로 R",
+			"m_id": 213,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16400"
+		},
+		{
+			"m_name": "불고기 어니언 R",
+			"m_id": 214,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17400"
+		},
+		{
+			"m_name": "루꼴라 프로슈토 R",
+			"m_id": 215,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18400"
+		},
+		{
+			"m_name": "쉬림프 R",
+			"m_id": 216,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18400"
+		},
+		{
+			"m_name": "콤비네이션 R",
+			"m_id": 217,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16400"
+		},
+		{
+			"m_name": "불고기 할라피뇨 R",
+			"m_id": 218,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18400"
+		},
+		{
+			"m_name": "알리오 올리오",
+			"m_id": 219,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11600"
+		},
+		{
+			"m_name": "명란 올리오",
+			"m_id": 220,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13600"
+		},
+		{
+			"m_name": "관자 봉골레",
+			"m_id": 221,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15600"
+		},
+		{
+			"m_name": "슈렉 포레스타",
+			"m_id": 222,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14600"
+		},
+		{
+			"m_name": "까르보나라",
+			"m_id": 223,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12600"
+		},
+		{
+			"m_name": "명란 크림",
+			"m_id": 224,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14600"
+		},
+		{
+			"m_name": "아마트리치아나",
+			"m_id": 225,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12600"
+		},
+		{
+			"m_name": "쉬림프 로제",
+			"m_id": 226,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14600"
+		},
+		{
+			"m_name": "얼큰해산물",
+			"m_id": 227,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14600"
+		},
+		{
+			"m_name": "베이컨크림리조또",
+			"m_id": 228,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12600"
+		},
+		{
+			"m_name": "쉬림프로제리조또",
+			"m_id": 229,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14600"
+		},
+		{
+			"m_name": "슈렉크림리조또",
+			"m_id": 230,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14600"
+		},
+		{
+			"m_name": "만조풍기크림리조또",
+			"m_id": 231,
+			"ms_id": 9,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14600"
+		},
+		{
+			"m_name": "튀김 세트",
+			"m_id": 232,
+			"ms_id": 10,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "투움바떡볶이1~2인분",
+			"m_id": 233,
+			"ms_id": 10,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "로제떡볶이 1~2인분",
+			"m_id": 234,
+			"ms_id": 10,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "국물떡볶이 1~2인분",
+			"m_id": 235,
+			"ms_id": 10,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "대） 투움바떡볶이 3~4인분",
+			"m_id": 236,
+			"ms_id": 10,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "대） 로제떡볶이 3~4인분",
+			"m_id": 237,
+			"ms_id": 10,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "대） 국물떡볶이 3~4인분",
+			"m_id": 238,
+			"ms_id": 10,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "토마토 소스 스파게티와 생 토마토",
+			"m_id": 239,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "베이컨과 생버섯의 매콤한 아마트리치아나",
+			"m_id": 240,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "비스크 크림의 베이컨 까르보나라",
+			"m_id": 241,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "클래식한 볼로네이즈와 버팔로 치즈",
+			"m_id": 242,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "봉골레 캄파니아",
+			"m_id": 243,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "영덕 대게살과 새우의 매콤한 로제",
+			"m_id": 244,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "해산물 크림 또는 해산물 토마토 소스",
+			"m_id": 245,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "고르곤졸라 피자",
+			"m_id": 246,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "페퍼로니 피자",
+			"m_id": 247,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "마르게리따 피자",
+			"m_id": 248,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "아보카도와 쉬림프 피자",
+			"m_id": 249,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "콰트로포마지 피자",
+			"m_id": 250,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "콤비네이션 피자",
+			"m_id": 251,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "꽃갈비 피자",
+			"m_id": 252,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "멕시칸 나쵸와 토마토 살사, 치즈 딥소스",
+			"m_id": 253,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "독일 모듬 소시지와 야채볶음과 무화과 콤포트",
+			"m_id": 254,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "마른 안주와 멕시칸 나쵸",
+			"m_id": 255,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "버팔로 치킨윙과 감자튀김",
+			"m_id": 256,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "모듬 치즈와 호두캔디, 계절 베리",
+			"m_id": 257,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "치킨강정과 새우 볶음의 치즈 그라틴",
+			"m_id": 258,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "감바스 알 하이요와 갈릭 브레드",
+			"m_id": 259,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "하몽과 상주 멜론, 계절베리 또는 과일",
+			"m_id": 260,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "모듬치즈와 계절과일",
+			"m_id": 261,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "L.A 갈비구이 350g up",
+			"m_id": 262,
+			"ms_id": 11,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "떠블포테이토1인세트",
+			"m_id": 263,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "떠블포테이토2인세트",
+			"m_id": 264,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23900"
+		},
+		{
+			"m_name": "떠블포테이토3~4인세트",
+			"m_id": 265,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "38900"
+		},
+		{
+			"m_name": "비프앤비프버거 단품",
+			"m_id": 266,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6400"
+		},
+		{
+			"m_name": "핫앤갈릭 갈비버거 단품",
+			"m_id": 267,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5400"
+		},
+		{
+			"m_name": "통살치킨버거 단품",
+			"m_id": 268,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5400"
+		},
+		{
+			"m_name": "삼삼비프버거 단품",
+			"m_id": 269,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3300"
+		},
+		{
+			"m_name": "삼삼치킨버거 단품",
+			"m_id": 270,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3300"
+		},
+		{
+			"m_name": "레드비프앤비프 단품",
+			"m_id": 271,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7400"
+		},
+		{
+			"m_name": "레드통살버거 단품",
+			"m_id": 272,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6400"
+		},
+		{
+			"m_name": "찍먹떠블포테이토（케이준＋레귤러컷）",
+			"m_id": 273,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "기본 포테이토",
+			"m_id": 274,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "어니언링 6p",
+			"m_id": 275,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "해쉬브라운 1p",
+			"m_id": 276,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "치킨텐더 4p",
+			"m_id": 277,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "치킨텐더 8p",
+			"m_id": 278,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12900"
+		},
+		{
+			"m_name": "치킨너겟",
+			"m_id": 279,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "라이스치즈볼 6개",
+			"m_id": 280,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "라이스치즈스틱 4개",
+			"m_id": 281,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "라이스치즈볼스틱콤보（6＋4）",
+			"m_id": 282,
+			"ms_id": 12,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "오징어",
+			"m_id": 283,
+			"ms_id": 13,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "오징어＋땅콩",
+			"m_id": 284,
+			"ms_id": 13,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "쥐치포",
+			"m_id": 285,
+			"ms_id": 13,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "쥐치포＋땅콩",
+			"m_id": 286,
+			"ms_id": 13,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "방울토마토 컵",
+			"m_id": 287,
+			"ms_id": 13,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "키위 컵",
+			"m_id": 288,
+			"ms_id": 13,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "자두 컵",
+			"m_id": 289,
+			"ms_id": 13,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "포도 컵",
+			"m_id": 290,
+			"ms_id": 13,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "소곱창떡볶이 1~2인분",
+			"m_id": 291,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "국물떡볶이 3~4인분",
+			"m_id": 292,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "짜장떡볶이 3~4인분",
+			"m_id": 293,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "분모자떡볶이 1~2인분",
+			"m_id": 294,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "JMT 新로제떡볶이 1~2인분",
+			"m_id": 295,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "JMT 新로제떡볶이 1~2인분",
+			"m_id": 296,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "분모자떡볶이 1~2인분",
+			"m_id": 297,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "소곱창떡볶이 1~2인분",
+			"m_id": 298,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "국물떡볶이 1~2인분",
+			"m_id": 299,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "짜장떡볶이 1~2인분",
+			"m_id": 300,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "新로제떡볶이 3~4인분",
+			"m_id": 301,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "소곱창떡볶이 3~4인분",
+			"m_id": 302,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "분모자떡볶이 3~4인분",
+			"m_id": 303,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "국물떡볶이 3~4인분",
+			"m_id": 304,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "짜장떡볶이 3~4인분",
+			"m_id": 305,
+			"ms_id": 14,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 306,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 307,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 308,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 309,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 310,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 311,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 312,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "수제등심돈가스",
+			"m_id": 313,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 314,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 315,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 316,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 317,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 318,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 319,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 320,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 321,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 322,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 323,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 324,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "더블사케동 1.5배",
+			"m_id": 325,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 326,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 327,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 328,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 329,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 330,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 331,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 332,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 333,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "수제등심돈가스",
+			"m_id": 334,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 335,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "연어 사시미",
+			"m_id": 336,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 337,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "더블큐브스테이크 1.5배",
+			"m_id": 338,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "더블핫큐브스테이크 1.5배",
+			"m_id": 339,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "더블간장새우장동 1.5배",
+			"m_id": 340,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블연어장동 1.5배",
+			"m_id": 341,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "왕새우튀김",
+			"m_id": 342,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "치킨가라아게",
+			"m_id": 343,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "게살크림고로케",
+			"m_id": 344,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 345,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 346,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 347,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 348,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 349,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 350,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "세트메뉴1（사케동＋불규동＋치킨가라아게）",
+			"m_id": 351,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "세트메뉴2（연어장동＋핫큐브스테이크동＋게살크림고로케）",
+			"m_id": 352,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "세트메뉴3（큐브스테이크동＋유케동＋치킨가라아게）",
+			"m_id": 353,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "세트메뉴4（간장새우장동＋규동＋게살크림고로케）",
+			"m_id": 354,
+			"ms_id": 15,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "버섯 몽글몽글 셋트（버섯 몽글몽글 카레＋등심돈까스＋스크럼블에그）",
+			"m_id": 355,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "소고기 몽글몽글 셋트（소고기 몽글몽글 카레＋등심 돈까스＋스크럼블 에그）",
+			"m_id": 356,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12400"
+		},
+		{
+			"m_name": "스페셜 몽글몽글 셋트（몽글몽글 카레＋등심 돈까스＋스크럼블에그＋새우튀김1P＋고로케1P＋가라아게 닭튀김2P）",
+			"m_id": 357,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12900"
+		},
+		{
+			"m_name": "2人 몽글몽글 세트（버섯 몽글몽글 카레＋돈까스 몽글몽글 카레＋스크렘블에그＋고로케4p）",
+			"m_id": 358,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "21400"
+		},
+		{
+			"m_name": "2人 푸짐 몽글몽글 세트（버섯 몽글몽글 카레＋돈까스 몽글몽글 카레＋스크렘블에그＋고로케2p＋가라아게 닭튀김 4p＋새우 2p）",
+			"m_id": 359,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24400"
+		},
+		{
+			"m_name": "등심돈까스",
+			"m_id": 360,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "치즈돈까스 1pc（2조각）",
+			"m_id": 361,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "함박까스까스",
+			"m_id": 362,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "수제감자고로케 3p",
+			"m_id": 363,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "가라아게（닭튀김） 4pc",
+			"m_id": 364,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "새우튀김",
+			"m_id": 365,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "후랑크소세지",
+			"m_id": 366,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "카레추가",
+			"m_id": 367,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "밥추가",
+			"m_id": 368,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "치즈추가（카레용）",
+			"m_id": 369,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "계란 스크럼블（카레용）",
+			"m_id": 370,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "해시포테이토",
+			"m_id": 371,
+			"ms_id": 16,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 372,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 373,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 374,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 375,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 376,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 377,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 378,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "수제 등심돈가스",
+			"m_id": 379,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 380,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 381,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 382,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 383,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 384,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 385,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 386,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 387,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 388,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 389,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 390,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "더블사케동 1.5배",
+			"m_id": 391,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 392,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 393,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 394,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 395,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 396,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 397,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 398,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 399,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "수제 등심돈가스",
+			"m_id": 400,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 401,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "연어 사시미",
+			"m_id": 402,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 403,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "더블큐브스테이크 1.5배",
+			"m_id": 404,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "더블핫큐브스테이크 1.5배",
+			"m_id": 405,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "더블간장새우장동 1.5배",
+			"m_id": 406,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블연어장동 1.5배",
+			"m_id": 407,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "왕새우튀김",
+			"m_id": 408,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "치킨가라아게",
+			"m_id": 409,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "게살크림고로케",
+			"m_id": 410,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 411,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 412,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 413,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 414,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 415,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 416,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "세트메뉴1（사케동＋불규동＋치킨가라아게）",
+			"m_id": 417,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "세트메뉴2（연어장동＋핫큐브스테이크동＋게살크림고로케）",
+			"m_id": 418,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "세트메뉴3（큐브스테이크동＋유케동＋치킨가라아게）",
+			"m_id": 419,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "세트메뉴4（간장새우장동＋규동＋게살크림고로케）",
+			"m_id": 420,
+			"ms_id": 17,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "마루베스트",
+			"m_id": 421,
+			"ms_id": 18,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20900"
+		},
+		{
+			"m_name": "1kg 치즈핵폭탄 피자",
+			"m_id": 422,
+			"ms_id": 18,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23900"
+		},
+		{
+			"m_name": "500g 치즈폭탄 피자",
+			"m_id": 423,
+			"ms_id": 18,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16900"
+		},
+		{
+			"m_name": "페페로니 치즈폭탄 피자",
+			"m_id": 424,
+			"ms_id": 18,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22900"
+		},
+		{
+			"m_name": "라지＋라지 대박세트",
+			"m_id": 425,
+			"ms_id": 18,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18900"
+		},
+		{
+			"m_name": "1인분 돼지짜글이",
+			"m_id": 426,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "1인분 차돌짜글이",
+			"m_id": 427,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "1인분 직화불짬봉짜글이",
+			"m_id": 428,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "돼지짜글이（2인분）",
+			"m_id": 429,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "차돌짜글이（2인분）",
+			"m_id": 430,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "직화불짬뽕자글이（2인분）",
+			"m_id": 431,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "아삭숙주만땅짜글이（2인분）",
+			"m_id": 432,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "（인기）SMART 간딴 삼겹 고기만 300g",
+			"m_id": 433,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "（인기）SMART 반반 간딴 삼겹 고기만 400g",
+			"m_id": 434,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "（SMART） 비프스테이크 고기만 - 200g",
+			"m_id": 435,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "넓적밥（밥＋계란후라이）",
+			"m_id": 436,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 437,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "계란후라이",
+			"m_id": 438,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "통마늘구이",
+			"m_id": 439,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "구운양파",
+			"m_id": 440,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "해쉬브라운치즈구이",
+			"m_id": 441,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "파저리 추가",
+			"m_id": 442,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "생수 500mL",
+			"m_id": 443,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "씨그램 탄산수 350mL",
+			"m_id": 444,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "코카콜라 500mL",
+			"m_id": 445,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "코카콜라 1.25L",
+			"m_id": 446,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "스프라이트 500mL",
+			"m_id": 447,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "스프라이트 1.25L",
+			"m_id": 448,
+			"ms_id": 19,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "두마리&감튀세트（순살）＋음료1.25L",
+			"m_id": 449,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "두마리&치즈볼（4개）세트（순살）＋음료1.25L",
+			"m_id": 450,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "크리스피（100%다리살）＋음료355ml",
+			"m_id": 451,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "블랙갈리（100%다리살）조금매콤＋음료355ml",
+			"m_id": 452,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "원조양념（100%다리살）＋음료355ml",
+			"m_id": 453,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "땡초델리（100%다리살）조금매콤＋음료355ml",
+			"m_id": 454,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "케이준 감자튀김",
+			"m_id": 455,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "닭똥집튀김&케이준 감자튀김",
+			"m_id": 456,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "치즈볼 4개",
+			"m_id": 457,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "치킨무",
+			"m_id": 458,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "500"
+		},
+		{
+			"m_name": "양념소스",
+			"m_id": 459,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "500"
+		},
+		{
+			"m_name": "펩시콜라 355ml",
+			"m_id": 460,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "펩시콜라 1.25L",
+			"m_id": 461,
+			"ms_id": 20,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "서울 불고기 치킨（감자튀김）",
+			"m_id": 462,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "춘천 닭갈비 치킨（떡꼬치）",
+			"m_id": 463,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "대표 치킨（감자튀김）",
+			"m_id": 464,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "마늘 바게뜨 치킨（꽃빵튀김）",
+			"m_id": 465,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "크리스피 탄두리 치킨（또띠아 난）",
+			"m_id": 466,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "타이 칠리 치킨（감자튀김）",
+			"m_id": 467,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "버팔로 치킨（스틱야채）",
+			"m_id": 468,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "흑임자 치킨（또띠아 비스켓）",
+			"m_id": 469,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "오리지널 치킨（감자튀김）",
+			"m_id": 470,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12900"
+		},
+		{
+			"m_name": "와사비 크림 치킨",
+			"m_id": 471,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "청양초 파채 치킨",
+			"m_id": 472,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "양파 치킨",
+			"m_id": 473,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "크리스피 메이플 텐더",
+			"m_id": 474,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "가장 인기있는 세계치킨요리 中 택1+오리지널 치킨",
+			"m_id": 475,
+			"ms_id": 21,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "황금 불새 피자",
+			"m_id": 476,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "리치 골드 피자",
+			"m_id": 477,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "치즈 크러스트 고구마 골드 피자",
+			"m_id": 478,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "베이컨 로얄 골드 피자",
+			"m_id": 479,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "치즈 크러스트 불고기 새우 피자",
+			"m_id": 480,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "치즈 크러스트 슈퍼 콤비 피자",
+			"m_id": 481,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "치즈 크러스트 포테이토 피자",
+			"m_id": 482,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "치즈 크러스트 불고기 피자",
+			"m_id": 483,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "치즈 크러스트 치즈 피자",
+			"m_id": 484,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "하와이안 피자",
+			"m_id": 485,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "불고기 피자",
+			"m_id": 486,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "고르곤졸라 피자",
+			"m_id": 487,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "포테이토 피자",
+			"m_id": 488,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "페퍼로니 피자",
+			"m_id": 489,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "양송이 피자",
+			"m_id": 490,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "치즈 피자",
+			"m_id": 491,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "야채 피자",
+			"m_id": 492,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "치즈스틱 5조각",
+			"m_id": 493,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "핫 윙/봉 5조각",
+			"m_id": 494,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "치킨텐더 5조각",
+			"m_id": 495,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "오븐 훈제 치킨 한마리",
+			"m_id": 496,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "새우링 6조각",
+			"m_id": 497,
+			"ms_id": 22,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "A8.짜조 샐러드",
+			"m_id": 498,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "M6.해산물 쌀국수",
+			"m_id": 499,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "M2.스파이시 포",
+			"m_id": 500,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "M7.닭고기 쌀국수",
+			"m_id": 501,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "M1.포메인 쌀국수",
+			"m_id": 502,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "포메인 set（포메인 쌀국수S 2개＋오리지널 스프링롤＋탄산음료 2개）",
+			"m_id": 503,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "2人set A（포메인 쌀국수S＋칠리 볶음밥＋메인즈 세트＋탄산음료 2개）",
+			"m_id": 504,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "2人set B（포메인 쌀국수S＋매운 해산물 볶음 쌀국수＋파인애플 볶음밥＋탄산음료 2개）",
+			"m_id": 505,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "3人set（포메인 쌀국수S＋깐풍기＋매운 해산물 볶음 쌀국수＋소고기 볶음밥＋탄산음료 3개）",
+			"m_id": 506,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "58500"
+		},
+		{
+			"m_name": "1인 set （포메인 쌀국수S ＋ 에그롤 ＋ 탄산음료）",
+			"m_id": 507,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16500"
+		},
+		{
+			"m_name": "H1.포메인 쌈（월남쌈）",
+			"m_id": 508,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "H2.월남쌈 2인 세트 （포메인 쌈 S ＋ 포메인 쌀국수 L ）",
+			"m_id": 509,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "H3.월남쌈 패밀리 세트（4인） （포메인쌈 L ＋ 포메인 쌀국수 S 2개＋닭고기 볶음밥＋탄산음료 4잔）",
+			"m_id": 510,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "78000"
+		},
+		{
+			"m_name": "쌈고기 추가（월남쌈 주문시만）",
+			"m_id": 511,
+			"ms_id": 23,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "연어 사시미",
+			"m_id": 512,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 513,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 514,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 515,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 516,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 517,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 518,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 519,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 520,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 521,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 522,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 523,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 524,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 525,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 526,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 527,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 528,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 529,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "수제등심돈가스",
+			"m_id": 530,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 531,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 532,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "더블큐브스테이크 1.5배",
+			"m_id": 533,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블핫큐브스테이크 1.5배",
+			"m_id": 534,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 535,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "더블사케동 1.5배",
+			"m_id": 536,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 537,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 538,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 539,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 540,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 541,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 542,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "수제등심돈가스",
+			"m_id": 543,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 544,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "연어 사시미",
+			"m_id": 545,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 546,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "더블간장새우장동 1.5배",
+			"m_id": 547,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블연어장동 1.5배",
+			"m_id": 548,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "왕새우튀김",
+			"m_id": 549,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "치킨가라아게",
+			"m_id": 550,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "게살크림고로케",
+			"m_id": 551,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 552,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 553,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 554,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 555,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 556,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 557,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "세트메뉴1（사케동＋불규동＋치킨가라아게）",
+			"m_id": 558,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "세트메뉴2（연어장동＋핫큐브스테이크동＋게살크림고로케）",
+			"m_id": 559,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "세트메뉴3（큐브스테이크동＋유케동＋치킨가라아게）",
+			"m_id": 560,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "세트메뉴4（간장새우장동＋규동＋게살크림고로케）",
+			"m_id": 561,
+			"ms_id": 25,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 562,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 563,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 564,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 565,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 566,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 567,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 568,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 569,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 570,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 571,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 572,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 573,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 574,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 575,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 576,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 577,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 578,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "수제등심돈가스",
+			"m_id": 579,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 580,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "더블사케동 1.5배",
+			"m_id": 581,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 582,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 583,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 584,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 585,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 586,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 587,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 588,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 589,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "수제등심돈가스",
+			"m_id": 590,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 591,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "연어 사시미",
+			"m_id": 592,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 593,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "더블큐브스테이크 1.5배",
+			"m_id": 594,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블핫큐브스테이크 1.5배",
+			"m_id": 595,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블간장새우장동 1.5배",
+			"m_id": 596,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블연어장동 1.5배",
+			"m_id": 597,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "왕새우튀김",
+			"m_id": 598,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "치킨가라아게",
+			"m_id": 599,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "게살크림고로케",
+			"m_id": 600,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 601,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 602,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 603,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 604,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 605,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 606,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "세트메뉴1（사케동＋불규동＋치킨가라아게）",
+			"m_id": 607,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "세트메뉴2（연어장동＋핫큐브스테이크동＋게살크림고로케）",
+			"m_id": 608,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "세트메뉴3（큐브스테이크동＋유케동＋치킨가라아게）",
+			"m_id": 609,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "세트메뉴4（간장새우장동＋규동＋게살크림고로케）",
+			"m_id": 610,
+			"ms_id": 27,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "돌판삼겹살 1人",
+			"m_id": 611,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "돌판김치치즈닭갈비 1人",
+			"m_id": 612,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "돌판김치치즈닭갈비덮밥",
+			"m_id": 613,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "돌판 불제육볶음 1人",
+			"m_id": 614,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "도시락세트（김치볶음밥 ＋계란후라이＋불제육볶음＋국）",
+			"m_id": 615,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "삼겹살 치즈 김치볶음밥",
+			"m_id": 616,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "돌판 불제육덮밥",
+			"m_id": 617,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "돌판제육볶음 1人",
+			"m_id": 618,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "돌판제육덮밥",
+			"m_id": 619,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "파채삼겹살덮밥",
+			"m_id": 620,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "돌판삼겹살쏘세지 1人",
+			"m_id": 621,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "돌판삼겹살 1人",
+			"m_id": 622,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "돌판제육볶음 1人",
+			"m_id": 623,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "돌판 불제육볶음 1人",
+			"m_id": 624,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "돌판김치치즈닭갈비 1人",
+			"m_id": 625,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "도시락세트（김치볶음밥 ＋계란후라이＋불제육볶음＋국）",
+			"m_id": 626,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "돌판고추장삼겹살",
+			"m_id": 627,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "삼겹살 치즈 김치볶음밥",
+			"m_id": 628,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "돌판제육덮밥",
+			"m_id": 629,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "돌판 불제육덮밥",
+			"m_id": 630,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "돌판김치치즈닭갈비덮밥",
+			"m_id": 631,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "파채삼겹살덮밥",
+			"m_id": 632,
+			"ms_id": 28,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "해장 파스타",
+			"m_id": 633,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "베이컨 크림 파스타",
+			"m_id": 634,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "해산물 크림 파스타",
+			"m_id": 635,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "해산물 토마토 파스타",
+			"m_id": 636,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "해산물 로제 파스타",
+			"m_id": 637,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "새우 오일 파스타",
+			"m_id": 638,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "버팔로 윙（6pcs）",
+			"m_id": 639,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4400"
+		},
+		{
+			"m_name": "콜라 PET（500mL）",
+			"m_id": 640,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "사이다 PET （500mL）",
+			"m_id": 641,
+			"ms_id": 29,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "타코야끼 오리지날（17알）",
+			"m_id": 642,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "타코야끼 매운맛（17알）",
+			"m_id": 643,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "타코야끼 아주매운맛（17알）",
+			"m_id": 644,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "타코야끼 오리지날＋와사비（17알）",
+			"m_id": 645,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "타코야끼 매운맛＋와사비（17알）",
+			"m_id": 646,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "타코야끼 아주매운맛＋와사비（17알）",
+			"m_id": 647,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "타코야끼 오리지날＋치즈（17알）",
+			"m_id": 648,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "타코야끼 매운맛＋치즈（17알）",
+			"m_id": 649,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "타코야끼 아주매운맛＋치즈（17알）",
+			"m_id": 650,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "타코야끼 스페셜（오리지날＋치즈＋파인애플）（17알）",
+			"m_id": 651,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "타코야끼 스페셜（매운맛＋치즈＋파인애플）（17알）",
+			"m_id": 652,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "타코야끼 스페셜（완전매운맛＋치즈＋파인애플）（17알）",
+			"m_id": 653,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "타코야끼 오리지날（36알）",
+			"m_id": 654,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "타코야끼 매운맛（36알）",
+			"m_id": 655,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "타코야끼 아주매운맛（36알）",
+			"m_id": 656,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "타코야끼 오리지날＋와사비（36알）",
+			"m_id": 657,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "타코야끼 매운맛＋와사비（36알）",
+			"m_id": 658,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "타코야끼 아주매운맛＋와사비（36알）",
+			"m_id": 659,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "타코야끼 오리지날＋치즈（36알）",
+			"m_id": 660,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "타코야끼 매운맛＋치즈（36알）",
+			"m_id": 661,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "타코야끼 아주매운맛＋치즈（36알）",
+			"m_id": 662,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "타코야끼 스페셜（오리지날＋치즈＋파인애플）（36알）",
+			"m_id": 663,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "타코야끼 스페셜（매운맛＋치즈＋파인애플）（36알）",
+			"m_id": 664,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "타코야끼 스페셜（완전매운맛＋치즈＋파인애플）（36알）",
+			"m_id": 665,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "타코야끼 스페셜（모든맛＋치즈＋파인애플＋와사비）（36알）",
+			"m_id": 666,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "야끼우동 오리지날",
+			"m_id": 667,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "야끼우동 오리지날＋치즈",
+			"m_id": 668,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "야끼소바 오리지날＋치즈",
+			"m_id": 669,
+			"ms_id": 30,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "이태리 닭볶음탕",
+			"m_id": 670,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23500"
+		},
+		{
+			"m_name": "블랙 떡볶이",
+			"m_id": 671,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "17500"
+		},
+		{
+			"m_name": "존슨탕（이태원스타일 부대찌개）",
+			"m_id": 672,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20500"
+		},
+		{
+			"m_name": "고도리 깐풍기",
+			"m_id": 673,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18500"
+		},
+		{
+			"m_name": "베트남탕",
+			"m_id": 674,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "얼큰~통오징어 짬뽕탕",
+			"m_id": 675,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "미쿡 돼지갈비",
+			"m_id": 676,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23500"
+		},
+		{
+			"m_name": "닭다리살 바베큐＋또띠아",
+			"m_id": 677,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23500"
+		},
+		{
+			"m_name": "오사카 닭튀김",
+			"m_id": 678,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16500"
+		},
+		{
+			"m_name": "마늘똥집",
+			"m_id": 679,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17500"
+		},
+		{
+			"m_name": "묵은지 참치김밥",
+			"m_id": 680,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "명란 까르보나라",
+			"m_id": 681,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17500"
+		},
+		{
+			"m_name": "코카콜라",
+			"m_id": 682,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "사이다",
+			"m_id": 683,
+			"ms_id": 31,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "더블치즈버거세트（Large）",
+			"m_id": 684,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10700"
+		},
+		{
+			"m_name": "베이컨치즈버거세트（Large）",
+			"m_id": 685,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9700"
+		},
+		{
+			"m_name": "더블치즈버거세트（Regular）",
+			"m_id": 686,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9700"
+		},
+		{
+			"m_name": "프랭크버거세트（Regular）",
+			"m_id": 687,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6900"
+		},
+		{
+			"m_name": "프랭크버거세트（Large）",
+			"m_id": 688,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "치즈버거세트（Regular）",
+			"m_id": 689,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "치즈버거세트（Large）",
+			"m_id": 690,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "베이컨치즈버거세트（Regular）",
+			"m_id": 691,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8700"
+		},
+		{
+			"m_name": "베이컨치즈버거세트（Large）",
+			"m_id": 692,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9700"
+		},
+		{
+			"m_name": "더블치즈버거세트（Regular）",
+			"m_id": 693,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9700"
+		},
+		{
+			"m_name": "더블치즈버거세트（Large）",
+			"m_id": 694,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10700"
+		},
+		{
+			"m_name": "[3,900원]프랭크버거（Regular）",
+			"m_id": 695,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3900"
+		},
+		{
+			"m_name": "프랭크버거（Large）",
+			"m_id": 696,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4900"
+		},
+		{
+			"m_name": "치즈버거（Regular）",
+			"m_id": 697,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4900"
+		},
+		{
+			"m_name": "치즈버거（Large）",
+			"m_id": 698,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "베이컨치즈버거（Regular）",
+			"m_id": 699,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "베이컨치즈버거（Large）",
+			"m_id": 700,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6900"
+		},
+		{
+			"m_name": "더블치즈버거（Regular）",
+			"m_id": 701,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6900"
+		},
+		{
+			"m_name": "더블치즈버거（Large）",
+			"m_id": 702,
+			"ms_id": 32,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "간장새우장동",
+			"m_id": 703,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11900"
+		},
+		{
+			"m_name": "더블간장새우장동 1.5배",
+			"m_id": 704,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "사케동",
+			"m_id": 705,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "더블사케동 1.5배",
+			"m_id": 706,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "연어장동",
+			"m_id": 707,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "큐브스테이크동",
+			"m_id": 708,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "핫큐브스테이크동",
+			"m_id": 709,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "불규동",
+			"m_id": 710,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "규동",
+			"m_id": 711,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "신사이 가라아게동",
+			"m_id": 712,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "신사이 가츠동",
+			"m_id": 713,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "수제등심돈가스",
+			"m_id": 714,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "뚱땡이 유부초밥",
+			"m_id": 715,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "연어 사시미",
+			"m_id": 716,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "유케동",
+			"m_id": 717,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "더블큐브스테이크 1.5배",
+			"m_id": 718,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블핫큐브스테이크 1.5배",
+			"m_id": 719,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "더블연어장동 1.5배",
+			"m_id": 720,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "15900"
+		},
+		{
+			"m_name": "왕새우튀김",
+			"m_id": 721,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "치킨가라아게",
+			"m_id": 722,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "게살크림고로케",
+			"m_id": 723,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "야끼소바",
+			"m_id": 724,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "치킨가라아게 야끼소바",
+			"m_id": 725,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "돈카츠 야끼소바",
+			"m_id": 726,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "고로케 야끼소바",
+			"m_id": 727,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "새우튀김 야끼소바",
+			"m_id": 728,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "항정살덮밥",
+			"m_id": 729,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "세트메뉴1（사케동＋불규동＋치킨가라아게）",
+			"m_id": 730,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "세트메뉴2（연어장동＋핫큐브스테이크동＋게살크림고로케）",
+			"m_id": 731,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "세트메뉴3（큐브스테이크동＋유케동＋치킨가라아게）",
+			"m_id": 732,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "세트메뉴4（간장새우장동＋규동＋게사크림고로케）",
+			"m_id": 733,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "콜라 355mL",
+			"m_id": 734,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "사이다 355mL",
+			"m_id": 735,
+			"ms_id": 33,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "오징어숙회",
+			"m_id": 736,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "두부김치",
+			"m_id": 737,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "돈까스",
+			"m_id": 738,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "마늘 반마리파닭",
+			"m_id": 739,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "양념 반마리파닭",
+			"m_id": 740,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "오징어이빨",
+			"m_id": 741,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "모듬감자튀김",
+			"m_id": 742,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "마늘치킨반마리",
+			"m_id": 743,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "후라이드반마리",
+			"m_id": 744,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "계란말이",
+			"m_id": 745,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "세트1（만선마늘치킨＋을지로골뱅이）",
+			"m_id": 746,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "42000"
+		},
+		{
+			"m_name": "세트2（만선양념치킨＋을지로골뱅이）",
+			"m_id": 747,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "42000"
+		},
+		{
+			"m_name": "세트3（후라이드치킨＋을지로골뱅이）",
+			"m_id": 748,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "후라이드치킨",
+			"m_id": 749,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "만선마늘치킨",
+			"m_id": 750,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "만선마늘파닭",
+			"m_id": 751,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "만선양념파닭",
+			"m_id": 752,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "만선양념치킨",
+			"m_id": 753,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "순살마늘파닭",
+			"m_id": 754,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "순살양념파닭",
+			"m_id": 755,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "순살마늘치킨",
+			"m_id": 756,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "순살양념치킨",
+			"m_id": 757,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "마늘치킨반마리",
+			"m_id": 758,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "후라이드반마리",
+			"m_id": 759,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "마늘 반마리파닭",
+			"m_id": 760,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "양념 반마리파닭",
+			"m_id": 761,
+			"ms_id": 35,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "돈＋쫄＋파 세트",
+			"m_id": 762,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "돈＋파 세트",
+			"m_id": 763,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "돈＋쫄 세트",
+			"m_id": 764,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "쫄＋파 세트",
+			"m_id": 765,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "치즈돈까스",
+			"m_id": 766,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "반반돈까스",
+			"m_id": 767,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "수제 등심 돈까스",
+			"m_id": 768,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "고구마치즈돈까스",
+			"m_id": 769,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "생선까스 3pcs",
+			"m_id": 770,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "쫄면",
+			"m_id": 771,
+			"ms_id": 36,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "고구마치즈롤카츠 정식",
+			"m_id": 772,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "안심카츠 정식",
+			"m_id": 773,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "반반카츠 정식",
+			"m_id": 774,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "치즈롤카츠 정식",
+			"m_id": 775,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "생선카츠 정식",
+			"m_id": 776,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "등심카츠 정식",
+			"m_id": 777,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "생선카츠（1p）",
+			"m_id": 778,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3100"
+		},
+		{
+			"m_name": "생등심카츠（1p）",
+			"m_id": 779,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3100"
+		},
+		{
+			"m_name": "안심카츠（1p）",
+			"m_id": 780,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3600"
+		},
+		{
+			"m_name": "치즈롤카츠（1p）",
+			"m_id": 781,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3800"
+		},
+		{
+			"m_name": "고구마치즈롤카츠（1p）",
+			"m_id": 782,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3900"
+		},
+		{
+			"m_name": "생선카츠 정식",
+			"m_id": 783,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "등심카츠 정식",
+			"m_id": 784,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "안심카츠 정식",
+			"m_id": 785,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "반반카츠 정식",
+			"m_id": 786,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "치즈롤카츠 정식",
+			"m_id": 787,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "고구마치즈롤카츠 정식",
+			"m_id": 788,
+			"ms_id": 37,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "N01 안심",
+			"m_id": 789,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "N02 안심 양지",
+			"m_id": 790,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "N03 양지",
+			"m_id": 791,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "N04 안심 양지 차돌",
+			"m_id": 792,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "N05 안심 양지 차돌 힘줄",
+			"m_id": 793,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "N07 해산물",
+			"m_id": 794,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "N08 안심 스파이스시포（매운맛）",
+			"m_id": 795,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "N09 매운해산물（매운맛）",
+			"m_id": 796,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "M01 베트남식 비빔국수",
+			"m_id": 797,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "M02 해산물 볶음 쌀국수（매운맛）",
+			"m_id": 798,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "M03 팟타이 볶음 쌀국수（안매운맛）",
+			"m_id": 799,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "R01 숯불 닭고기 덮밥",
+			"m_id": 800,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "R02 숯불 돼지고기 덮밥",
+			"m_id": 801,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "R03 돼지고기 볶음밥",
+			"m_id": 802,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "R04 해산물 볶음밥",
+			"m_id": 803,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "R05 칠리 덮밥",
+			"m_id": 804,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "R06 파인애플 볶음밥",
+			"m_id": 805,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "R07 소고기 볶음밥",
+			"m_id": 806,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "R08 게맛살새우 볶음밥",
+			"m_id": 807,
+			"ms_id": 38,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "샐러드 파스타",
+			"m_id": 808,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "우삼겹 샐러드",
+			"m_id": 809,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "수비드목살 스테이크 샐러드",
+			"m_id": 810,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "칠리새우 포케",
+			"m_id": 811,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "연어 포케",
+			"m_id": 812,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "두부 아보카도 카프레제",
+			"m_id": 813,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "닭가슴살 포케",
+			"m_id": 814,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "그릭요거트 과일 샐러드",
+			"m_id": 815,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "텍스멕스 샐러드",
+			"m_id": 816,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "닭가슴살 랩",
+			"m_id": 817,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "우삼겹 랩",
+			"m_id": 818,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "칠리새우 랩",
+			"m_id": 819,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "아메리카노",
+			"m_id": 820,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "해독주스 300mL",
+			"m_id": 821,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "제로콜라 215mL",
+			"m_id": 822,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "DON SIMON 100% 착즙 오렌지 주스",
+			"m_id": 823,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "콤부차 （ICE ONLY）",
+			"m_id": 824,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "붓기차（팥&호박차）",
+			"m_id": 825,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "저지방라떼",
+			"m_id": 826,
+			"ms_id": 39,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "울트라 치즈 스테이크 & 치즈 15cm 세트",
+			"m_id": 827,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9200"
+		},
+		{
+			"m_name": "울트라 치즈 비엘티 15cm 세트",
+			"m_id": 828,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8100"
+		},
+		{
+			"m_name": "울트라 치즈 풀드포크 바비큐 15cm 세트",
+			"m_id": 829,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8700"
+		},
+		{
+			"m_name": "썹도그 15cm 세트",
+			"m_id": 830,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7100"
+		},
+		{
+			"m_name": "더블치즈 썹도그 15cm 세트",
+			"m_id": 831,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "아보카도 썹도그 15cm 세트",
+			"m_id": 832,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8100"
+		},
+		{
+			"m_name": "쉬림프 15cm 세트",
+			"m_id": 833,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8100"
+		},
+		{
+			"m_name": "햄 15cm 세트",
+			"m_id": 834,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "참치 15cm 세트",
+			"m_id": 835,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "에그마요 15cm 세트",
+			"m_id": 836,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "베지 15cm 세트",
+			"m_id": 837,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6100"
+		},
+		{
+			"m_name": "비엘티 15cm 세트",
+			"m_id": 838,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7600"
+		},
+		{
+			"m_name": "이탈리안 비엠티 15cm 세트",
+			"m_id": 839,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7600"
+		},
+		{
+			"m_name": "미트볼 15cm 세트",
+			"m_id": 840,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "터키 15cm 세트",
+			"m_id": 841,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "스파이시 이탈리안 15cm 세트",
+			"m_id": 842,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "치킨데리야끼 15cm 세트",
+			"m_id": 843,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "써브웨이 클럽 15cm 세트",
+			"m_id": 844,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8100"
+		},
+		{
+			"m_name": "로스트 치킨 15cm 세트",
+			"m_id": 845,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8300"
+		},
+		{
+			"m_name": "스테이크 & 치즈 15cm 세트",
+			"m_id": 846,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8700"
+		},
+		{
+			"m_name": "터키베이컨 아보카도 15cm 세트",
+			"m_id": 847,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8700"
+		},
+		{
+			"m_name": "풀드포크 바비큐 15cm 세트",
+			"m_id": 848,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8200"
+		},
+		{
+			"m_name": "로티세리 바비큐 치킨 15cm 세트",
+			"m_id": 849,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8300"
+		},
+		{
+			"m_name": "K-바비큐 15cm 세트",
+			"m_id": 850,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8300"
+		},
+		{
+			"m_name": "쉬림프 30cm 세트",
+			"m_id": 851,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "햄 30cm 세트",
+			"m_id": 852,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "참치 30cm 세트",
+			"m_id": 853,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "에그마요 30cm 세트",
+			"m_id": 854,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10200"
+		},
+		{
+			"m_name": "베지 30cm 세트",
+			"m_id": 855,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9600"
+		},
+		{
+			"m_name": "비엘티 30cm 세트",
+			"m_id": 856,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11700"
+		},
+		{
+			"m_name": "이탈리안 비엠티 30cm 세트",
+			"m_id": 857,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11700"
+		},
+		{
+			"m_name": "미트볼 30cm 세트",
+			"m_id": 858,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11600"
+		},
+		{
+			"m_name": "터키 30cm 세트",
+			"m_id": 859,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11600"
+		},
+		{
+			"m_name": "스파이시 이탈리안 30cm 세트",
+			"m_id": 860,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12300"
+		},
+		{
+			"m_name": "치킨데리야끼 30cm 세트",
+			"m_id": 861,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12300"
+		},
+		{
+			"m_name": "써브웨이 클럽 30cm 세트",
+			"m_id": 862,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "로스트 치킨 30cm 세트",
+			"m_id": 863,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12900"
+		},
+		{
+			"m_name": "스테이크 & 치즈 30cm 세트",
+			"m_id": 864,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "터키베이컨 아보카도 30cm 세트",
+			"m_id": 865,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "풀드포크 바비큐 30cm 세트",
+			"m_id": 866,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12700"
+		},
+		{
+			"m_name": "로티세리 바비큐 치킨 30cm 세트",
+			"m_id": 867,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12900"
+		},
+		{
+			"m_name": "K-바비큐 30cm 세트",
+			"m_id": 868,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12900"
+		},
+		{
+			"m_name": "울트라 치즈 스테이크 & 치즈 15cm 단품",
+			"m_id": 869,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "울트라 치즈 비엘티 15cm 단품",
+			"m_id": 870,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "울트라 치즈 풀드포크 바비큐 15cm 단품",
+			"m_id": 871,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "썹도그 15cm 단품",
+			"m_id": 872,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4900"
+		},
+		{
+			"m_name": "더블치즈 썹도그 15cm 단품",
+			"m_id": 873,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5700"
+		},
+		{
+			"m_name": "아보카도 썹도그 15cm 단품",
+			"m_id": 874,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "쉬림프 15cm 단품",
+			"m_id": 875,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "햄 15cm 단품",
+			"m_id": 876,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4800"
+		},
+		{
+			"m_name": "참치 15cm 단품",
+			"m_id": 877,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4800"
+		},
+		{
+			"m_name": "에그마요 15cm 단품",
+			"m_id": 878,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4300"
+		},
+		{
+			"m_name": "베지 15cm 단품",
+			"m_id": 879,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3900"
+		},
+		{
+			"m_name": "비엘티 15cm 단품",
+			"m_id": 880,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5400"
+		},
+		{
+			"m_name": "이탈리안 비엠티 15cm 단품",
+			"m_id": 881,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5400"
+		},
+		{
+			"m_name": "미트볼 15cm 단품",
+			"m_id": 882,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5300"
+		},
+		{
+			"m_name": "터키 15cm 단품",
+			"m_id": 883,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5300"
+		},
+		{
+			"m_name": "스파이시 이탈리안 15cm 단품",
+			"m_id": 884,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5700"
+		},
+		{
+			"m_name": "치킨데리야끼 15cm 단품",
+			"m_id": 885,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5700"
+		},
+		{
+			"m_name": "써브웨이 클럽 15cm 단품",
+			"m_id": 886,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5900"
+		},
+		{
+			"m_name": "로스트 치킨 15cm 단품",
+			"m_id": 887,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6100"
+		},
+		{
+			"m_name": "스테이크 & 치즈 15cm 단품",
+			"m_id": 888,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "터키베이컨 아보카도 15cm 단품",
+			"m_id": 889,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "풀드포크 바비큐 15cm 단품",
+			"m_id": 890,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "로티세리 바비큐 치킨 15cm 단품",
+			"m_id": 891,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6100"
+		},
+		{
+			"m_name": "K-바비큐 15cm 단품",
+			"m_id": 892,
+			"ms_id": 40,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6100"
+		},
+		{
+			"m_name": "부라타&보코치니 샐러드",
+			"m_id": 893,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "아보카도 샐러드",
+			"m_id": 894,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "멕시칸 콥 샐러드",
+			"m_id": 895,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "바게트 프렌치 토스트",
+			"m_id": 896,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "잉글리쉬 블랙퍼스트",
+			"m_id": 897,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "아보카도 오픈 샌드위치",
+			"m_id": 898,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "에그 베네딕트",
+			"m_id": 899,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "크리스피 치킨&와플",
+			"m_id": 900,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "아라비아따 링귀니",
+			"m_id": 901,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "까르보나라",
+			"m_id": 902,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "트리플 머쉬룸 페투치니",
+			"m_id": 903,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "로제 모짜렐라 페투치니",
+			"m_id": 904,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "킹프라운 토마토 링귀니",
+			"m_id": 905,
+			"ms_id": 41,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "새우 크림 파스타",
+			"m_id": 906,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "베이컨 크림 파스타",
+			"m_id": 907,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "수란 로제 파스타",
+			"m_id": 908,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "토마토 모짜렐라 파스타",
+			"m_id": 909,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "단아한 로제 떡볶이",
+			"m_id": 910,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "단아한 매운 떡볶이",
+			"m_id": 911,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "훈제연어&에그베네딕트",
+			"m_id": 912,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18900"
+		},
+		{
+			"m_name": "에그 베네딕트",
+			"m_id": 913,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "프렌치 토스트",
+			"m_id": 914,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "브런치 플레이트",
+			"m_id": 915,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "리코타 프리미엄",
+			"m_id": 916,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "아보카도 프리미엄",
+			"m_id": 917,
+			"ms_id": 42,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "레드데빌s 베이컨 더블버거",
+			"m_id": 918,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11300"
+		},
+		{
+			"m_name": "GTS 베이컨더블버거",
+			"m_id": 919,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "메가 불고기 베이컨 더블버거",
+			"m_id": 920,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "레드데빌s 더블 버거",
+			"m_id": 921,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10300"
+		},
+		{
+			"m_name": "GTS 매니아 더블버거",
+			"m_id": 922,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "윙9조각＋감자튀김",
+			"m_id": 923,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "GTS 치즈 버거",
+			"m_id": 924,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6900"
+		},
+		{
+			"m_name": "GTS 베이컨치즈버거",
+			"m_id": 925,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "GTS 매니아 버거",
+			"m_id": 926,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "수제 불고기치즈 버거 1인분",
+			"m_id": 927,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6900"
+		},
+		{
+			"m_name": "수제 불고기베이컨치즈 버거",
+			"m_id": 928,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "수제불고기매니아 버거",
+			"m_id": 929,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "GTS 더블버거",
+			"m_id": 930,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "GTS 베이컨더블버거",
+			"m_id": 931,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "GTS 매니아 더블버거",
+			"m_id": 932,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "메가 불고기 더블 버거",
+			"m_id": 933,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "메가 불고기 베이컨 더블버거",
+			"m_id": 934,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "레드데빌s 더블 버거",
+			"m_id": 935,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10300"
+		},
+		{
+			"m_name": "레드데빌s 베이컨 더블버거",
+			"m_id": 936,
+			"ms_id": 43,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11300"
+		},
+		{
+			"m_name": "더블치즈 버거",
+			"m_id": 937,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "베이컨 & 치즈 버거",
+			"m_id": 938,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "치킨파마잔 버거",
+			"m_id": 939,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "내슈빌 핫치킨 버거 （핫핫 완전매움）",
+			"m_id": 940,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "후라이드치킨 （300g）",
+			"m_id": 941,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "양념치킨 （300g）",
+			"m_id": 942,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "양념치킨 매운맛 （300g）",
+			"m_id": 943,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "마늘간장치킨 （300g）",
+			"m_id": 944,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "900도 페페로니피자",
+			"m_id": 945,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "900도 고르곤졸라피자",
+			"m_id": 946,
+			"ms_id": 44,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "짜장면",
+			"m_id": 947,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "삼선짜장면",
+			"m_id": 948,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "매운짜장면",
+			"m_id": 949,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "쟁반짜장면",
+			"m_id": 950,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "짬뽕",
+			"m_id": 951,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "삼선짬뽕",
+			"m_id": 952,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "차돌짬뽕",
+			"m_id": 953,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "삼선우동",
+			"m_id": 954,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "우동면",
+			"m_id": 955,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "향라초면",
+			"m_id": 956,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "군만두",
+			"m_id": 957,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "볶음밥",
+			"m_id": 958,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "삼선볶음밥",
+			"m_id": 959,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "짬뽕밥",
+			"m_id": 960,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "잡채밥",
+			"m_id": 961,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "마파두부밥",
+			"m_id": 962,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "송이덮밥",
+			"m_id": 963,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "유슬밥",
+			"m_id": 964,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 965,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "탕수육",
+			"m_id": 966,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "사천 탕수육",
+			"m_id": 967,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "깐풍기",
+			"m_id": 968,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "라조기",
+			"m_id": 969,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "칠리새우",
+			"m_id": 970,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "27000"
+		},
+		{
+			"m_name": "향라새우",
+			"m_id": 971,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "양장피",
+			"m_id": 972,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "고추잡채",
+			"m_id": 973,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "팔보채",
+			"m_id": 974,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "마파두부",
+			"m_id": 975,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "잡채",
+			"m_id": 976,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "해물누룽지탕",
+			"m_id": 977,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "유산슬",
+			"m_id": 978,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "술국",
+			"m_id": 979,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "음료수",
+			"m_id": 980,
+			"ms_id": 45,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "훈제연어 & 과카몰리 샐러드",
+			"m_id": 981,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "닭다리살 샐러드",
+			"m_id": 982,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "닭가슴살스테이크",
+			"m_id": 983,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8300"
+		},
+		{
+			"m_name": "구운버섯 샐러드",
+			"m_id": 984,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "바질파스타 샐러드",
+			"m_id": 985,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "훈제오리 샐러드",
+			"m_id": 986,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8700"
+		},
+		{
+			"m_name": "리코타치즈 샐러드",
+			"m_id": 987,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "멕시칸쉬림프 샐러드",
+			"m_id": 988,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9800"
+		},
+		{
+			"m_name": "목살스테이크 샐러드",
+			"m_id": 989,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "우삼겹샐러드",
+			"m_id": 990,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "연두부샐러드",
+			"m_id": 991,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8300"
+		},
+		{
+			"m_name": "（뚜레쥬르）단호박햄치즈 샌드위치",
+			"m_id": 992,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "（뚜레쥬르）블랙번디럭스 샌드위치",
+			"m_id": 993,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6200"
+		},
+		{
+			"m_name": "（뚜레쥬르）로제치킨 샌드위치",
+			"m_id": 994,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "단호박스프",
+			"m_id": 995,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "구운란",
+			"m_id": 996,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "훈제닭가슴살소세지 1개",
+			"m_id": 997,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "곤약잡곡밥 1개（110g）",
+			"m_id": 998,
+			"ms_id": 46,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "오늘의 한끼（국 or 찌개 랜덤＋반찬 4가지＋김치）",
+			"m_id": 999,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "야채비빔밥",
+			"m_id": 1000,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "소불고기비빔밥",
+			"m_id": 1001,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "코다리회비빔밥",
+			"m_id": 1002,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "김치찜 정식（김치찜＋공기밥＋김）",
+			"m_id": 1003,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "코다리회초무침",
+			"m_id": 1004,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "비빔밥토핑추가",
+			"m_id": 1005,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "반찬추가",
+			"m_id": 1006,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "김치추가 250g",
+			"m_id": 1007,
+			"ms_id": 47,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "슈퍼 콤비네이션（R）",
+			"m_id": 1008,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16700"
+		},
+		{
+			"m_name": "빅죠 페퍼로니（R）",
+			"m_id": 1009,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16700"
+		},
+		{
+			"m_name": "슈퍼 불고기（R）",
+			"m_id": 1010,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16700"
+		},
+		{
+			"m_name": "불라피뇨（매콤）（R）",
+			"m_id": 1011,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "17700"
+		},
+		{
+			"m_name": "직화 스테이크 앤 쉬림프（R）",
+			"m_id": 1012,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18700"
+		},
+		{
+			"m_name": "핫치킨 앤 쉬림프（매콤）（R）",
+			"m_id": 1013,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "18700"
+		},
+		{
+			"m_name": "수제 크리스피 치킨 15조각",
+			"m_id": 1014,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "수제 치킨 텐더 7조각",
+			"m_id": 1015,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "버팔로윙 8조각",
+			"m_id": 1016,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "BIG JOE 떡볶이",
+			"m_id": 1017,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "BIG JOE 튀김",
+			"m_id": 1018,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "강원도 감자 튀김",
+			"m_id": 1019,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "한국 은행",
+			"m_id": 1020,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "버터구이 오징어입",
+			"m_id": 1021,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "나가사끼 크림 짬뽕",
+			"m_id": 1022,
+			"ms_id": 48,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "세트（푸팟퐁커피 작은접시＋쌀국수 택1＋공기밥＋음료 355mL택1）",
+			"m_id": 1023,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "세트（푸팟퐁커리 큰접시＋쌀국수 택1＋공기밥＋음료 355mL택2）",
+			"m_id": 1024,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "세트（꿍팟퐁커리 작은접시＋쌀국수 택1＋공기밥＋음료 355mL택1）",
+			"m_id": 1025,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "세트（꿍팟퐁 커리 큰접시＋쌀국수 택1＋공기밥＋음료 355mL택2）",
+			"m_id": 1026,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "2人 SET A（메뉴 택2＋짜조＋음료 택1）",
+			"m_id": 1027,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "2人 SET B（메뉴 택2＋치킨윙＋음료 택1）",
+			"m_id": 1028,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "3人 SET （메뉴 택3＋치킨윙＋음료 택2）",
+			"m_id": 1029,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "34000"
+		},
+		{
+			"m_name": "푸팟퐁커리 작은접시",
+			"m_id": 1030,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "푸팟퐁커리 큰접시",
+			"m_id": 1031,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "꿍팟퐁커리 작은접시",
+			"m_id": 1032,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "꿍팟퐁커리 큰접시",
+			"m_id": 1033,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "똠양꿍 스프",
+			"m_id": 1034,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "우주최강 소프트쉘 크랩 덮밥",
+			"m_id": 1035,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "치킨윙 볶음（살짝매콤）",
+			"m_id": 1036,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "사골 양지 쌀국수",
+			"m_id": 1037,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "사골 프리미엄 쌀국수（차돌양지＋아롱사태＋힘줄）",
+			"m_id": 1038,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "사골 소고기 쌀국수",
+			"m_id": 1039,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "사골 아롱사태 쌀국수",
+			"m_id": 1040,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "팟타이 꿍",
+			"m_id": 1041,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "팟씨유 무",
+			"m_id": 1042,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "불고기덮밥",
+			"m_id": 1043,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "짜조 3P",
+			"m_id": 1044,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "수제 치킨윙 3P （인기메뉴）",
+			"m_id": 1045,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "치킨강정",
+			"m_id": 1046,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "감자튀김",
+			"m_id": 1047,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "치킨윙 or 짜조 中 택1",
+			"m_id": 1048,
+			"ms_id": 49,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "부라타 아라비아타",
+			"m_id": 1049,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "크레마 디 마레",
+			"m_id": 1050,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "감베리 오일 파스타",
+			"m_id": 1051,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "아보카도 명란 리조또",
+			"m_id": 1052,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "스테이크 토마토 리조또",
+			"m_id": 1053,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "감바스 알 아히오",
+			"m_id": 1054,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "149스테이크",
+			"m_id": 1055,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "하우스 샐러드",
+			"m_id": 1056,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "크리스피 감자튀김",
+			"m_id": 1057,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "트러플 오일 파스타",
+			"m_id": 1058,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "보따르가",
+			"m_id": 1059,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "아보카도 명란 파스타",
+			"m_id": 1060,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "트러플 크림 파스타",
+			"m_id": 1061,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "감베리 크레마",
+			"m_id": 1062,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "스테이크 크림 파스타",
+			"m_id": 1063,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "스테이크 토마토 파스타",
+			"m_id": 1064,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "부라타 포모도로",
+			"m_id": 1065,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "푸타네스카 파스타",
+			"m_id": 1066,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "페스카토레",
+			"m_id": 1067,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18500"
+		},
+		{
+			"m_name": "트러플 크림 리조또",
+			"m_id": 1068,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "스테이크 크림 리조또",
+			"m_id": 1069,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "23000"
+		},
+		{
+			"m_name": "감베리 크레마 리조또",
+			"m_id": 1070,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "부라타 아라비아따 리조또",
+			"m_id": 1071,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "부라타 포모도로 리조또",
+			"m_id": 1072,
+			"ms_id": 50,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "빛다리 연어회 小",
+			"m_id": 1073,
+			"ms_id": 51,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "빛다리 샐러드",
+			"m_id": 1074,
+			"ms_id": 51,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "콤부차 오리지널 355mL",
+			"m_id": 1075,
+			"ms_id": 51,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "블랙커런트 355mL",
+			"m_id": 1076,
+			"ms_id": 51,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "무알콜샴페인 블랑드블랑 750mL",
+			"m_id": 1077,
+			"ms_id": 51,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "29500"
+		},
+		{
+			"m_name": "콤부차 감귤",
+			"m_id": 1078,
+			"ms_id": 51,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "한우사골쌀국수",
+			"m_id": 1079,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "매운한우사골쌀국수",
+			"m_id": 1080,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "11500"
+		},
+		{
+			"m_name": "분보싸오（매콤비빔쌀국수）",
+			"m_id": 1081,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "똠양쌀국수",
+			"m_id": 1082,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "분짜",
+			"m_id": 1083,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "그릴포크볶음밥",
+			"m_id": 1084,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "새우게살볶음밥",
+			"m_id": 1085,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12800"
+		},
+		{
+			"m_name": "레드커리치킨볶음밥",
+			"m_id": 1086,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "새우커리덮밥（꿍팟퐁커리）",
+			"m_id": 1087,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "왕새우팟타이",
+			"m_id": 1088,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13900"
+		},
+		{
+			"m_name": "매콤치킨팟타이",
+			"m_id": 1089,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "포크팟타이（석쇠돼지불고기）",
+			"m_id": 1090,
+			"ms_id": 52,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "[신메뉴] 치즈롤돈까스",
+			"m_id": 1091,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "[신메뉴] 로제스파게티",
+			"m_id": 1092,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "반반세트",
+			"m_id": 1093,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "정통돈까스",
+			"m_id": 1094,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "치킨까스",
+			"m_id": 1095,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "생선까스",
+			"m_id": 1096,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "함박스테이크",
+			"m_id": 1097,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "치즈돈까스",
+			"m_id": 1098,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "치즈고구마돈까스",
+			"m_id": 1099,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "매운돈까스",
+			"m_id": 1100,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "모듬정식",
+			"m_id": 1101,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "하늘정식",
+			"m_id": 1102,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "치킨정식",
+			"m_id": 1103,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "치즈정식",
+			"m_id": 1104,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "치즈고구마정식",
+			"m_id": 1105,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "돈까스 소스 추가",
+			"m_id": 1106,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "생선까스 소스 추가",
+			"m_id": 1107,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "치킨까스 소스 추가",
+			"m_id": 1108,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "양배추 샐러드",
+			"m_id": 1109,
+			"ms_id": 53,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "타코비세트",
+			"m_id": 1110,
+			"ms_id": 54,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "타코비 스탠다드",
+			"m_id": 1111,
+			"ms_id": 54,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "타코비 시그니처 청양고추 15알",
+			"m_id": 1112,
+			"ms_id": 54,
+			"category": "피자양식",
+			"spicy": 3,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "타코비 시그니처 와사비 15알",
+			"m_id": 1113,
+			"ms_id": 54,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7500"
+		},
+		{
+			"m_name": "날치알주먹밥",
+			"m_id": 1114,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "모짜렐라 치즈스틱",
+			"m_id": 1115,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "스노윙 치즈감자 튀김",
+			"m_id": 1116,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "모듬감자 튀김",
+			"m_id": 1117,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "조각고구마 튀김",
+			"m_id": 1118,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "닭날개 봉튀김",
+			"m_id": 1119,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "화이트 치즈볼 6개",
+			"m_id": 1120,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "두꺼운 왕새우 튀김",
+			"m_id": 1121,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "바삭한 새우링 8개",
+			"m_id": 1122,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6500"
+		},
+		{
+			"m_name": "스노윙 닭똥집 튀김",
+			"m_id": 1123,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "매콤한 닭똥집 양념튀김",
+			"m_id": 1124,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 2,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "바삭바삭~교자만두 튀김 10조각",
+			"m_id": 1125,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "매콤한~교자만두 튀김 10조각",
+			"m_id": 1126,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "양념만두 10조각",
+			"m_id": 1127,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "코카콜라 500mL",
+			"m_id": 1128,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "코카콜라 1.25L",
+			"m_id": 1129,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "스프라이트 500mL",
+			"m_id": 1130,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "스프라이트 1.5L",
+			"m_id": 1131,
+			"ms_id": 55,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "뉴욕 프렌치토스트 브런치 박스",
+			"m_id": 1132,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "뉴욕 와플 브런치 박스",
+			"m_id": 1133,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "뉴욕 팬케잌 브런치 박스",
+			"m_id": 1134,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "뉴욕 윙 브런치 박스",
+			"m_id": 1135,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "18400"
+		},
+		{
+			"m_name": "버거＋파스타or리조또 2人 할인 SET（버거＋파스타＋감자튀김s＋마늘빵 3pcs＋탄산음료2）",
+			"m_id": 1136,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "28800"
+		},
+		{
+			"m_name": "버거＋파스타or리조또＋샐러드（2인할인SET）",
+			"m_id": 1137,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "39300"
+		},
+		{
+			"m_name": "클래식 버거",
+			"m_id": 1138,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "7900"
+		},
+		{
+			"m_name": "베이컨 치즈 버거",
+			"m_id": 1139,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "크리미 치즈 버거",
+			"m_id": 1140,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "하와이안 바비큐 버거",
+			"m_id": 1141,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "해시 브라운 버거",
+			"m_id": 1142,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "아보카도 렌치버거",
+			"m_id": 1143,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "치즈 칠리 버거（소스를 따로 보내드려요~부먹 or 찍먹!!）",
+			"m_id": 1144,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "머쉬룸 크림 버거（소스를 따로 보내드려요~ 부먹 or 찍먹!!）",
+			"m_id": 1145,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "10900"
+		},
+		{
+			"m_name": "뉴욕 더블 버거",
+			"m_id": 1146,
+			"ms_id": 56,
+			"category": "피자양식",
+			"spicy": 1,
+			"as_price": "13900"
+		}
+	]
+}

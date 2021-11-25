@@ -1,0 +1,4859 @@
+{
+	"store": [
+		{
+			"s_id": 0,
+			"s_name": "모자족발&보쌈-보정본점",
+			"address": "경기도 용인시 기흥구 보정동 1262번지 1층 117~120호 (보정동, 아이원프라자)",
+			"s_phone": "050352585622",
+			"order_n": 45171
+		},
+		{
+			"s_id": 1,
+			"s_name": "가마솥엄마와아들족발보쌈",
+			"address": "경기도 용인시 수지구 죽전동 454 수지1차길훈아파트 상가 1층 102호",
+			"s_phone": "050352581490",
+			"order_n": 37449
+		},
+		{
+			"s_id": 2,
+			"s_name": "마왕족발-수지점",
+			"address": "경기도 용인시 수지구 풍덕천동 708-3 708-3 1층",
+			"s_phone": "050352589914",
+			"order_n": 28643
+		},
+		{
+			"s_id": 3,
+			"s_name": "더맛있는족발&보쌈-보정점",
+			"address": "경기도 용인시 기흥구 보정동 1263 죽전누리에뜰아파트 1층 150호,151호",
+			"s_phone": "050718654757",
+			"order_n": 11614
+		},
+		{
+			"s_id": 4,
+			"s_name": "미스터보쌈족발-용인수지점",
+			"address": "경기도 용인시 수지구 풍덕천동 731-4 1층",
+			"s_phone": "050352590326",
+			"order_n": 15907
+		},
+		{
+			"s_id": 5,
+			"s_name": "내인생최고의족발-수지직영점",
+			"address": "경기도 용인시 수지구 풍덕천동 711-4 부광빌딩 1층",
+			"s_phone": "050352874238",
+			"order_n": 10645
+		},
+		{
+			"s_id": 6,
+			"s_name": "모두의만족-동천점",
+			"address": "경기도 용인시 수지구 동천동 883-12 돈조이식당 1층 101, 102호",
+			"s_phone": "050718632371",
+			"order_n": 46798
+		},
+		{
+			"s_id": 7,
+			"s_name": "창신동용족발-보정점",
+			"address": "경기도 용인시 기흥구 보정동 1261-4 장은메디칼프라자 114",
+			"s_phone": "050352879387",
+			"order_n": 40443
+		},
+		{
+			"s_id": 8,
+			"s_name": "장군왕족발-보쌈족발",
+			"address": "경기도 성남시 분당구 구미동 203-2 진도훼미리프라자 지하1층 B02-6호",
+			"s_phone": "050712927256",
+			"order_n": 7429
+		},
+		{
+			"s_id": 9,
+			"s_name": "가장맛있는족발-수지구청점",
+			"address": "경기도 용인시 수지구 풍덕천동 712-4 1층",
+			"s_phone": "050352536513",
+			"order_n": 13988
+		},
+		{
+			"s_id": 10,
+			"s_name": "오래오래장충동왕족발보쌈(수지구)",
+			"address": "경기도 용인시 수지구 동천동 887 (문인로54번길 2)",
+			"s_phone": "050352552524",
+			"order_n": 48830
+		},
+		{
+			"s_id": 11,
+			"s_name": "궁전족발보쌈",
+			"address": "경기도 용인시 수지구 동천동 887 (문인로54번길 2)",
+			"s_phone": "050352563312",
+			"order_n": 48103
+		},
+		{
+			"s_id": 12,
+			"s_name": "생활의달인 족발보쌈",
+			"address": "경기도 용인시 수지구 동천동 887 (문인로54번길 2)",
+			"s_phone": "050352563165",
+			"order_n": 2249
+		},
+		{
+			"s_id": 13,
+			"s_name": "호세야오리바베큐-풍덕천동",
+			"address": "경기도 용인시 수지구 풍덕천동 670-6 1층",
+			"s_phone": "050352582919",
+			"order_n": 21722
+		},
+		{
+			"s_id": 14,
+			"s_name": "장충동뚱뚱이할머니족발보쌈",
+			"address": "경기도 용인시 수지구 동천동 887 (문인로54번길 2)",
+			"s_phone": "050352570000",
+			"order_n": 27205
+		},
+		{
+			"s_id": 15,
+			"s_name": "마약보쌈족발-수지점",
+			"address": "경기도 용인시 수지구 풍덕천동 722-3 1층 102호",
+			"s_phone": "050712981919",
+			"order_n": 20931
+		},
+		{
+			"s_id": 16,
+			"s_name": "족발야시장-수지점",
+			"address": "경기도 용인시 수지구 풍덕천동 708-4 101,102호",
+			"s_phone": "050712958248",
+			"order_n": 35621
+		},
+		{
+			"s_id": 17,
+			"s_name": "구구족-용인보정점",
+			"address": "경기도 용인시 기흥구 보정동 1207-1 포레스트프라자 1207-1 포레스트프라자 105호",
+			"s_phone": "",
+			"order_n": 18585
+		},
+		{
+			"s_id": 18,
+			"s_name": "가장맛있는족발-보정점",
+			"address": "경기도 용인시 기흥구 보정동 1263 죽전누리에뜰아파트 107,109,165호",
+			"s_phone": "050718654388",
+			"order_n": 15582
+		},
+		{
+			"s_id": 19,
+			"s_name": "The맛있는족발보쌈-미금점",
+			"address": "경기도 성남시 분당구 구미동 35-11 1층",
+			"s_phone": "050352851656",
+			"order_n": 13435
+		},
+		{
+			"s_id": 20,
+			"s_name": "야만족-본점",
+			"address": "경기도 용인시 수지구 죽전동 1342-2 WHITEZONE 1층 105호",
+			"s_phone": "050352919604",
+			"order_n": 42350
+		},
+		{
+			"s_id": 21,
+			"s_name": "원할머니보쌈-용인죽전배달점",
+			"address": "경기도 용인시 수지구 죽전동 1216 새터마을 모아미래도 상가동104호",
+			"s_phone": "050712999101",
+			"order_n": 47891
+		},
+		{
+			"s_id": 22,
+			"s_name": "한성전통보쌈&병천순대",
+			"address": "경기도 용인시 수지구 풍덕천동 706-7 경진빌딩",
+			"s_phone": "050712949793",
+			"order_n": 17149
+		},
+		{
+			"s_id": 23,
+			"s_name": "싸움의고수-용인동백점",
+			"address": "경기도 용인시 기흥구 중동 830-1 동백 지스타 830-1 동백 지스타 110호",
+			"s_phone": "050352849171",
+			"order_n": 15157
+		},
+		{
+			"s_id": 24,
+			"s_name": "마마쿡-분당점",
+			"address": "경기도 성남시 분당구 금곡동 161 천사의도시1 오피스텔 101-1,2,3호",
+			"s_phone": "",
+			"order_n": 46859
+		},
+		{
+			"s_id": 25,
+			"s_name": "남도미락",
+			"address": "경기도 성남시 분당구 구미동 187-4 포인트타운 101",
+			"s_phone": "",
+			"order_n": 49637
+		},
+		{
+			"s_id": 26,
+			"s_name": "이화수전통육개장-분당오리점",
+			"address": "경기도 성남시 분당구 구미동 189-1 성우스타우스오피스텔 1층 115, 116, 119호",
+			"s_phone": "",
+			"order_n": 18154
+		},
+		{
+			"s_id": 27,
+			"s_name": "원할머니명품도시락-용인죽전배달점",
+			"address": "경기도 용인시 수지구 죽전동 1216 새터마을 모아미래도 1216 새터마을 모아미래도 상가동1층104호",
+			"s_phone": "050712999197",
+			"order_n": 25299
+		},
+		{
+			"s_id": 28,
+			"s_name": "봉평메밀면옥&보쌈-본점",
+			"address": "경기도 용인시 수지구 풍덕천동 1082-11 104, 105호",
+			"s_phone": "",
+			"order_n": 31572
+		},
+		{
+			"s_id": 29,
+			"s_name": "병천순대-동천점",
+			"address": "경기도 용인시 수지구 동천동 899 분당수지 U-TOWER A동 1층 130호",
+			"s_phone": "",
+			"order_n": 11154
+		},
+		{
+			"s_id": 30,
+			"s_name": "개성옹고집족발-구미본점",
+			"address": "경기도 성남시 분당구 구미동 34-4 102",
+			"s_phone": "",
+			"order_n": 35237
+		},
+		{
+			"s_id": 31,
+			"s_name": "얼데이파스타",
+			"address": "경기도 용인시 수지구 죽전동 1335-3 단대프라자 1 2층 202호",
+			"s_phone": "050352860366",
+			"order_n": 17218
+		},
+		{
+			"s_id": 32,
+			"s_name": "월선네-미금점",
+			"address": "경기도 성남시 분당구 금곡동 170 천사의도시3 오피스텔 1층 103-3호",
+			"s_phone": "",
+			"order_n": 38110
+		},
+		{
+			"s_id": 33,
+			"s_name": "365장군족발",
+			"address": "경기도 용인시 기흥구 구갈동 550-3 550-3 1층",
+			"s_phone": "050353716768",
+			"order_n": 13888
+		},
+		{
+			"s_id": 34,
+			"s_name": "이씨부엌",
+			"address": "경기도 성남시 분당구 구미동 192 LG트윈하우스 113호",
+			"s_phone": "",
+			"order_n": 694
+		}
+	],
+	"menu": [
+		{
+			"m_name": "생굴（통영직배송）",
+			"m_id": 1,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "족발（앞발） 大",
+			"m_id": 2,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "족발（뒷발） 中",
+			"m_id": 3,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "족발（뒷발） 小",
+			"m_id": 4,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "반반족발",
+			"m_id": 5,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "39000"
+		},
+		{
+			"m_name": "매운족발",
+			"m_id": 6,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "마늘족발",
+			"m_id": 7,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "직화족발",
+			"m_id": 8,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "간장족발",
+			"m_id": 9,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "냉채족발",
+			"m_id": 10,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "42000"
+		},
+		{
+			"m_name": "보쌈",
+			"m_id": 11,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "마늘보쌈",
+			"m_id": 12,
+			"ms_id": 0,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "（강추）그릴러 숯불족발 小＋엄마막국수",
+			"m_id": 13,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "29900"
+		},
+		{
+			"m_name": "（강추）그릴러 숯불족발 中＋엄마막국수",
+			"m_id": 14,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "34900"
+		},
+		{
+			"m_name": "（강추）그릴러 숯불족발 大＋엄마막국수",
+			"m_id": 15,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "39900"
+		},
+		{
+			"m_name": "（강추）그릴러 숯불족발 특大＋엄마막국수",
+			"m_id": 16,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "44900"
+		},
+		{
+			"m_name": "（강추）그릴러 숯불보쌈 小＋엄마막국수",
+			"m_id": 17,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "27900"
+		},
+		{
+			"m_name": "（강추）그릴러 숯불보쌈 中＋엄마막국수",
+			"m_id": 18,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "32900"
+		},
+		{
+			"m_name": "（강추）그릴러 숯불보쌈 大＋엄마막국수",
+			"m_id": 19,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "37900"
+		},
+		{
+			"m_name": "（강추）그릴러 숯불보쌈 특大＋엄마막국수",
+			"m_id": 20,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "42900"
+		},
+		{
+			"m_name": "보쌈小＋족발小",
+			"m_id": 21,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "55900"
+		},
+		{
+			"m_name": "보쌈中＋족발中",
+			"m_id": 22,
+			"ms_id": 1,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "65900"
+		},
+		{
+			"m_name": "마왕통구이 소",
+			"m_id": 23,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "마왕통구이 중",
+			"m_id": 24,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "마왕통구이 대",
+			"m_id": 25,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "보쌈구이 소",
+			"m_id": 26,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "보쌈구이 중",
+			"m_id": 27,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "보쌈구이 대",
+			"m_id": 28,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "소금구이 중",
+			"m_id": 29,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "소금구이 대",
+			"m_id": 30,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "불족발 중",
+			"m_id": 31,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "불족발 대",
+			"m_id": 32,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "불보쌈 중",
+			"m_id": 33,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "불보쌈 대",
+			"m_id": 34,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "갈릭족발 중",
+			"m_id": 35,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "갈릭족발 대",
+			"m_id": 36,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "냉채족발 중",
+			"m_id": 37,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "냉채족발 대",
+			"m_id": 38,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "미니족구이",
+			"m_id": 39,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "미니족구이 중",
+			"m_id": 40,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "미니족구이 대",
+			"m_id": 41,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "마왕세트（소）",
+			"m_id": 42,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "마왕세트（중）",
+			"m_id": 43,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "마왕세트（대）",
+			"m_id": 44,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "46000"
+		},
+		{
+			"m_name": "불족발or갈릭족발 ＋ 소금구이 중",
+			"m_id": 45,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "불족발or갈릭족발 ＋ 소금구이 대",
+			"m_id": 46,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "43000"
+		},
+		{
+			"m_name": "불족발 ＋ 갈릭족발 중",
+			"m_id": 47,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "불족발 ＋ 갈릭족발 대",
+			"m_id": 48,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "44000"
+		},
+		{
+			"m_name": "반반세트 중",
+			"m_id": 49,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "44000"
+		},
+		{
+			"m_name": "반반세트 대",
+			"m_id": 50,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "54000"
+		},
+		{
+			"m_name": "패밀리세트",
+			"m_id": 51,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "60000"
+		},
+		{
+			"m_name": "마왕스페셜",
+			"m_id": 52,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "63000"
+		},
+		{
+			"m_name": "무침족발",
+			"m_id": 53,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "쟁반국수（2인）",
+			"m_id": 54,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "쟁반국수（1인）¸",
+			"m_id": 55,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "족발볶음밥 1인",
+			"m_id": 56,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "족발볶음밥 2인",
+			"m_id": 57,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "비빔국수 1인",
+			"m_id": 58,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "비빔국수 2인",
+			"m_id": 59,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "마왕국수",
+			"m_id": 60,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "마왕국수 2인",
+			"m_id": 61,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "열무국수",
+			"m_id": 62,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "열무국수 2인",
+			"m_id": 63,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "미니족（불족）",
+			"m_id": 64,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "파인애플슬러쉬",
+			"m_id": 65,
+			"ms_id": 2,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "족발",
+			"m_id": 66,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "반반（족발＋불족）",
+			"m_id": 67,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "39000"
+		},
+		{
+			"m_name": "반반（족발＋마늘족발）",
+			"m_id": 68,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "39000"
+		},
+		{
+			"m_name": "반반 （불족발＋마늘족발）",
+			"m_id": 69,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "직화불족",
+			"m_id": 70,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "직화마늘족",
+			"m_id": 71,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "냉채족발",
+			"m_id": 72,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "45000"
+		},
+		{
+			"m_name": "보쌈",
+			"m_id": 73,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "마늘보쌈",
+			"m_id": 74,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "족보세트 2~6人（족＋보＋무김치＋쌈무＋청양고추＋쌈장＋새우젓＋마늘＋상추＋막국수 큰거）",
+			"m_id": 75,
+			"ms_id": 3,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "43000"
+		},
+		{
+			"m_name": "미스터보쌈3인세트",
+			"m_id": 76,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "34000"
+		},
+		{
+			"m_name": "미스터보쌈2인",
+			"m_id": 77,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "미스터400（김치찌개포함）",
+			"m_id": 78,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "미스터보쌈4인세트",
+			"m_id": 79,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "46000"
+		},
+		{
+			"m_name": "미스터족발세트（한족）",
+			"m_id": 80,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "미스터400（김치찌개포함）",
+			"m_id": 81,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "미스터보쌈2인",
+			"m_id": 82,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "미스터보쌈＋훈제보쌈",
+			"m_id": 83,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "미스터보쌈3인세트",
+			"m_id": 84,
+			"ms_id": 4,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "34000"
+		},
+		{
+			"m_name": "인생족발＋별미비빔막국수",
+			"m_id": 85,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "반반족발＋별미비빔막국수",
+			"m_id": 86,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "직화불족발＋별미비빔막국수",
+			"m_id": 87,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "허니마늘족발＋별미비빔막국수",
+			"m_id": 88,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "인생보쌈＋별미비빔막국수",
+			"m_id": 89,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "허니마늘보쌈＋별미비빔막국수",
+			"m_id": 90,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "반반보쌈＋별미비빔막국수",
+			"m_id": 91,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "족보 SET＋별미비빔막국수 2~3人（소）",
+			"m_id": 92,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "족보 SET＋별미비빔막국수 3~4人（중）",
+			"m_id": 93,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "족보 SET＋별미비빔막국수 5~6人（대）",
+			"m_id": 94,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "65000"
+		},
+		{
+			"m_name": "족보 SET＋별미비빔막국수 7~8人（특대）",
+			"m_id": 95,
+			"ms_id": 5,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "75000"
+		},
+		{
+			"m_name": "참숯족발",
+			"m_id": 96,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29900"
+		},
+		{
+			"m_name": "참숯매운족발",
+			"m_id": 97,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "31900"
+		},
+		{
+			"m_name": "반반족발（참숯＋매운족발）",
+			"m_id": 98,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "36900"
+		},
+		{
+			"m_name": "참숯보쌈",
+			"m_id": 99,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29900"
+		},
+		{
+			"m_name": "불보쌈",
+			"m_id": 100,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30900"
+		},
+		{
+			"m_name": "마늘보쌈",
+			"m_id": 101,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30900"
+		},
+		{
+			"m_name": "반반보쌈（마늘보쌈＋불보쌈）",
+			"m_id": 102,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "35900"
+		},
+		{
+			"m_name": "왕족발",
+			"m_id": 103,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29900"
+		},
+		{
+			"m_name": "set 小（족발1／2＋보쌈 大 1／2）",
+			"m_id": 104,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "41900"
+		},
+		{
+			"m_name": "set 中（족발 中＋보쌈 小）",
+			"m_id": 105,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "49900"
+		},
+		{
+			"m_name": "set 大（족발 中＋보쌈 中 ）",
+			"m_id": 106,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "53900"
+		},
+		{
+			"m_name": "set 특大（족발 大＋보쌈 大）",
+			"m_id": 107,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "58900"
+		},
+		{
+			"m_name": "쟁반국수",
+			"m_id": 108,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "순두부찌개（비조리）",
+			"m_id": 109,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "날치알주먹밥",
+			"m_id": 110,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "보쌈김치",
+			"m_id": 111,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 112,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "쌈무",
+			"m_id": 113,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "무김치",
+			"m_id": 114,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "쌈채소",
+			"m_id": 115,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "기본찬 5종",
+			"m_id": 116,
+			"ms_id": 6,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "영양족발",
+			"m_id": 117,
+			"ms_id": 7,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "34000"
+		},
+		{
+			"m_name": "매운족발",
+			"m_id": 118,
+			"ms_id": 7,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "매운미니족",
+			"m_id": 119,
+			"ms_id": 7,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "순대",
+			"m_id": 120,
+			"ms_id": 7,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "주먹밥",
+			"m_id": 121,
+			"ms_id": 7,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "쿨피스",
+			"m_id": 122,
+			"ms_id": 7,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "엄나무 보쌈과 비빔막국수 小",
+			"m_id": 123,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "직접삶은 족발과 막국수 小",
+			"m_id": 124,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "족발＋매운양념족발",
+			"m_id": 125,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "보쌈＋매운양념족발",
+			"m_id": 126,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "매운양념족발",
+			"m_id": 127,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "홍어삼합보쌈",
+			"m_id": 128,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "39000"
+		},
+		{
+			"m_name": "보쌈＋족발 세트 3人",
+			"m_id": 129,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "39000"
+		},
+		{
+			"m_name": "보쌈＋족발 세트 4人",
+			"m_id": 130,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "49000"
+		},
+		{
+			"m_name": "싱싱 굴보쌈 2인",
+			"m_id": 131,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "싱싱 굴보쌈 3인",
+			"m_id": 132,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "39000"
+		},
+		{
+			"m_name": "싱싱 굴보쌈 4인",
+			"m_id": 133,
+			"ms_id": 8,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "49000"
+		},
+		{
+			"m_name": "쟁반국수＋주먹밥",
+			"m_id": 134,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "족발",
+			"m_id": 135,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "보쌈",
+			"m_id": 136,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "직화 불족발",
+			"m_id": 137,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "가족의 족보（족발＋보쌈） 中 뒷발",
+			"m_id": 138,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "46000"
+		},
+		{
+			"m_name": "가족의 족보（족발＋보쌈） 中 앞발",
+			"m_id": 139,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "50000"
+		},
+		{
+			"m_name": "냉채족발",
+			"m_id": 140,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "반반족발（족발＋불족）",
+			"m_id": 141,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "가족의 모듬 2人세트＋주먹밥",
+			"m_id": 142,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "가족의 모듬 中＋주먹밥",
+			"m_id": 143,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "50000"
+		},
+		{
+			"m_name": "가족의 모듬 大＋주먹밥",
+			"m_id": 144,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "70000"
+		},
+		{
+			"m_name": "쟁반국수 ＋ 주먹밥",
+			"m_id": 145,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "해물부추전",
+			"m_id": 146,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "얼큰술국",
+			"m_id": 147,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "주먹밥",
+			"m_id": 148,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "보쌈김치 추가",
+			"m_id": 149,
+			"ms_id": 9,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "족발小",
+			"m_id": 150,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "족발中",
+			"m_id": 151,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "족발大",
+			"m_id": 152,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "34000"
+		},
+		{
+			"m_name": "족발특大",
+			"m_id": 153,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "39000"
+		},
+		{
+			"m_name": "보쌈小",
+			"m_id": 154,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "보쌈中",
+			"m_id": 155,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "보쌈大",
+			"m_id": 156,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "보쌈특大",
+			"m_id": 157,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "바베큐보쌈小",
+			"m_id": 158,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "바베큐보쌈中",
+			"m_id": 159,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "바베큐보쌈大",
+			"m_id": 160,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "모듬（족발＋보쌈）小",
+			"m_id": 161,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "50000"
+		},
+		{
+			"m_name": "모듬（족발＋보쌈）大",
+			"m_id": 162,
+			"ms_id": 10,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "55000"
+		},
+		{
+			"m_name": "모듬 大（족발大＋보쌈大）",
+			"m_id": 163,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "50000"
+		},
+		{
+			"m_name": "모듬 中（족발中＋보쌈中）",
+			"m_id": 164,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "45000"
+		},
+		{
+			"m_name": "모듬 小（족발小＋보쌈小）",
+			"m_id": 165,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "족발 특大",
+			"m_id": 166,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "족발 大",
+			"m_id": 167,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "족발 中",
+			"m_id": 168,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "족발 小",
+			"m_id": 169,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "보쌈 특大",
+			"m_id": 170,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "보쌈 大",
+			"m_id": 171,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "보쌈 中",
+			"m_id": 172,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "보쌈 小",
+			"m_id": 173,
+			"ms_id": 11,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "족발小",
+			"m_id": 174,
+			"ms_id": 12,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "족발 中 ／ 大／특大",
+			"m_id": 175,
+			"ms_id": 12,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "보쌈小",
+			"m_id": 176,
+			"ms_id": 12,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "보쌈 中 ／ 大／특大",
+			"m_id": 177,
+			"ms_id": 12,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "모듬",
+			"m_id": 178,
+			"ms_id": 12,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "오리장작 바베큐 小",
+			"m_id": 179,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "오리장작 바베큐 中",
+			"m_id": 180,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "오리장작 바베큐 大",
+			"m_id": 181,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "통삼겹 바베큐 小",
+			"m_id": 182,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "통삼겹 바베큐 中",
+			"m_id": 183,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "통삼겹 바베큐 大",
+			"m_id": 184,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "모듬장작 바베큐 中",
+			"m_id": 185,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "모듬장작 바베큐 大",
+			"m_id": 186,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "모듬장작 바베큐 특大",
+			"m_id": 187,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "47000"
+		},
+		{
+			"m_name": "오리 정식（1人）",
+			"m_id": 188,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "수제소시지",
+			"m_id": 189,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 190,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "콜라 500mL",
+			"m_id": 191,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "콜라 1.25L",
+			"m_id": 192,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "사이다 500mL",
+			"m_id": 193,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1500"
+		},
+		{
+			"m_name": "사이다 1.25L",
+			"m_id": 194,
+			"ms_id": 13,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2500"
+		},
+		{
+			"m_name": "족발 小",
+			"m_id": 195,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "족발 中",
+			"m_id": 196,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "족발 大",
+			"m_id": 197,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "족발 특大",
+			"m_id": 198,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "보쌈 小",
+			"m_id": 199,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "보쌈 中",
+			"m_id": 200,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "보쌈 大",
+			"m_id": 201,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "보쌈 특大",
+			"m_id": 202,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "모듬 小",
+			"m_id": 203,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "모듬 中",
+			"m_id": 204,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "48000"
+		},
+		{
+			"m_name": "모듬 大",
+			"m_id": 205,
+			"ms_id": 14,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "53000"
+		},
+		{
+			"m_name": "혼자먹는 100%국내산족발＋쟁반막국수",
+			"m_id": 206,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "19900"
+		},
+		{
+			"m_name": "혼자먹는 100%국내산 직화족발＋쟁반막국수",
+			"m_id": 207,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "19900"
+		},
+		{
+			"m_name": "혼자먹는 100%국내산 불족발＋쟁반막국수",
+			"m_id": 208,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "19900"
+		},
+		{
+			"m_name": "혼자먹는 야들보쌈＋쟁반막국수",
+			"m_id": 209,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "19900"
+		},
+		{
+			"m_name": "족발",
+			"m_id": 210,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "마늘족발",
+			"m_id": 211,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "직화족발",
+			"m_id": 212,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "불족발",
+			"m_id": 213,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "보쌈",
+			"m_id": 214,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "마늘보쌈",
+			"m_id": 215,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "불보쌈",
+			"m_id": 216,
+			"ms_id": 15,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "오늘삶은 국내산 족발",
+			"m_id": 217,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "맛있게맵다 직화불족발",
+			"m_id": 218,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "환상의두가지맛 반반족발 SET",
+			"m_id": 219,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "새콤달콤 냉채족발",
+			"m_id": 220,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "쟁반막국수 小",
+			"m_id": 221,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "쟁반막국수 大",
+			"m_id": 222,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "쟁반쫄면 小",
+			"m_id": 223,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "쟁반쫄면 大",
+			"m_id": 224,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "반반막국수",
+			"m_id": 225,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "춘천물막국수",
+			"m_id": 226,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "날치알주먹밥（2p）",
+			"m_id": 227,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "날치알주먹밥（4p）",
+			"m_id": 228,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "날치알주먹밥（6p）",
+			"m_id": 229,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "옛날도시락",
+			"m_id": 230,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 231,
+			"ms_id": 16,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "구구족 1인 족발만（야채x）",
+			"m_id": 232,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "14900"
+		},
+		{
+			"m_name": "구구족 족발만（야채X）",
+			"m_id": 233,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "21900"
+		},
+		{
+			"m_name": "싹쓰리 순살족발（일반＋마늘＋양념）",
+			"m_id": 234,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "27900"
+		},
+		{
+			"m_name": "당일 삶은 구구족",
+			"m_id": 235,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "23900"
+		},
+		{
+			"m_name": "[일반＋매운양념]순살반반족발",
+			"m_id": 236,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "26900"
+		},
+		{
+			"m_name": "[일반＋마늘]순살반반족발",
+			"m_id": 237,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26900"
+		},
+		{
+			"m_name": "[마늘＋매운양념] 순살반반족발",
+			"m_id": 238,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "27900"
+		},
+		{
+			"m_name": "맛있게 매운 순살양념족발",
+			"m_id": 239,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "26900"
+		},
+		{
+			"m_name": "알싸달콤한 마늘족발",
+			"m_id": 240,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26900"
+		},
+		{
+			"m_name": "구구족 옛날 족발（약간차가운 꼬들족발）",
+			"m_id": 241,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "23900"
+		},
+		{
+			"m_name": "싹쓰리 보쌈 3종 중 （400g）",
+			"m_id": 242,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28900"
+		},
+		{
+			"m_name": "싹쓰리 보쌈 3종 대 （600g）",
+			"m_id": 243,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37900"
+		},
+		{
+			"m_name": "부드러운 보쌈 소",
+			"m_id": 244,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18900"
+		},
+		{
+			"m_name": "부드러운 보쌈 중",
+			"m_id": 245,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25900"
+		},
+		{
+			"m_name": "부드러운 보쌈 대",
+			"m_id": 246,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33900"
+		},
+		{
+			"m_name": "알싸달콤 마늘보쌈 소",
+			"m_id": 247,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "20900"
+		},
+		{
+			"m_name": "알싸달콤 마늘보쌈 중",
+			"m_id": 248,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28900"
+		},
+		{
+			"m_name": "알싸달콤 마늘보쌈 대",
+			"m_id": 249,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37900"
+		},
+		{
+			"m_name": "매운 파 보쌈 소",
+			"m_id": 250,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "20900"
+		},
+		{
+			"m_name": "매운 파 보쌈 중",
+			"m_id": 251,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28900"
+		},
+		{
+			"m_name": "매운 파 보쌈 대",
+			"m_id": 252,
+			"ms_id": 17,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37900"
+		},
+		{
+			"m_name": "세트메뉴（반반족발＋막국수＋백김치＋것절이＋부추무침＋상추＋마늘＋새우젓＋쌈장＋절인고추）",
+			"m_id": 253,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "세트메뉴（가족의족보＋막국수＋백김치＋것절이＋부추무침＋상추＋마늘＋새우젓＋쌈장＋절인고추）",
+			"m_id": 254,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "39000"
+		},
+		{
+			"m_name": "세트메뉴（불족반＋온족반＋보쌈＋막국수＋백김치＋것절이＋부추무침＋상추＋마늘＋새우젓＋쌈장＋절인고추）",
+			"m_id": 255,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "52000"
+		},
+		{
+			"m_name": "세트메뉴（불족발＋보쌈＋막국수＋백김치＋것절이＋부추무침＋상추＋마늘＋새우젓＋쌈장＋절인고추）",
+			"m_id": 256,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "52000"
+		},
+		{
+			"m_name": "족발＋막국수",
+			"m_id": 257,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "직화불족발＋막국수",
+			"m_id": 258,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "흑마늘 족발＋막국수",
+			"m_id": 259,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "냉채족발＋막국수",
+			"m_id": 260,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "보쌈＋막국수",
+			"m_id": 261,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "큰쟁반국수大",
+			"m_id": 262,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "쟁반국수（中）",
+			"m_id": 263,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "모듬오뎅탕",
+			"m_id": 264,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "술국",
+			"m_id": 265,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "해물부추전",
+			"m_id": 266,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "주먹밥",
+			"m_id": 267,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "계란찜",
+			"m_id": 268,
+			"ms_id": 18,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "족발",
+			"m_id": 269,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "직화불족발",
+			"m_id": 270,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "직화마늘족발",
+			"m_id": 271,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "34000"
+		},
+		{
+			"m_name": "BBQ 데리야끼족발",
+			"m_id": 272,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "냉채족발",
+			"m_id": 273,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "보쌈",
+			"m_id": 274,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "마늘보쌈",
+			"m_id": 275,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "SET（족발＋불족발）",
+			"m_id": 276,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "SET（족발＋마늘족발）",
+			"m_id": 277,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "SET（불족＋마늘족발）",
+			"m_id": 278,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "SET（족발＋데리야끼족발）",
+			"m_id": 279,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "40000"
+		},
+		{
+			"m_name": "SET（불족 or 마늘족 中 택1＋데리야끼족발）",
+			"m_id": 280,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "41000"
+		},
+		{
+			"m_name": "SET（족발＋보쌈）",
+			"m_id": 281,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "55000"
+		},
+		{
+			"m_name": "순두부찌개",
+			"m_id": 282,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "막국수",
+			"m_id": 283,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "물막국수",
+			"m_id": 284,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "날치알주먹밥",
+			"m_id": 285,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "계란찜",
+			"m_id": 286,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "주먹밥＋계란찜",
+			"m_id": 287,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 288,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "불족소스",
+			"m_id": 289,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "마늘소스",
+			"m_id": 290,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "냉채소스",
+			"m_id": 291,
+			"ms_id": 19,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "（앞발）야만족 족발 大",
+			"m_id": 292,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "（앞발）야만족 족발 中",
+			"m_id": 293,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "（앞발）야만족 불족발 大",
+			"m_id": 294,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "（앞발）야만족 불족발 中",
+			"m_id": 295,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "야만족 보쌈 大",
+			"m_id": 296,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "야만족 보쌈 中",
+			"m_id": 297,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "（앞발）야만족 족발＋불족발 세트",
+			"m_id": 298,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "（앞발）야만족 족발＋보쌈 세트",
+			"m_id": 299,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "（앞발）야만족 불족발＋보쌈세트",
+			"m_id": 300,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "（앞발）야만족 족발＋통닭발 세트",
+			"m_id": 301,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "（앞발）야만족 족발＋무뼈닭발 세트",
+			"m_id": 302,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "（앞발）야만족 족발＋국물닭발 세트",
+			"m_id": 303,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "야만족 통닭발",
+			"m_id": 304,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "야만족 무뼈닭발",
+			"m_id": 305,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "야만족 국물닭발",
+			"m_id": 306,
+			"ms_id": 20,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "모둠보쌈",
+			"m_id": 307,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "의성마늘떡보쌈",
+			"m_id": 308,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "솜씨보쌈",
+			"m_id": 309,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "31000"
+		},
+		{
+			"m_name": "맛보쌈",
+			"m_id": 310,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "보쌈＋제육도시락",
+			"m_id": 311,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "맛있게 매운 의성마늘떡맵쌈",
+			"m_id": 312,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "37000"
+		},
+		{
+			"m_name": "맛있게 매운 솜씨 맵쌈",
+			"m_id": 313,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "맛있게 매운 1인 맵쌈",
+			"m_id": 314,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "매운火보쌈",
+			"m_id": 315,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "매운火족발",
+			"m_id": 316,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "44000"
+		},
+		{
+			"m_name": "매운火족발 （반족）",
+			"m_id": 317,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "32000"
+		},
+		{
+			"m_name": "1인보쌈",
+			"m_id": 318,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "17500"
+		},
+		{
+			"m_name": "1인보쌈 주먹밥 세트",
+			"m_id": 319,
+			"ms_id": 21,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "코카콜라 500mL",
+			"m_id": 320,
+			"ms_id": 22,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "코카콜라 1.25mL",
+			"m_id": 321,
+			"ms_id": 22,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "1인 마늘보쌈L",
+			"m_id": 322,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "1인 싸움보쌈L",
+			"m_id": 323,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "1인 간장보쌈L",
+			"m_id": 324,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "1인 족발L",
+			"m_id": 325,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "1인 삼겹살&목살L",
+			"m_id": 326,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11600"
+		},
+		{
+			"m_name": "1인 보쌈L",
+			"m_id": 327,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 마늘족발M",
+			"m_id": 328,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 싸움족발 M",
+			"m_id": 329,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 간장족발 M",
+			"m_id": 330,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 닭볶음탕",
+			"m_id": 331,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 간장찜닭",
+			"m_id": 332,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 싸움삼겹살&목살M",
+			"m_id": 333,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10600"
+		},
+		{
+			"m_name": "1인 간장삼겹살&목살M",
+			"m_id": 334,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10600"
+		},
+		{
+			"m_name": "1인 제육",
+			"m_id": 335,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10600"
+		},
+		{
+			"m_name": "1인 불족발M",
+			"m_id": 336,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "1인 마늘보쌈M",
+			"m_id": 337,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "1인 싸움보쌈 M",
+			"m_id": 338,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "1인 간장보쌈M",
+			"m_id": 339,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "1인 족발 M",
+			"m_id": 340,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "싸움덮밥 L",
+			"m_id": 341,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9700"
+		},
+		{
+			"m_name": "1인 보쌈M",
+			"m_id": 342,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "1인 보쌈L",
+			"m_id": 343,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 보쌈XL",
+			"m_id": 344,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "1인 마늘보쌈M",
+			"m_id": 345,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "1인 마늘보쌈L",
+			"m_id": 346,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "1인 마늘보쌈XL",
+			"m_id": 347,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "1인 싸움보쌈 M",
+			"m_id": 348,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "1인 싸움보쌈L",
+			"m_id": 349,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "1인 싸움보쌈XL",
+			"m_id": 350,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "1인 간장보쌈M",
+			"m_id": 351,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "1인 간장보쌈L",
+			"m_id": 352,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "1인 간장보쌈XL",
+			"m_id": 353,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "1인 보쌈 안주세트M（공기밥 별도）",
+			"m_id": 354,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "14500"
+		},
+		{
+			"m_name": "1인 보쌈 안주세트L（공기밥 별도）",
+			"m_id": 355,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "2인 보쌈 안주세트（공기밥 별도）",
+			"m_id": 356,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "27500"
+		},
+		{
+			"m_name": "2인 보쌈（공기밥 별도）",
+			"m_id": 357,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24900"
+		},
+		{
+			"m_name": "2인 마늘보쌈（공기밥 별도）",
+			"m_id": 358,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26400"
+		},
+		{
+			"m_name": "2인 싸움보쌈（공기밥 별도）",
+			"m_id": 359,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26400"
+		},
+		{
+			"m_name": "2인 간장보쌈（공기밥 별도）",
+			"m_id": 360,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26400"
+		},
+		{
+			"m_name": "1인 족발 M",
+			"m_id": 361,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "1인 족발L",
+			"m_id": 362,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12000"
+		},
+		{
+			"m_name": "1인 족발XL",
+			"m_id": 363,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "14000"
+		},
+		{
+			"m_name": "1인 마늘족발M",
+			"m_id": 364,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 마늘족발L",
+			"m_id": 365,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "1인 마늘족발XL",
+			"m_id": 366,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "1인 싸움족발 M",
+			"m_id": 367,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 싸움족발L",
+			"m_id": 368,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "1인 싸움족발XL",
+			"m_id": 369,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "1인 간장족발 M",
+			"m_id": 370,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "1인 간장족발L",
+			"m_id": 371,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "1인 간장족발XL",
+			"m_id": 372,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "1인 불족발M",
+			"m_id": 373,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "10500"
+		},
+		{
+			"m_name": "1인 불족발L",
+			"m_id": 374,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "1인 불족발 XL",
+			"m_id": 375,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "14500"
+		},
+		{
+			"m_name": "1인 족발 안주세트M（공기밥 별도）",
+			"m_id": 376,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "15500"
+		},
+		{
+			"m_name": "1인 족발 안주세트L（공기밥 별도）",
+			"m_id": 377,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "2인 족발 안주세트（공기밥 별도）",
+			"m_id": 378,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29500"
+		},
+		{
+			"m_name": "2인 보족（공기밥 별도）",
+			"m_id": 379,
+			"ms_id": 23,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26400"
+		},
+		{
+			"m_name": "소고기미역국",
+			"m_id": 380,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "카레",
+			"m_id": 381,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "짜장",
+			"m_id": 382,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "소고기무국",
+			"m_id": 383,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "청국장찌개",
+			"m_id": 384,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "육개장",
+			"m_id": 385,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "차돌박이된장찌개",
+			"m_id": 386,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "해물순두부찌개",
+			"m_id": 387,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5500"
+		},
+		{
+			"m_name": "돼지고기 김치찌개",
+			"m_id": 388,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "콩비지찌개",
+			"m_id": 389,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "뼈다귀감자탕大",
+			"m_id": 390,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "양념콩나물",
+			"m_id": 391,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "시금치나물",
+			"m_id": 392,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "깻잎나물",
+			"m_id": 393,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "도라지볶음",
+			"m_id": 394,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "고사리나물",
+			"m_id": 395,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "무나물볶음",
+			"m_id": 396,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "가지나물",
+			"m_id": 397,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "참나물",
+			"m_id": 398,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "고추장진미채볶음",
+			"m_id": 399,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "간장진미채볶음",
+			"m_id": 400,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "건새우볶음",
+			"m_id": 401,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "건새우고추장볶음",
+			"m_id": 402,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "꽈리고추멸치볶음",
+			"m_id": 403,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "쥐포채볶음",
+			"m_id": 404,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "잔멸치볶음",
+			"m_id": 405,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "고추장멸치볶음",
+			"m_id": 406,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "오징어실채볶음",
+			"m_id": 407,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "동전쥐포볶음",
+			"m_id": 408,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "동전쥐포고추장볶음",
+			"m_id": 409,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "미니갈치볶음",
+			"m_id": 410,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "미역줄기볶음",
+			"m_id": 411,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "조미김자반",
+			"m_id": 412,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "시래기된장볶음",
+			"m_id": 413,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "6000"
+		},
+		{
+			"m_name": "꽈리고추찜",
+			"m_id": 414,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "황태채고추장볶음",
+			"m_id": 415,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "4500"
+		},
+		{
+			"m_name": "느타리버섯볶음",
+			"m_id": 416,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3500"
+		},
+		{
+			"m_name": "표고버섯볶음",
+			"m_id": 417,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "땅콩조림",
+			"m_id": 418,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "새송이버섯볶음",
+			"m_id": 419,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "건꼴뚜기볶음",
+			"m_id": 420,
+			"ms_id": 24,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "홍어삼합",
+			"m_id": 421,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "48000"
+		},
+		{
+			"m_name": "낙지볶음",
+			"m_id": 422,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "굴전",
+			"m_id": 423,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "낙지초무침",
+			"m_id": 424,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "45000"
+		},
+		{
+			"m_name": "꼬막비빔밥",
+			"m_id": 425,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "낙지비빔밥",
+			"m_id": 426,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "웰빙비빔밥",
+			"m_id": 427,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "제육볶음",
+			"m_id": 428,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "보리굴비 1인분",
+			"m_id": 429,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 430,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "굴국밥",
+			"m_id": 431,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "생대구매운탕（비조리）",
+			"m_id": 432,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "생대구지리탕（비조리）",
+			"m_id": 433,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "동태전골小（비조리）",
+			"m_id": 434,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "동태전골中（비조리）",
+			"m_id": 435,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "낙지연포탕小（비조리）",
+			"m_id": 436,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "70000"
+		},
+		{
+			"m_name": "낙지연포탕大（비조리）",
+			"m_id": 437,
+			"ms_id": 25,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "90000"
+		},
+		{
+			"m_name": "부대육개장",
+			"m_id": 438,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "전통 육개장",
+			"m_id": 439,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "차돌 육개장",
+			"m_id": 440,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "사골 떡만두국",
+			"m_id": 441,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "맑은 육개장",
+			"m_id": 442,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9000"
+		},
+		{
+			"m_name": "어린이 맑은 육개장",
+			"m_id": 443,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "모듬 수육 전골",
+			"m_id": 444,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "양지 육개장 전골",
+			"m_id": 445,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "양지고기 추가",
+			"m_id": 446,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "보쌈고기 추가",
+			"m_id": 447,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "꼬리 추가",
+			"m_id": 448,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "스지 추가",
+			"m_id": 449,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "보쌈 무 추가",
+			"m_id": 450,
+			"ms_id": 26,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "5000"
+		},
+		{
+			"m_name": "1인보쌈",
+			"m_id": 451,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "17500"
+		},
+		{
+			"m_name": "1인보쌈 주먹밥 세트",
+			"m_id": 452,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "맛있게 매운 1인 맵쌈",
+			"m_id": 453,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "19500"
+		},
+		{
+			"m_name": "보쌈도시락",
+			"m_id": 454,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "제육도시락",
+			"m_id": 455,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "매운보쌈도시락",
+			"m_id": 456,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "광릉식불고기도시락",
+			"m_id": 457,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "오징어볶음도시락",
+			"m_id": 458,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "보쌈＋제육도시락",
+			"m_id": 459,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "보쌈＋광릉식불고기도시락",
+			"m_id": 460,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "24000"
+		},
+		{
+			"m_name": "보쌈＋오징어볶음도시락",
+			"m_id": 461,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "곱빼기 보쌈도시락",
+			"m_id": 462,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "보쌈도시락",
+			"m_id": 463,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "제육도시락",
+			"m_id": 464,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "매운보쌈도시락",
+			"m_id": 465,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "광릉식불고기도시락",
+			"m_id": 466,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "오징어볶음도시락",
+			"m_id": 467,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "보쌈＋제육도시락",
+			"m_id": 468,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "보쌈＋광릉식불고기도시락",
+			"m_id": 469,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "보쌈＋오징어볶음도시락",
+			"m_id": 470,
+			"ms_id": 27,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "코다리 메밀 비빔막국수",
+			"m_id": 471,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "메밀 물막국수",
+			"m_id": 472,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "메밀싹 수육",
+			"m_id": 473,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "수육 한 접시",
+			"m_id": 474,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "메밀 묵사발",
+			"m_id": 475,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "도토리 묵사발",
+			"m_id": 476,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "메밀싹 비빔밥",
+			"m_id": 477,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "도토리묵 무침",
+			"m_id": 478,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "메밀 만두국",
+			"m_id": 479,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 480,
+			"ms_id": 28,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "병천 순대국",
+			"m_id": 481,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "병천순대국 [순대만]",
+			"m_id": 482,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "병천순대국 [내장만]",
+			"m_id": 483,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "얼큰 순대국",
+			"m_id": 484,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "얼큰순대국 [순대만]",
+			"m_id": 485,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "얼큰순대국 [내장만]",
+			"m_id": 486,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "돼지국밥",
+			"m_id": 487,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8500"
+		},
+		{
+			"m_name": "얼큰돼지국밥",
+			"m_id": 488,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "병천순대국정식",
+			"m_id": 489,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "병천순대국정식 [순대만]",
+			"m_id": 490,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "병천순대국정식 [내장만]",
+			"m_id": 491,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "돼지국밥정식",
+			"m_id": 492,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "얼큰순대국정식",
+			"m_id": 493,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "얼큰순대국정식 [순대만]",
+			"m_id": 494,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "얼큰순대국정식 [내장만]",
+			"m_id": 495,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "얼큰돼지국밥정식",
+			"m_id": 496,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "돼지국밥 편육정식",
+			"m_id": 497,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "병천순대국 편육정식",
+			"m_id": 498,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "12500"
+		},
+		{
+			"m_name": "얼큰순대국 편육정식",
+			"m_id": 499,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "얼큰돼지국밥 편육정식",
+			"m_id": 500,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13500"
+		},
+		{
+			"m_name": "야채순대 （소） （병천순대）",
+			"m_id": 501,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "모둠수육（중）",
+			"m_id": 502,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "야채순대（중）（병천순대）",
+			"m_id": 503,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "야채순대（대）（병천순대）",
+			"m_id": 504,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "모둠수육（대）",
+			"m_id": 505,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26000"
+		},
+		{
+			"m_name": "편육（소）",
+			"m_id": 506,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "편육（중）",
+			"m_id": 507,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "13000"
+		},
+		{
+			"m_name": "편육（대）",
+			"m_id": 508,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "모둠수육 야채볶음 （중）",
+			"m_id": 509,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "20000"
+		},
+		{
+			"m_name": "모둠수육 야채볶음（대）",
+			"m_id": 510,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "오소리감투 200g",
+			"m_id": 511,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "11000"
+		},
+		{
+			"m_name": "오소리감투 300g",
+			"m_id": 512,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "얼큰술국",
+			"m_id": 513,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "두부김치와 모둠수육",
+			"m_id": 514,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "머리수육",
+			"m_id": 515,
+			"ms_id": 29,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "일반족발（앞발）＋기본막국수（中자이상주문시）",
+			"m_id": 516,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "일반족＋ 불족발（앞발）＋기본막국수",
+			"m_id": 517,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "36000"
+		},
+		{
+			"m_name": "불족발 （앞발）＋기본막국수（中자이상주문）",
+			"m_id": 518,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "30000"
+		},
+		{
+			"m_name": "막국수",
+			"m_id": 519,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "날치알주먹밥",
+			"m_id": 520,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "4000"
+		},
+		{
+			"m_name": "계란찜",
+			"m_id": 521,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "반찬 추가（무김치 고추 마늘 쌈장 새우젓 상추）",
+			"m_id": 522,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 523,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "콜라355mL",
+			"m_id": 524,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "사이다355mL",
+			"m_id": 525,
+			"ms_id": 30,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "슈바인학센（독일식족발）中 2~3人",
+			"m_id": 526,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25900"
+		},
+		{
+			"m_name": "갈릭슈바인학센",
+			"m_id": 527,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26900"
+		},
+		{
+			"m_name": "핫 슈바인학센",
+			"m_id": 528,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "26900"
+		},
+		{
+			"m_name": "오븐미트파스타",
+			"m_id": 529,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "오븐까르보나라파스타",
+			"m_id": 530,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "오븐 까스로제파스타",
+			"m_id": 531,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9900"
+		},
+		{
+			"m_name": "오븐새우로제파스타",
+			"m_id": 532,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "오븐매운까르보나라파스타",
+			"m_id": 533,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "오븐 우삼겹 크림파스타",
+			"m_id": 534,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "10000"
+		},
+		{
+			"m_name": "떠먹는 페퍼로니핏자",
+			"m_id": 535,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "떠먹는 베이컨포테이토핏자",
+			"m_id": 536,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "떠먹는할라피뇨불고기핏자",
+			"m_id": 537,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8900"
+		},
+		{
+			"m_name": "떠먹는 할라피뇨 쉬림프 핏자",
+			"m_id": 538,
+			"ms_id": 31,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "9500"
+		},
+		{
+			"m_name": "월선네장터국밥＋공기밥",
+			"m_id": 539,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "전통육개장＋공기밥",
+			"m_id": 540,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "전고추장찌개＋공기밥",
+			"m_id": 541,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "옛날청국장찌개＋공기밥",
+			"m_id": 542,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "뚝배기불고기＋공기밥",
+			"m_id": 543,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "바지락순두부찌개＋공기밥",
+			"m_id": 544,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "7000"
+		},
+		{
+			"m_name": "월선네스페셜",
+			"m_id": 545,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "43000"
+		},
+		{
+			"m_name": "홍어삼합",
+			"m_id": 546,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "홍어만",
+			"m_id": 547,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "삼합맛배기",
+			"m_id": 548,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "문어삼합",
+			"m_id": 549,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "38000"
+		},
+		{
+			"m_name": "문어숙회",
+			"m_id": 550,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "19000"
+		},
+		{
+			"m_name": "월선네 보쌈",
+			"m_id": 551,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "매운 묵은지등갈비찜-사장님추천메뉴",
+			"m_id": 552,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "29000"
+		},
+		{
+			"m_name": "월선네 닭볶음탕-사장님추천메뉴",
+			"m_id": 553,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "28000"
+		},
+		{
+			"m_name": "매운 오징어삼겹 두루치기",
+			"m_id": 554,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "매운 불쭈꾸미 볶음 -사장님추천메뉴",
+			"m_id": 555,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "22000"
+		},
+		{
+			"m_name": "매콤한 제육볶음",
+			"m_id": 556,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "21000"
+		},
+		{
+			"m_name": "들기름 두부김치",
+			"m_id": 557,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "17000"
+		},
+		{
+			"m_name": "모둠전",
+			"m_id": 558,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "25000"
+		},
+		{
+			"m_name": "해물파전",
+			"m_id": 559,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "해물김치전",
+			"m_id": 560,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "15000"
+		},
+		{
+			"m_name": "소고기육전",
+			"m_id": 561,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "18000"
+		},
+		{
+			"m_name": "새우봄미나리전",
+			"m_id": 562,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "동태전",
+			"m_id": 563,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "해물부추전",
+			"m_id": 564,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "꼬막부추전",
+			"m_id": 565,
+			"ms_id": 32,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "16000"
+		},
+		{
+			"m_name": "왕족발＋불족발",
+			"m_id": 566,
+			"ms_id": 33,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "왕족발＋보삼",
+			"m_id": 567,
+			"ms_id": 33,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "35000"
+		},
+		{
+			"m_name": "보쌈＋불족발",
+			"m_id": 568,
+			"ms_id": 33,
+			"category": "족발보쌈",
+			"spicy": 3,
+			"as_price": "33000"
+		},
+		{
+			"m_name": "막국수 1인분",
+			"m_id": 569,
+			"ms_id": 33,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "8000"
+		},
+		{
+			"m_name": "음료1.25 변경시",
+			"m_id": 570,
+			"ms_id": 33,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "펩시콜라500mL pet",
+			"m_id": 571,
+			"ms_id": 34,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "사이다 500mL pet",
+			"m_id": 572,
+			"ms_id": 34,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "공기밥",
+			"m_id": 573,
+			"ms_id": 34,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		},
+		{
+			"m_name": "보쌈 고기 추가 50g",
+			"m_id": 574,
+			"ms_id": 34,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "3000"
+		},
+		{
+			"m_name": "쌈채소（쌈채소＋쌈장＋마늘＋고추）",
+			"m_id": 575,
+			"ms_id": 34,
+			"category": "족발보쌈",
+			"spicy": 2,
+			"as_price": "2000"
+		},
+		{
+			"m_name": "오뎅국",
+			"m_id": 576,
+			"ms_id": 34,
+			"category": "족발보쌈",
+			"spicy": 1,
+			"as_price": "1000"
+		}
+	]
+}
