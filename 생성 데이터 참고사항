@@ -1,0 +1,38 @@
+[임의 생성 데이터 관련 참고]
+
+* REVIEW relation에서 comment 실제 내용은 생략
+* Json 파일은 resultjsons 에 있음
+* 이름 임의 데이터는 https://koreanname.me/ 에서 크롤링 하였음
+
+STORE_OP_TIME
+	- O_S_ID : 음식점 id값
+	- O_DATE : 요일 (월,화,수,목,금,토,일)
+	- O_START_TIME : 영업 시작 시각
+	- O_CLOSE_TIME : 영업 종료 시각 (영업 시작 시각의 다음날이 될 수 있음)
+	- O_BREAK_TIME : 쉬는 시간 시작 시각
+	- O_BREAK_CLOSE : 쉬는 시간 종료 시각  
+
+DT_APP
+	-DT_APP_ID : 앱 id 값
+	-DT_S_ID : 음식점 id값
+	-DT_PRICE : 최소 주문 금액
+	-DT_DEL_TIP : 배달비
+
+AD_APP
+	-AD_APP_ID : 앱 id 값
+	-AD__S_ID : 음식점 id값
+	-AD_PRICE : 할인 적용 최소 금액
+	-AD_DISCNT : 할인 금액
+
+REVIEW
+	-REVIEW_ID : 리뷰 id 값
+	-RS_ID : 음식점 id 값 (랜덤 assign 됬기 때문에 리뷰가 없는 집도 있음)
+	-RU_ID : 유저 id 값 (랜덤 assign 됬기 때문에 리뷰를 작성 하지 않은 사람도 있음)
+	-POINTS : 1-5 의 값
+
+USER
+	-U_ID : 유저 id 값
+	-ID : 아이디
+	-PW : 비밀번호
+	-NAME : 이름(한국어)
+	-NICKNAME : 닉네임(영어)
