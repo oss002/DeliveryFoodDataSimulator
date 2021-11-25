@@ -1,0 +1,6002 @@
+[
+	{
+		"REVIEW_ID": 0,
+		"RS_ID": 152,
+		"RU_ID": 523,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 1,
+		"RS_ID": 49,
+		"RU_ID": 456,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 2,
+		"RS_ID": 442,
+		"RU_ID": 625,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 3,
+		"RS_ID": 448,
+		"RU_ID": 426,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 4,
+		"RS_ID": 643,
+		"RU_ID": 777,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 5,
+		"RS_ID": 940,
+		"RU_ID": 70,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 6,
+		"RS_ID": 423,
+		"RU_ID": 809,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 7,
+		"RS_ID": 672,
+		"RU_ID": 674,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 8,
+		"RS_ID": 92,
+		"RU_ID": 204,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 9,
+		"RS_ID": 427,
+		"RU_ID": 798,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 10,
+		"RS_ID": 585,
+		"RU_ID": 116,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 11,
+		"RS_ID": 765,
+		"RU_ID": 189,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 12,
+		"RS_ID": 795,
+		"RU_ID": 993,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 13,
+		"RS_ID": 694,
+		"RU_ID": 487,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 14,
+		"RS_ID": 675,
+		"RU_ID": 67,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 15,
+		"RS_ID": 512,
+		"RU_ID": 887,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 16,
+		"RS_ID": 734,
+		"RU_ID": 161,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 17,
+		"RS_ID": 29,
+		"RU_ID": 474,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 18,
+		"RS_ID": 616,
+		"RU_ID": 922,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 19,
+		"RS_ID": 238,
+		"RU_ID": 640,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 20,
+		"RS_ID": 918,
+		"RU_ID": 365,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 21,
+		"RS_ID": 354,
+		"RU_ID": 22,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 22,
+		"RS_ID": 632,
+		"RU_ID": 895,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 23,
+		"RS_ID": 965,
+		"RU_ID": 192,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 24,
+		"RS_ID": 411,
+		"RU_ID": 419,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 25,
+		"RS_ID": 149,
+		"RU_ID": 679,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 26,
+		"RS_ID": 108,
+		"RU_ID": 966,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 27,
+		"RS_ID": 343,
+		"RU_ID": 703,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 28,
+		"RS_ID": 831,
+		"RU_ID": 912,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 29,
+		"RS_ID": 124,
+		"RU_ID": 563,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 30,
+		"RS_ID": 414,
+		"RU_ID": 503,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 31,
+		"RS_ID": 762,
+		"RU_ID": 805,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 32,
+		"RS_ID": 73,
+		"RU_ID": 469,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 33,
+		"RS_ID": 644,
+		"RU_ID": 594,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 34,
+		"RS_ID": 312,
+		"RU_ID": 618,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 35,
+		"RS_ID": 52,
+		"RU_ID": 504,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 36,
+		"RS_ID": 690,
+		"RU_ID": 211,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 37,
+		"RS_ID": 326,
+		"RU_ID": 895,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 38,
+		"RS_ID": 656,
+		"RU_ID": 87,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 39,
+		"RS_ID": 695,
+		"RU_ID": 915,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 40,
+		"RS_ID": 636,
+		"RU_ID": 298,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 41,
+		"RS_ID": 771,
+		"RU_ID": 942,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 42,
+		"RS_ID": 152,
+		"RU_ID": 548,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 43,
+		"RS_ID": 853,
+		"RU_ID": 244,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 44,
+		"RS_ID": 140,
+		"RU_ID": 455,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 45,
+		"RS_ID": 357,
+		"RU_ID": 748,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 46,
+		"RS_ID": 57,
+		"RU_ID": 609,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 47,
+		"RS_ID": 612,
+		"RU_ID": 372,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 48,
+		"RS_ID": 933,
+		"RU_ID": 462,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 49,
+		"RS_ID": 8,
+		"RU_ID": 521,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 50,
+		"RS_ID": 460,
+		"RU_ID": 84,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 51,
+		"RS_ID": 955,
+		"RU_ID": 723,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 52,
+		"RS_ID": 978,
+		"RU_ID": 993,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 53,
+		"RS_ID": 525,
+		"RU_ID": 10,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 54,
+		"RS_ID": 597,
+		"RU_ID": 412,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 55,
+		"RS_ID": 485,
+		"RU_ID": 691,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 56,
+		"RS_ID": 708,
+		"RU_ID": 741,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 57,
+		"RS_ID": 463,
+		"RU_ID": 344,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 58,
+		"RS_ID": 789,
+		"RU_ID": 579,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 59,
+		"RS_ID": 849,
+		"RU_ID": 994,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 60,
+		"RS_ID": 17,
+		"RU_ID": 839,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 61,
+		"RS_ID": 146,
+		"RU_ID": 163,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 62,
+		"RS_ID": 445,
+		"RU_ID": 522,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 63,
+		"RS_ID": 160,
+		"RU_ID": 442,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 64,
+		"RS_ID": 469,
+		"RU_ID": 721,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 65,
+		"RS_ID": 396,
+		"RU_ID": 297,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 66,
+		"RS_ID": 72,
+		"RU_ID": 311,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 67,
+		"RS_ID": 896,
+		"RU_ID": 914,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 68,
+		"RS_ID": 131,
+		"RU_ID": 399,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 69,
+		"RS_ID": 747,
+		"RU_ID": 13,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 70,
+		"RS_ID": 215,
+		"RU_ID": 911,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 71,
+		"RS_ID": 559,
+		"RU_ID": 614,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 72,
+		"RS_ID": 487,
+		"RU_ID": 758,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 73,
+		"RS_ID": 46,
+		"RU_ID": 727,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 74,
+		"RS_ID": 310,
+		"RU_ID": 129,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 75,
+		"RS_ID": 605,
+		"RU_ID": 740,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 76,
+		"RS_ID": 879,
+		"RU_ID": 210,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 77,
+		"RS_ID": 917,
+		"RU_ID": 701,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 78,
+		"RS_ID": 232,
+		"RU_ID": 63,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 79,
+		"RS_ID": 538,
+		"RU_ID": 80,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 80,
+		"RS_ID": 828,
+		"RU_ID": 655,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 81,
+		"RS_ID": 271,
+		"RU_ID": 292,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 82,
+		"RS_ID": 392,
+		"RU_ID": 37,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 83,
+		"RS_ID": 921,
+		"RU_ID": 175,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 84,
+		"RS_ID": 649,
+		"RU_ID": 428,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 85,
+		"RS_ID": 680,
+		"RU_ID": 585,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 86,
+		"RS_ID": 530,
+		"RU_ID": 761,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 87,
+		"RS_ID": 605,
+		"RU_ID": 369,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 88,
+		"RS_ID": 231,
+		"RU_ID": 616,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 89,
+		"RS_ID": 729,
+		"RU_ID": 494,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 90,
+		"RS_ID": 429,
+		"RU_ID": 156,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 91,
+		"RS_ID": 212,
+		"RU_ID": 739,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 92,
+		"RS_ID": 705,
+		"RU_ID": 775,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 93,
+		"RS_ID": 129,
+		"RU_ID": 866,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 94,
+		"RS_ID": 809,
+		"RU_ID": 463,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 95,
+		"RS_ID": 762,
+		"RU_ID": 561,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 96,
+		"RS_ID": 51,
+		"RU_ID": 528,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 97,
+		"RS_ID": 298,
+		"RU_ID": 409,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 98,
+		"RS_ID": 162,
+		"RU_ID": 216,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 99,
+		"RS_ID": 262,
+		"RU_ID": 50,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 100,
+		"RS_ID": 619,
+		"RU_ID": 85,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 101,
+		"RS_ID": 34,
+		"RU_ID": 358,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 102,
+		"RS_ID": 544,
+		"RU_ID": 758,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 103,
+		"RS_ID": 362,
+		"RU_ID": 408,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 104,
+		"RS_ID": 1000,
+		"RU_ID": 371,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 105,
+		"RS_ID": 961,
+		"RU_ID": 141,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 106,
+		"RS_ID": 635,
+		"RU_ID": 99,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 107,
+		"RS_ID": 25,
+		"RU_ID": 112,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 108,
+		"RS_ID": 20,
+		"RU_ID": 206,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 109,
+		"RS_ID": 522,
+		"RU_ID": 794,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 110,
+		"RS_ID": 504,
+		"RU_ID": 625,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 111,
+		"RS_ID": 453,
+		"RU_ID": 748,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 112,
+		"RS_ID": 924,
+		"RU_ID": 210,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 113,
+		"RS_ID": 169,
+		"RU_ID": 199,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 114,
+		"RS_ID": 484,
+		"RU_ID": 951,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 115,
+		"RS_ID": 111,
+		"RU_ID": 652,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 116,
+		"RS_ID": 586,
+		"RU_ID": 781,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 117,
+		"RS_ID": 416,
+		"RU_ID": 749,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 118,
+		"RS_ID": 379,
+		"RU_ID": 78,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 119,
+		"RS_ID": 687,
+		"RU_ID": 376,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 120,
+		"RS_ID": 163,
+		"RU_ID": 303,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 121,
+		"RS_ID": 631,
+		"RU_ID": 639,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 122,
+		"RS_ID": 199,
+		"RU_ID": 115,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 123,
+		"RS_ID": 82,
+		"RU_ID": 986,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 124,
+		"RS_ID": 671,
+		"RU_ID": 697,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 125,
+		"RS_ID": 114,
+		"RU_ID": 587,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 126,
+		"RS_ID": 270,
+		"RU_ID": 957,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 127,
+		"RS_ID": 952,
+		"RU_ID": 648,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 128,
+		"RS_ID": 33,
+		"RU_ID": 487,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 129,
+		"RS_ID": 359,
+		"RU_ID": 439,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 130,
+		"RS_ID": 239,
+		"RU_ID": 83,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 131,
+		"RS_ID": 699,
+		"RU_ID": 444,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 132,
+		"RS_ID": 31,
+		"RU_ID": 585,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 133,
+		"RS_ID": 446,
+		"RU_ID": 656,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 134,
+		"RS_ID": 256,
+		"RU_ID": 655,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 135,
+		"RS_ID": 419,
+		"RU_ID": 346,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 136,
+		"RS_ID": 753,
+		"RU_ID": 255,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 137,
+		"RS_ID": 754,
+		"RU_ID": 866,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 138,
+		"RS_ID": 494,
+		"RU_ID": 458,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 139,
+		"RS_ID": 699,
+		"RU_ID": 122,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 140,
+		"RS_ID": 440,
+		"RU_ID": 24,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 141,
+		"RS_ID": 449,
+		"RU_ID": 982,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 142,
+		"RS_ID": 727,
+		"RU_ID": 426,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 143,
+		"RS_ID": 973,
+		"RU_ID": 116,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 144,
+		"RS_ID": 186,
+		"RU_ID": 856,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 145,
+		"RS_ID": 232,
+		"RU_ID": 458,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 146,
+		"RS_ID": 814,
+		"RU_ID": 457,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 147,
+		"RS_ID": 831,
+		"RU_ID": 505,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 148,
+		"RS_ID": 269,
+		"RU_ID": 828,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 149,
+		"RS_ID": 178,
+		"RU_ID": 373,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 150,
+		"RS_ID": 629,
+		"RU_ID": 893,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 151,
+		"RS_ID": 956,
+		"RU_ID": 3,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 152,
+		"RS_ID": 461,
+		"RU_ID": 456,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 153,
+		"RS_ID": 305,
+		"RU_ID": 422,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 154,
+		"RS_ID": 713,
+		"RU_ID": 888,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 155,
+		"RS_ID": 390,
+		"RU_ID": 579,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 156,
+		"RS_ID": 358,
+		"RU_ID": 32,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 157,
+		"RS_ID": 729,
+		"RU_ID": 819,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 158,
+		"RS_ID": 883,
+		"RU_ID": 625,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 159,
+		"RS_ID": 966,
+		"RU_ID": 471,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 160,
+		"RS_ID": 914,
+		"RU_ID": 119,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 161,
+		"RS_ID": 835,
+		"RU_ID": 55,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 162,
+		"RS_ID": 894,
+		"RU_ID": 932,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 163,
+		"RS_ID": 181,
+		"RU_ID": 367,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 164,
+		"RS_ID": 552,
+		"RU_ID": 733,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 165,
+		"RS_ID": 248,
+		"RU_ID": 795,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 166,
+		"RS_ID": 455,
+		"RU_ID": 788,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 167,
+		"RS_ID": 477,
+		"RU_ID": 334,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 168,
+		"RS_ID": 993,
+		"RU_ID": 152,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 169,
+		"RS_ID": 77,
+		"RU_ID": 614,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 170,
+		"RS_ID": 37,
+		"RU_ID": 899,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 171,
+		"RS_ID": 102,
+		"RU_ID": 465,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 172,
+		"RS_ID": 666,
+		"RU_ID": 8,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 173,
+		"RS_ID": 662,
+		"RU_ID": 161,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 174,
+		"RS_ID": 988,
+		"RU_ID": 352,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 175,
+		"RS_ID": 435,
+		"RU_ID": 163,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 176,
+		"RS_ID": 42,
+		"RU_ID": 953,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 177,
+		"RS_ID": 585,
+		"RU_ID": 473,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 178,
+		"RS_ID": 227,
+		"RU_ID": 104,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 179,
+		"RS_ID": 412,
+		"RU_ID": 42,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 180,
+		"RS_ID": 187,
+		"RU_ID": 359,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 181,
+		"RS_ID": 827,
+		"RU_ID": 274,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 182,
+		"RS_ID": 434,
+		"RU_ID": 481,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 183,
+		"RS_ID": 53,
+		"RU_ID": 561,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 184,
+		"RS_ID": 407,
+		"RU_ID": 753,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 185,
+		"RS_ID": 151,
+		"RU_ID": 475,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 186,
+		"RS_ID": 802,
+		"RU_ID": 674,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 187,
+		"RS_ID": 742,
+		"RU_ID": 124,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 188,
+		"RS_ID": 275,
+		"RU_ID": 185,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 189,
+		"RS_ID": 613,
+		"RU_ID": 520,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 190,
+		"RS_ID": 117,
+		"RU_ID": 246,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 191,
+		"RS_ID": 5,
+		"RU_ID": 276,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 192,
+		"RS_ID": 689,
+		"RU_ID": 183,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 193,
+		"RS_ID": 599,
+		"RU_ID": 870,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 194,
+		"RS_ID": 686,
+		"RU_ID": 143,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 195,
+		"RS_ID": 310,
+		"RU_ID": 927,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 196,
+		"RS_ID": 3,
+		"RU_ID": 360,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 197,
+		"RS_ID": 512,
+		"RU_ID": 844,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 198,
+		"RS_ID": 391,
+		"RU_ID": 998,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 199,
+		"RS_ID": 271,
+		"RU_ID": 536,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 200,
+		"RS_ID": 500,
+		"RU_ID": 36,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 201,
+		"RS_ID": 987,
+		"RU_ID": 434,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 202,
+		"RS_ID": 451,
+		"RU_ID": 885,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 203,
+		"RS_ID": 751,
+		"RU_ID": 737,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 204,
+		"RS_ID": 583,
+		"RU_ID": 727,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 205,
+		"RS_ID": 136,
+		"RU_ID": 739,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 206,
+		"RS_ID": 452,
+		"RU_ID": 731,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 207,
+		"RS_ID": 376,
+		"RU_ID": 318,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 208,
+		"RS_ID": 502,
+		"RU_ID": 877,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 209,
+		"RS_ID": 507,
+		"RU_ID": 168,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 210,
+		"RS_ID": 343,
+		"RU_ID": 728,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 211,
+		"RS_ID": 209,
+		"RU_ID": 784,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 212,
+		"RS_ID": 647,
+		"RU_ID": 850,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 213,
+		"RS_ID": 350,
+		"RU_ID": 336,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 214,
+		"RS_ID": 471,
+		"RU_ID": 874,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 215,
+		"RS_ID": 269,
+		"RU_ID": 31,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 216,
+		"RS_ID": 182,
+		"RU_ID": 249,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 217,
+		"RS_ID": 525,
+		"RU_ID": 919,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 218,
+		"RS_ID": 923,
+		"RU_ID": 756,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 219,
+		"RS_ID": 205,
+		"RU_ID": 235,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 220,
+		"RS_ID": 654,
+		"RU_ID": 625,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 221,
+		"RS_ID": 950,
+		"RU_ID": 114,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 222,
+		"RS_ID": 730,
+		"RU_ID": 692,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 223,
+		"RS_ID": 902,
+		"RU_ID": 974,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 224,
+		"RS_ID": 588,
+		"RU_ID": 471,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 225,
+		"RS_ID": 131,
+		"RU_ID": 500,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 226,
+		"RS_ID": 989,
+		"RU_ID": 314,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 227,
+		"RS_ID": 265,
+		"RU_ID": 311,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 228,
+		"RS_ID": 940,
+		"RU_ID": 668,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 229,
+		"RS_ID": 107,
+		"RU_ID": 173,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 230,
+		"RS_ID": 985,
+		"RU_ID": 303,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 231,
+		"RS_ID": 602,
+		"RU_ID": 548,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 232,
+		"RS_ID": 923,
+		"RU_ID": 412,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 233,
+		"RS_ID": 846,
+		"RU_ID": 726,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 234,
+		"RS_ID": 339,
+		"RU_ID": 252,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 235,
+		"RS_ID": 69,
+		"RU_ID": 337,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 236,
+		"RS_ID": 618,
+		"RU_ID": 89,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 237,
+		"RS_ID": 361,
+		"RU_ID": 184,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 238,
+		"RS_ID": 60,
+		"RU_ID": 769,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 239,
+		"RS_ID": 445,
+		"RU_ID": 484,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 240,
+		"RS_ID": 666,
+		"RU_ID": 846,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 241,
+		"RS_ID": 164,
+		"RU_ID": 844,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 242,
+		"RS_ID": 942,
+		"RU_ID": 670,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 243,
+		"RS_ID": 103,
+		"RU_ID": 683,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 244,
+		"RS_ID": 796,
+		"RU_ID": 446,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 245,
+		"RS_ID": 692,
+		"RU_ID": 346,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 246,
+		"RS_ID": 480,
+		"RU_ID": 308,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 247,
+		"RS_ID": 892,
+		"RU_ID": 879,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 248,
+		"RS_ID": 234,
+		"RU_ID": 431,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 249,
+		"RS_ID": 58,
+		"RU_ID": 27,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 250,
+		"RS_ID": 193,
+		"RU_ID": 783,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 251,
+		"RS_ID": 228,
+		"RU_ID": 835,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 252,
+		"RS_ID": 712,
+		"RU_ID": 630,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 253,
+		"RS_ID": 914,
+		"RU_ID": 943,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 254,
+		"RS_ID": 410,
+		"RU_ID": 419,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 255,
+		"RS_ID": 239,
+		"RU_ID": 316,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 256,
+		"RS_ID": 299,
+		"RU_ID": 792,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 257,
+		"RS_ID": 392,
+		"RU_ID": 740,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 258,
+		"RS_ID": 533,
+		"RU_ID": 977,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 259,
+		"RS_ID": 453,
+		"RU_ID": 550,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 260,
+		"RS_ID": 504,
+		"RU_ID": 70,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 261,
+		"RS_ID": 306,
+		"RU_ID": 578,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 262,
+		"RS_ID": 573,
+		"RU_ID": 821,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 263,
+		"RS_ID": 589,
+		"RU_ID": 558,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 264,
+		"RS_ID": 614,
+		"RU_ID": 150,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 265,
+		"RS_ID": 811,
+		"RU_ID": 661,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 266,
+		"RS_ID": 206,
+		"RU_ID": 603,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 267,
+		"RS_ID": 45,
+		"RU_ID": 436,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 268,
+		"RS_ID": 286,
+		"RU_ID": 147,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 269,
+		"RS_ID": 252,
+		"RU_ID": 219,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 270,
+		"RS_ID": 840,
+		"RU_ID": 400,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 271,
+		"RS_ID": 985,
+		"RU_ID": 203,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 272,
+		"RS_ID": 233,
+		"RU_ID": 251,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 273,
+		"RS_ID": 427,
+		"RU_ID": 253,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 274,
+		"RS_ID": 674,
+		"RU_ID": 634,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 275,
+		"RS_ID": 912,
+		"RU_ID": 729,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 276,
+		"RS_ID": 803,
+		"RU_ID": 187,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 277,
+		"RS_ID": 850,
+		"RU_ID": 291,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 278,
+		"RS_ID": 637,
+		"RU_ID": 3,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 279,
+		"RS_ID": 902,
+		"RU_ID": 309,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 280,
+		"RS_ID": 99,
+		"RU_ID": 613,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 281,
+		"RS_ID": 772,
+		"RU_ID": 657,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 282,
+		"RS_ID": 923,
+		"RU_ID": 986,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 283,
+		"RS_ID": 52,
+		"RU_ID": 255,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 284,
+		"RS_ID": 719,
+		"RU_ID": 590,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 285,
+		"RS_ID": 14,
+		"RU_ID": 254,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 286,
+		"RS_ID": 556,
+		"RU_ID": 989,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 287,
+		"RS_ID": 251,
+		"RU_ID": 364,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 288,
+		"RS_ID": 298,
+		"RU_ID": 573,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 289,
+		"RS_ID": 286,
+		"RU_ID": 701,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 290,
+		"RS_ID": 694,
+		"RU_ID": 374,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 291,
+		"RS_ID": 351,
+		"RU_ID": 501,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 292,
+		"RS_ID": 787,
+		"RU_ID": 98,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 293,
+		"RS_ID": 400,
+		"RU_ID": 749,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 294,
+		"RS_ID": 611,
+		"RU_ID": 550,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 295,
+		"RS_ID": 272,
+		"RU_ID": 757,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 296,
+		"RS_ID": 411,
+		"RU_ID": 72,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 297,
+		"RS_ID": 6,
+		"RU_ID": 266,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 298,
+		"RS_ID": 785,
+		"RU_ID": 837,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 299,
+		"RS_ID": 57,
+		"RU_ID": 307,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 300,
+		"RS_ID": 797,
+		"RU_ID": 489,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 301,
+		"RS_ID": 240,
+		"RU_ID": 601,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 302,
+		"RS_ID": 909,
+		"RU_ID": 52,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 303,
+		"RS_ID": 785,
+		"RU_ID": 164,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 304,
+		"RS_ID": 911,
+		"RU_ID": 350,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 305,
+		"RS_ID": 66,
+		"RU_ID": 356,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 306,
+		"RS_ID": 877,
+		"RU_ID": 497,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 307,
+		"RS_ID": 142,
+		"RU_ID": 301,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 308,
+		"RS_ID": 552,
+		"RU_ID": 777,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 309,
+		"RS_ID": 88,
+		"RU_ID": 611,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 310,
+		"RS_ID": 318,
+		"RU_ID": 628,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 311,
+		"RS_ID": 73,
+		"RU_ID": 29,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 312,
+		"RS_ID": 91,
+		"RU_ID": 725,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 313,
+		"RS_ID": 142,
+		"RU_ID": 875,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 314,
+		"RS_ID": 150,
+		"RU_ID": 461,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 315,
+		"RS_ID": 85,
+		"RU_ID": 501,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 316,
+		"RS_ID": 869,
+		"RU_ID": 360,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 317,
+		"RS_ID": 563,
+		"RU_ID": 983,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 318,
+		"RS_ID": 946,
+		"RU_ID": 273,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 319,
+		"RS_ID": 563,
+		"RU_ID": 760,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 320,
+		"RS_ID": 838,
+		"RU_ID": 82,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 321,
+		"RS_ID": 163,
+		"RU_ID": 113,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 322,
+		"RS_ID": 698,
+		"RU_ID": 80,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 323,
+		"RS_ID": 80,
+		"RU_ID": 150,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 324,
+		"RS_ID": 485,
+		"RU_ID": 824,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 325,
+		"RS_ID": 941,
+		"RU_ID": 78,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 326,
+		"RS_ID": 179,
+		"RU_ID": 271,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 327,
+		"RS_ID": 645,
+		"RU_ID": 392,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 328,
+		"RS_ID": 530,
+		"RU_ID": 676,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 329,
+		"RS_ID": 211,
+		"RU_ID": 575,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 330,
+		"RS_ID": 38,
+		"RU_ID": 190,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 331,
+		"RS_ID": 435,
+		"RU_ID": 854,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 332,
+		"RS_ID": 972,
+		"RU_ID": 846,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 333,
+		"RS_ID": 985,
+		"RU_ID": 715,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 334,
+		"RS_ID": 718,
+		"RU_ID": 428,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 335,
+		"RS_ID": 639,
+		"RU_ID": 655,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 336,
+		"RS_ID": 206,
+		"RU_ID": 145,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 337,
+		"RS_ID": 461,
+		"RU_ID": 248,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 338,
+		"RS_ID": 519,
+		"RU_ID": 359,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 339,
+		"RS_ID": 511,
+		"RU_ID": 767,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 340,
+		"RS_ID": 30,
+		"RU_ID": 953,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 341,
+		"RS_ID": 373,
+		"RU_ID": 928,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 342,
+		"RS_ID": 472,
+		"RU_ID": 269,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 343,
+		"RS_ID": 576,
+		"RU_ID": 587,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 344,
+		"RS_ID": 453,
+		"RU_ID": 382,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 345,
+		"RS_ID": 301,
+		"RU_ID": 464,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 346,
+		"RS_ID": 398,
+		"RU_ID": 902,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 347,
+		"RS_ID": 680,
+		"RU_ID": 202,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 348,
+		"RS_ID": 827,
+		"RU_ID": 95,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 349,
+		"RS_ID": 56,
+		"RU_ID": 30,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 350,
+		"RS_ID": 650,
+		"RU_ID": 266,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 351,
+		"RS_ID": 809,
+		"RU_ID": 224,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 352,
+		"RS_ID": 611,
+		"RU_ID": 214,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 353,
+		"RS_ID": 300,
+		"RU_ID": 696,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 354,
+		"RS_ID": 268,
+		"RU_ID": 91,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 355,
+		"RS_ID": 118,
+		"RU_ID": 140,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 356,
+		"RS_ID": 388,
+		"RU_ID": 396,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 357,
+		"RS_ID": 413,
+		"RU_ID": 467,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 358,
+		"RS_ID": 836,
+		"RU_ID": 489,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 359,
+		"RS_ID": 15,
+		"RU_ID": 373,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 360,
+		"RS_ID": 270,
+		"RU_ID": 26,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 361,
+		"RS_ID": 358,
+		"RU_ID": 364,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 362,
+		"RS_ID": 836,
+		"RU_ID": 449,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 363,
+		"RS_ID": 110,
+		"RU_ID": 597,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 364,
+		"RS_ID": 867,
+		"RU_ID": 434,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 365,
+		"RS_ID": 907,
+		"RU_ID": 590,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 366,
+		"RS_ID": 871,
+		"RU_ID": 921,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 367,
+		"RS_ID": 900,
+		"RU_ID": 591,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 368,
+		"RS_ID": 89,
+		"RU_ID": 614,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 369,
+		"RS_ID": 717,
+		"RU_ID": 140,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 370,
+		"RS_ID": 811,
+		"RU_ID": 314,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 371,
+		"RS_ID": 914,
+		"RU_ID": 735,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 372,
+		"RS_ID": 341,
+		"RU_ID": 65,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 373,
+		"RS_ID": 884,
+		"RU_ID": 641,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 374,
+		"RS_ID": 670,
+		"RU_ID": 421,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 375,
+		"RS_ID": 715,
+		"RU_ID": 597,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 376,
+		"RS_ID": 84,
+		"RU_ID": 466,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 377,
+		"RS_ID": 35,
+		"RU_ID": 468,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 378,
+		"RS_ID": 508,
+		"RU_ID": 567,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 379,
+		"RS_ID": 361,
+		"RU_ID": 724,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 380,
+		"RS_ID": 88,
+		"RU_ID": 256,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 381,
+		"RS_ID": 402,
+		"RU_ID": 447,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 382,
+		"RS_ID": 671,
+		"RU_ID": 602,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 383,
+		"RS_ID": 597,
+		"RU_ID": 484,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 384,
+		"RS_ID": 646,
+		"RU_ID": 548,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 385,
+		"RS_ID": 929,
+		"RU_ID": 450,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 386,
+		"RS_ID": 798,
+		"RU_ID": 814,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 387,
+		"RS_ID": 885,
+		"RU_ID": 284,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 388,
+		"RS_ID": 232,
+		"RU_ID": 930,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 389,
+		"RS_ID": 387,
+		"RU_ID": 775,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 390,
+		"RS_ID": 306,
+		"RU_ID": 615,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 391,
+		"RS_ID": 765,
+		"RU_ID": 619,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 392,
+		"RS_ID": 33,
+		"RU_ID": 318,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 393,
+		"RS_ID": 733,
+		"RU_ID": 953,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 394,
+		"RS_ID": 852,
+		"RU_ID": 455,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 395,
+		"RS_ID": 982,
+		"RU_ID": 349,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 396,
+		"RS_ID": 908,
+		"RU_ID": 912,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 397,
+		"RS_ID": 757,
+		"RU_ID": 34,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 398,
+		"RS_ID": 444,
+		"RU_ID": 937,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 399,
+		"RS_ID": 847,
+		"RU_ID": 121,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 400,
+		"RS_ID": 765,
+		"RU_ID": 269,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 401,
+		"RS_ID": 260,
+		"RU_ID": 714,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 402,
+		"RS_ID": 680,
+		"RU_ID": 317,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 403,
+		"RS_ID": 949,
+		"RU_ID": 347,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 404,
+		"RS_ID": 120,
+		"RU_ID": 79,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 405,
+		"RS_ID": 503,
+		"RU_ID": 743,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 406,
+		"RS_ID": 181,
+		"RU_ID": 816,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 407,
+		"RS_ID": 565,
+		"RU_ID": 147,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 408,
+		"RS_ID": 99,
+		"RU_ID": 424,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 409,
+		"RS_ID": 491,
+		"RU_ID": 996,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 410,
+		"RS_ID": 35,
+		"RU_ID": 254,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 411,
+		"RS_ID": 579,
+		"RU_ID": 705,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 412,
+		"RS_ID": 586,
+		"RU_ID": 96,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 413,
+		"RS_ID": 228,
+		"RU_ID": 116,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 414,
+		"RS_ID": 70,
+		"RU_ID": 571,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 415,
+		"RS_ID": 839,
+		"RU_ID": 917,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 416,
+		"RS_ID": 256,
+		"RU_ID": 908,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 417,
+		"RS_ID": 904,
+		"RU_ID": 659,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 418,
+		"RS_ID": 473,
+		"RU_ID": 427,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 419,
+		"RS_ID": 294,
+		"RU_ID": 755,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 420,
+		"RS_ID": 138,
+		"RU_ID": 395,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 421,
+		"RS_ID": 547,
+		"RU_ID": 514,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 422,
+		"RS_ID": 730,
+		"RU_ID": 211,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 423,
+		"RS_ID": 604,
+		"RU_ID": 703,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 424,
+		"RS_ID": 540,
+		"RU_ID": 938,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 425,
+		"RS_ID": 150,
+		"RU_ID": 145,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 426,
+		"RS_ID": 472,
+		"RU_ID": 149,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 427,
+		"RS_ID": 413,
+		"RU_ID": 827,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 428,
+		"RS_ID": 966,
+		"RU_ID": 13,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 429,
+		"RS_ID": 303,
+		"RU_ID": 990,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 430,
+		"RS_ID": 159,
+		"RU_ID": 748,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 431,
+		"RS_ID": 188,
+		"RU_ID": 914,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 432,
+		"RS_ID": 912,
+		"RU_ID": 318,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 433,
+		"RS_ID": 1000,
+		"RU_ID": 229,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 434,
+		"RS_ID": 633,
+		"RU_ID": 9,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 435,
+		"RS_ID": 253,
+		"RU_ID": 945,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 436,
+		"RS_ID": 526,
+		"RU_ID": 330,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 437,
+		"RS_ID": 332,
+		"RU_ID": 164,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 438,
+		"RS_ID": 503,
+		"RU_ID": 211,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 439,
+		"RS_ID": 639,
+		"RU_ID": 878,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 440,
+		"RS_ID": 787,
+		"RU_ID": 616,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 441,
+		"RS_ID": 431,
+		"RU_ID": 662,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 442,
+		"RS_ID": 806,
+		"RU_ID": 642,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 443,
+		"RS_ID": 496,
+		"RU_ID": 910,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 444,
+		"RS_ID": 948,
+		"RU_ID": 168,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 445,
+		"RS_ID": 267,
+		"RU_ID": 895,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 446,
+		"RS_ID": 600,
+		"RU_ID": 279,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 447,
+		"RS_ID": 45,
+		"RU_ID": 14,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 448,
+		"RS_ID": 264,
+		"RU_ID": 510,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 449,
+		"RS_ID": 99,
+		"RU_ID": 869,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 450,
+		"RS_ID": 67,
+		"RU_ID": 64,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 451,
+		"RS_ID": 223,
+		"RU_ID": 842,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 452,
+		"RS_ID": 424,
+		"RU_ID": 614,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 453,
+		"RS_ID": 51,
+		"RU_ID": 221,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 454,
+		"RS_ID": 413,
+		"RU_ID": 722,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 455,
+		"RS_ID": 556,
+		"RU_ID": 983,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 456,
+		"RS_ID": 424,
+		"RU_ID": 382,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 457,
+		"RS_ID": 599,
+		"RU_ID": 277,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 458,
+		"RS_ID": 165,
+		"RU_ID": 79,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 459,
+		"RS_ID": 535,
+		"RU_ID": 102,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 460,
+		"RS_ID": 567,
+		"RU_ID": 81,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 461,
+		"RS_ID": 333,
+		"RU_ID": 85,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 462,
+		"RS_ID": 429,
+		"RU_ID": 473,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 463,
+		"RS_ID": 731,
+		"RU_ID": 664,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 464,
+		"RS_ID": 203,
+		"RU_ID": 995,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 465,
+		"RS_ID": 796,
+		"RU_ID": 349,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 466,
+		"RS_ID": 251,
+		"RU_ID": 685,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 467,
+		"RS_ID": 561,
+		"RU_ID": 796,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 468,
+		"RS_ID": 13,
+		"RU_ID": 277,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 469,
+		"RS_ID": 568,
+		"RU_ID": 964,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 470,
+		"RS_ID": 685,
+		"RU_ID": 4,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 471,
+		"RS_ID": 192,
+		"RU_ID": 736,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 472,
+		"RS_ID": 179,
+		"RU_ID": 338,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 473,
+		"RS_ID": 981,
+		"RU_ID": 598,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 474,
+		"RS_ID": 458,
+		"RU_ID": 427,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 475,
+		"RS_ID": 668,
+		"RU_ID": 860,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 476,
+		"RS_ID": 636,
+		"RU_ID": 379,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 477,
+		"RS_ID": 672,
+		"RU_ID": 521,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 478,
+		"RS_ID": 59,
+		"RU_ID": 777,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 479,
+		"RS_ID": 992,
+		"RU_ID": 983,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 480,
+		"RS_ID": 576,
+		"RU_ID": 511,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 481,
+		"RS_ID": 836,
+		"RU_ID": 848,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 482,
+		"RS_ID": 30,
+		"RU_ID": 135,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 483,
+		"RS_ID": 715,
+		"RU_ID": 518,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 484,
+		"RS_ID": 432,
+		"RU_ID": 574,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 485,
+		"RS_ID": 395,
+		"RU_ID": 644,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 486,
+		"RS_ID": 941,
+		"RU_ID": 819,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 487,
+		"RS_ID": 929,
+		"RU_ID": 600,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 488,
+		"RS_ID": 635,
+		"RU_ID": 183,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 489,
+		"RS_ID": 881,
+		"RU_ID": 562,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 490,
+		"RS_ID": 631,
+		"RU_ID": 230,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 491,
+		"RS_ID": 626,
+		"RU_ID": 566,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 492,
+		"RS_ID": 654,
+		"RU_ID": 894,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 493,
+		"RS_ID": 940,
+		"RU_ID": 249,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 494,
+		"RS_ID": 533,
+		"RU_ID": 236,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 495,
+		"RS_ID": 116,
+		"RU_ID": 960,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 496,
+		"RS_ID": 83,
+		"RU_ID": 627,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 497,
+		"RS_ID": 97,
+		"RU_ID": 323,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 498,
+		"RS_ID": 375,
+		"RU_ID": 462,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 499,
+		"RS_ID": 674,
+		"RU_ID": 774,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 500,
+		"RS_ID": 51,
+		"RU_ID": 887,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 501,
+		"RS_ID": 561,
+		"RU_ID": 244,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 502,
+		"RS_ID": 819,
+		"RU_ID": 830,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 503,
+		"RS_ID": 972,
+		"RU_ID": 624,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 504,
+		"RS_ID": 119,
+		"RU_ID": 884,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 505,
+		"RS_ID": 130,
+		"RU_ID": 685,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 506,
+		"RS_ID": 137,
+		"RU_ID": 281,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 507,
+		"RS_ID": 283,
+		"RU_ID": 630,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 508,
+		"RS_ID": 534,
+		"RU_ID": 241,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 509,
+		"RS_ID": 9,
+		"RU_ID": 94,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 510,
+		"RS_ID": 740,
+		"RU_ID": 773,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 511,
+		"RS_ID": 500,
+		"RU_ID": 912,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 512,
+		"RS_ID": 522,
+		"RU_ID": 851,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 513,
+		"RS_ID": 959,
+		"RU_ID": 358,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 514,
+		"RS_ID": 317,
+		"RU_ID": 467,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 515,
+		"RS_ID": 86,
+		"RU_ID": 422,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 516,
+		"RS_ID": 919,
+		"RU_ID": 378,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 517,
+		"RS_ID": 190,
+		"RU_ID": 588,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 518,
+		"RS_ID": 522,
+		"RU_ID": 701,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 519,
+		"RS_ID": 35,
+		"RU_ID": 496,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 520,
+		"RS_ID": 963,
+		"RU_ID": 324,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 521,
+		"RS_ID": 574,
+		"RU_ID": 196,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 522,
+		"RS_ID": 943,
+		"RU_ID": 268,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 523,
+		"RS_ID": 124,
+		"RU_ID": 684,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 524,
+		"RS_ID": 56,
+		"RU_ID": 427,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 525,
+		"RS_ID": 558,
+		"RU_ID": 508,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 526,
+		"RS_ID": 820,
+		"RU_ID": 501,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 527,
+		"RS_ID": 1000,
+		"RU_ID": 533,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 528,
+		"RS_ID": 258,
+		"RU_ID": 451,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 529,
+		"RS_ID": 424,
+		"RU_ID": 233,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 530,
+		"RS_ID": 477,
+		"RU_ID": 677,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 531,
+		"RS_ID": 808,
+		"RU_ID": 863,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 532,
+		"RS_ID": 1000,
+		"RU_ID": 688,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 533,
+		"RS_ID": 911,
+		"RU_ID": 972,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 534,
+		"RS_ID": 37,
+		"RU_ID": 74,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 535,
+		"RS_ID": 252,
+		"RU_ID": 118,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 536,
+		"RS_ID": 1,
+		"RU_ID": 386,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 537,
+		"RS_ID": 468,
+		"RU_ID": 81,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 538,
+		"RS_ID": 32,
+		"RU_ID": 58,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 539,
+		"RS_ID": 788,
+		"RU_ID": 156,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 540,
+		"RS_ID": 818,
+		"RU_ID": 675,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 541,
+		"RS_ID": 760,
+		"RU_ID": 304,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 542,
+		"RS_ID": 463,
+		"RU_ID": 101,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 543,
+		"RS_ID": 948,
+		"RU_ID": 99,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 544,
+		"RS_ID": 985,
+		"RU_ID": 974,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 545,
+		"RS_ID": 176,
+		"RU_ID": 149,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 546,
+		"RS_ID": 765,
+		"RU_ID": 329,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 547,
+		"RS_ID": 747,
+		"RU_ID": 626,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 548,
+		"RS_ID": 511,
+		"RU_ID": 537,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 549,
+		"RS_ID": 572,
+		"RU_ID": 156,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 550,
+		"RS_ID": 203,
+		"RU_ID": 526,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 551,
+		"RS_ID": 779,
+		"RU_ID": 672,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 552,
+		"RS_ID": 520,
+		"RU_ID": 350,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 553,
+		"RS_ID": 711,
+		"RU_ID": 953,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 554,
+		"RS_ID": 141,
+		"RU_ID": 433,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 555,
+		"RS_ID": 25,
+		"RU_ID": 210,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 556,
+		"RS_ID": 143,
+		"RU_ID": 878,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 557,
+		"RS_ID": 440,
+		"RU_ID": 387,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 558,
+		"RS_ID": 328,
+		"RU_ID": 128,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 559,
+		"RS_ID": 99,
+		"RU_ID": 597,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 560,
+		"RS_ID": 942,
+		"RU_ID": 114,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 561,
+		"RS_ID": 779,
+		"RU_ID": 485,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 562,
+		"RS_ID": 329,
+		"RU_ID": 908,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 563,
+		"RS_ID": 824,
+		"RU_ID": 662,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 564,
+		"RS_ID": 524,
+		"RU_ID": 602,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 565,
+		"RS_ID": 562,
+		"RU_ID": 152,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 566,
+		"RS_ID": 569,
+		"RU_ID": 282,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 567,
+		"RS_ID": 323,
+		"RU_ID": 669,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 568,
+		"RS_ID": 88,
+		"RU_ID": 809,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 569,
+		"RS_ID": 588,
+		"RU_ID": 508,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 570,
+		"RS_ID": 669,
+		"RU_ID": 371,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 571,
+		"RS_ID": 490,
+		"RU_ID": 450,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 572,
+		"RS_ID": 717,
+		"RU_ID": 550,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 573,
+		"RS_ID": 755,
+		"RU_ID": 825,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 574,
+		"RS_ID": 386,
+		"RU_ID": 975,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 575,
+		"RS_ID": 885,
+		"RU_ID": 369,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 576,
+		"RS_ID": 436,
+		"RU_ID": 403,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 577,
+		"RS_ID": 217,
+		"RU_ID": 267,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 578,
+		"RS_ID": 342,
+		"RU_ID": 347,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 579,
+		"RS_ID": 264,
+		"RU_ID": 70,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 580,
+		"RS_ID": 369,
+		"RU_ID": 565,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 581,
+		"RS_ID": 458,
+		"RU_ID": 115,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 582,
+		"RS_ID": 840,
+		"RU_ID": 286,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 583,
+		"RS_ID": 110,
+		"RU_ID": 657,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 584,
+		"RS_ID": 609,
+		"RU_ID": 318,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 585,
+		"RS_ID": 454,
+		"RU_ID": 349,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 586,
+		"RS_ID": 402,
+		"RU_ID": 616,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 587,
+		"RS_ID": 326,
+		"RU_ID": 724,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 588,
+		"RS_ID": 2,
+		"RU_ID": 156,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 589,
+		"RS_ID": 339,
+		"RU_ID": 151,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 590,
+		"RS_ID": 863,
+		"RU_ID": 764,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 591,
+		"RS_ID": 31,
+		"RU_ID": 740,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 592,
+		"RS_ID": 815,
+		"RU_ID": 388,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 593,
+		"RS_ID": 854,
+		"RU_ID": 256,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 594,
+		"RS_ID": 770,
+		"RU_ID": 762,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 595,
+		"RS_ID": 731,
+		"RU_ID": 54,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 596,
+		"RS_ID": 869,
+		"RU_ID": 370,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 597,
+		"RS_ID": 397,
+		"RU_ID": 774,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 598,
+		"RS_ID": 939,
+		"RU_ID": 863,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 599,
+		"RS_ID": 183,
+		"RU_ID": 723,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 600,
+		"RS_ID": 776,
+		"RU_ID": 528,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 601,
+		"RS_ID": 552,
+		"RU_ID": 833,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 602,
+		"RS_ID": 281,
+		"RU_ID": 980,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 603,
+		"RS_ID": 973,
+		"RU_ID": 974,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 604,
+		"RS_ID": 827,
+		"RU_ID": 888,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 605,
+		"RS_ID": 758,
+		"RU_ID": 758,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 606,
+		"RS_ID": 924,
+		"RU_ID": 682,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 607,
+		"RS_ID": 752,
+		"RU_ID": 882,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 608,
+		"RS_ID": 946,
+		"RU_ID": 14,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 609,
+		"RS_ID": 721,
+		"RU_ID": 188,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 610,
+		"RS_ID": 292,
+		"RU_ID": 597,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 611,
+		"RS_ID": 514,
+		"RU_ID": 430,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 612,
+		"RS_ID": 49,
+		"RU_ID": 386,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 613,
+		"RS_ID": 613,
+		"RU_ID": 151,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 614,
+		"RS_ID": 710,
+		"RU_ID": 740,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 615,
+		"RS_ID": 694,
+		"RU_ID": 103,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 616,
+		"RS_ID": 378,
+		"RU_ID": 800,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 617,
+		"RS_ID": 92,
+		"RU_ID": 702,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 618,
+		"RS_ID": 345,
+		"RU_ID": 6,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 619,
+		"RS_ID": 635,
+		"RU_ID": 636,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 620,
+		"RS_ID": 98,
+		"RU_ID": 766,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 621,
+		"RS_ID": 392,
+		"RU_ID": 271,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 622,
+		"RS_ID": 260,
+		"RU_ID": 780,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 623,
+		"RS_ID": 556,
+		"RU_ID": 97,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 624,
+		"RS_ID": 441,
+		"RU_ID": 463,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 625,
+		"RS_ID": 556,
+		"RU_ID": 702,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 626,
+		"RS_ID": 719,
+		"RU_ID": 564,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 627,
+		"RS_ID": 694,
+		"RU_ID": 565,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 628,
+		"RS_ID": 756,
+		"RU_ID": 571,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 629,
+		"RS_ID": 349,
+		"RU_ID": 857,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 630,
+		"RS_ID": 191,
+		"RU_ID": 107,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 631,
+		"RS_ID": 407,
+		"RU_ID": 867,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 632,
+		"RS_ID": 557,
+		"RU_ID": 272,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 633,
+		"RS_ID": 672,
+		"RU_ID": 796,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 634,
+		"RS_ID": 822,
+		"RU_ID": 936,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 635,
+		"RS_ID": 187,
+		"RU_ID": 379,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 636,
+		"RS_ID": 938,
+		"RU_ID": 567,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 637,
+		"RS_ID": 724,
+		"RU_ID": 537,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 638,
+		"RS_ID": 774,
+		"RU_ID": 354,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 639,
+		"RS_ID": 332,
+		"RU_ID": 615,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 640,
+		"RS_ID": 442,
+		"RU_ID": 285,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 641,
+		"RS_ID": 693,
+		"RU_ID": 286,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 642,
+		"RS_ID": 501,
+		"RU_ID": 660,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 643,
+		"RS_ID": 498,
+		"RU_ID": 100,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 644,
+		"RS_ID": 270,
+		"RU_ID": 506,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 645,
+		"RS_ID": 986,
+		"RU_ID": 857,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 646,
+		"RS_ID": 71,
+		"RU_ID": 700,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 647,
+		"RS_ID": 427,
+		"RU_ID": 674,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 648,
+		"RS_ID": 487,
+		"RU_ID": 491,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 649,
+		"RS_ID": 866,
+		"RU_ID": 498,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 650,
+		"RS_ID": 962,
+		"RU_ID": 720,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 651,
+		"RS_ID": 885,
+		"RU_ID": 313,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 652,
+		"RS_ID": 69,
+		"RU_ID": 27,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 653,
+		"RS_ID": 821,
+		"RU_ID": 92,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 654,
+		"RS_ID": 961,
+		"RU_ID": 293,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 655,
+		"RS_ID": 526,
+		"RU_ID": 362,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 656,
+		"RS_ID": 455,
+		"RU_ID": 633,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 657,
+		"RS_ID": 631,
+		"RU_ID": 130,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 658,
+		"RS_ID": 569,
+		"RU_ID": 453,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 659,
+		"RS_ID": 926,
+		"RU_ID": 525,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 660,
+		"RS_ID": 80,
+		"RU_ID": 650,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 661,
+		"RS_ID": 624,
+		"RU_ID": 152,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 662,
+		"RS_ID": 50,
+		"RU_ID": 496,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 663,
+		"RS_ID": 427,
+		"RU_ID": 5,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 664,
+		"RS_ID": 637,
+		"RU_ID": 767,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 665,
+		"RS_ID": 184,
+		"RU_ID": 194,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 666,
+		"RS_ID": 382,
+		"RU_ID": 287,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 667,
+		"RS_ID": 374,
+		"RU_ID": 260,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 668,
+		"RS_ID": 91,
+		"RU_ID": 446,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 669,
+		"RS_ID": 519,
+		"RU_ID": 977,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 670,
+		"RS_ID": 1,
+		"RU_ID": 298,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 671,
+		"RS_ID": 970,
+		"RU_ID": 249,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 672,
+		"RS_ID": 393,
+		"RU_ID": 718,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 673,
+		"RS_ID": 813,
+		"RU_ID": 565,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 674,
+		"RS_ID": 42,
+		"RU_ID": 213,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 675,
+		"RS_ID": 983,
+		"RU_ID": 91,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 676,
+		"RS_ID": 662,
+		"RU_ID": 527,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 677,
+		"RS_ID": 982,
+		"RU_ID": 423,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 678,
+		"RS_ID": 964,
+		"RU_ID": 49,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 679,
+		"RS_ID": 808,
+		"RU_ID": 127,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 680,
+		"RS_ID": 659,
+		"RU_ID": 969,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 681,
+		"RS_ID": 316,
+		"RU_ID": 181,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 682,
+		"RS_ID": 195,
+		"RU_ID": 898,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 683,
+		"RS_ID": 563,
+		"RU_ID": 74,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 684,
+		"RS_ID": 70,
+		"RU_ID": 200,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 685,
+		"RS_ID": 882,
+		"RU_ID": 148,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 686,
+		"RS_ID": 307,
+		"RU_ID": 735,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 687,
+		"RS_ID": 81,
+		"RU_ID": 164,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 688,
+		"RS_ID": 914,
+		"RU_ID": 737,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 689,
+		"RS_ID": 93,
+		"RU_ID": 751,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 690,
+		"RS_ID": 752,
+		"RU_ID": 787,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 691,
+		"RS_ID": 768,
+		"RU_ID": 104,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 692,
+		"RS_ID": 450,
+		"RU_ID": 336,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 693,
+		"RS_ID": 300,
+		"RU_ID": 534,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 694,
+		"RS_ID": 540,
+		"RU_ID": 219,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 695,
+		"RS_ID": 638,
+		"RU_ID": 226,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 696,
+		"RS_ID": 387,
+		"RU_ID": 620,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 697,
+		"RS_ID": 84,
+		"RU_ID": 297,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 698,
+		"RS_ID": 911,
+		"RU_ID": 362,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 699,
+		"RS_ID": 476,
+		"RU_ID": 915,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 700,
+		"RS_ID": 750,
+		"RU_ID": 568,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 701,
+		"RS_ID": 186,
+		"RU_ID": 441,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 702,
+		"RS_ID": 531,
+		"RU_ID": 539,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 703,
+		"RS_ID": 576,
+		"RU_ID": 213,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 704,
+		"RS_ID": 664,
+		"RU_ID": 705,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 705,
+		"RS_ID": 114,
+		"RU_ID": 178,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 706,
+		"RS_ID": 187,
+		"RU_ID": 792,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 707,
+		"RS_ID": 384,
+		"RU_ID": 936,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 708,
+		"RS_ID": 900,
+		"RU_ID": 820,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 709,
+		"RS_ID": 485,
+		"RU_ID": 109,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 710,
+		"RS_ID": 232,
+		"RU_ID": 299,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 711,
+		"RS_ID": 304,
+		"RU_ID": 104,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 712,
+		"RS_ID": 734,
+		"RU_ID": 263,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 713,
+		"RS_ID": 167,
+		"RU_ID": 242,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 714,
+		"RS_ID": 747,
+		"RU_ID": 260,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 715,
+		"RS_ID": 771,
+		"RU_ID": 179,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 716,
+		"RS_ID": 855,
+		"RU_ID": 965,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 717,
+		"RS_ID": 771,
+		"RU_ID": 255,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 718,
+		"RS_ID": 648,
+		"RU_ID": 838,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 719,
+		"RS_ID": 710,
+		"RU_ID": 399,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 720,
+		"RS_ID": 804,
+		"RU_ID": 339,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 721,
+		"RS_ID": 488,
+		"RU_ID": 228,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 722,
+		"RS_ID": 205,
+		"RU_ID": 960,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 723,
+		"RS_ID": 259,
+		"RU_ID": 623,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 724,
+		"RS_ID": 496,
+		"RU_ID": 308,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 725,
+		"RS_ID": 928,
+		"RU_ID": 573,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 726,
+		"RS_ID": 609,
+		"RU_ID": 496,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 727,
+		"RS_ID": 404,
+		"RU_ID": 463,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 728,
+		"RS_ID": 934,
+		"RU_ID": 922,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 729,
+		"RS_ID": 292,
+		"RU_ID": 249,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 730,
+		"RS_ID": 241,
+		"RU_ID": 540,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 731,
+		"RS_ID": 886,
+		"RU_ID": 344,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 732,
+		"RS_ID": 432,
+		"RU_ID": 122,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 733,
+		"RS_ID": 431,
+		"RU_ID": 45,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 734,
+		"RS_ID": 521,
+		"RU_ID": 791,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 735,
+		"RS_ID": 579,
+		"RU_ID": 95,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 736,
+		"RS_ID": 899,
+		"RU_ID": 220,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 737,
+		"RS_ID": 143,
+		"RU_ID": 54,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 738,
+		"RS_ID": 913,
+		"RU_ID": 787,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 739,
+		"RS_ID": 916,
+		"RU_ID": 1,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 740,
+		"RS_ID": 517,
+		"RU_ID": 805,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 741,
+		"RS_ID": 886,
+		"RU_ID": 289,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 742,
+		"RS_ID": 359,
+		"RU_ID": 392,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 743,
+		"RS_ID": 415,
+		"RU_ID": 323,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 744,
+		"RS_ID": 473,
+		"RU_ID": 591,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 745,
+		"RS_ID": 794,
+		"RU_ID": 623,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 746,
+		"RS_ID": 793,
+		"RU_ID": 314,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 747,
+		"RS_ID": 999,
+		"RU_ID": 652,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 748,
+		"RS_ID": 262,
+		"RU_ID": 128,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 749,
+		"RS_ID": 645,
+		"RU_ID": 171,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 750,
+		"RS_ID": 617,
+		"RU_ID": 986,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 751,
+		"RS_ID": 598,
+		"RU_ID": 263,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 752,
+		"RS_ID": 156,
+		"RU_ID": 470,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 753,
+		"RS_ID": 949,
+		"RU_ID": 772,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 754,
+		"RS_ID": 706,
+		"RU_ID": 725,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 755,
+		"RS_ID": 449,
+		"RU_ID": 428,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 756,
+		"RS_ID": 44,
+		"RU_ID": 802,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 757,
+		"RS_ID": 218,
+		"RU_ID": 634,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 758,
+		"RS_ID": 4,
+		"RU_ID": 654,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 759,
+		"RS_ID": 470,
+		"RU_ID": 490,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 760,
+		"RS_ID": 883,
+		"RU_ID": 462,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 761,
+		"RS_ID": 296,
+		"RU_ID": 326,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 762,
+		"RS_ID": 66,
+		"RU_ID": 166,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 763,
+		"RS_ID": 341,
+		"RU_ID": 949,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 764,
+		"RS_ID": 308,
+		"RU_ID": 830,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 765,
+		"RS_ID": 606,
+		"RU_ID": 537,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 766,
+		"RS_ID": 104,
+		"RU_ID": 567,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 767,
+		"RS_ID": 116,
+		"RU_ID": 51,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 768,
+		"RS_ID": 914,
+		"RU_ID": 795,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 769,
+		"RS_ID": 327,
+		"RU_ID": 522,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 770,
+		"RS_ID": 435,
+		"RU_ID": 627,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 771,
+		"RS_ID": 40,
+		"RU_ID": 357,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 772,
+		"RS_ID": 977,
+		"RU_ID": 107,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 773,
+		"RS_ID": 979,
+		"RU_ID": 241,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 774,
+		"RS_ID": 697,
+		"RU_ID": 655,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 775,
+		"RS_ID": 406,
+		"RU_ID": 614,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 776,
+		"RS_ID": 50,
+		"RU_ID": 388,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 777,
+		"RS_ID": 306,
+		"RU_ID": 964,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 778,
+		"RS_ID": 294,
+		"RU_ID": 458,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 779,
+		"RS_ID": 802,
+		"RU_ID": 274,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 780,
+		"RS_ID": 277,
+		"RU_ID": 512,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 781,
+		"RS_ID": 751,
+		"RU_ID": 203,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 782,
+		"RS_ID": 651,
+		"RU_ID": 885,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 783,
+		"RS_ID": 291,
+		"RU_ID": 83,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 784,
+		"RS_ID": 613,
+		"RU_ID": 442,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 785,
+		"RS_ID": 241,
+		"RU_ID": 655,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 786,
+		"RS_ID": 5,
+		"RU_ID": 997,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 787,
+		"RS_ID": 552,
+		"RU_ID": 651,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 788,
+		"RS_ID": 569,
+		"RU_ID": 759,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 789,
+		"RS_ID": 786,
+		"RU_ID": 612,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 790,
+		"RS_ID": 722,
+		"RU_ID": 431,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 791,
+		"RS_ID": 612,
+		"RU_ID": 772,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 792,
+		"RS_ID": 970,
+		"RU_ID": 209,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 793,
+		"RS_ID": 358,
+		"RU_ID": 869,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 794,
+		"RS_ID": 190,
+		"RU_ID": 41,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 795,
+		"RS_ID": 747,
+		"RU_ID": 659,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 796,
+		"RS_ID": 365,
+		"RU_ID": 518,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 797,
+		"RS_ID": 391,
+		"RU_ID": 409,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 798,
+		"RS_ID": 695,
+		"RU_ID": 507,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 799,
+		"RS_ID": 80,
+		"RU_ID": 242,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 800,
+		"RS_ID": 790,
+		"RU_ID": 253,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 801,
+		"RS_ID": 599,
+		"RU_ID": 513,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 802,
+		"RS_ID": 924,
+		"RU_ID": 151,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 803,
+		"RS_ID": 292,
+		"RU_ID": 466,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 804,
+		"RS_ID": 913,
+		"RU_ID": 248,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 805,
+		"RS_ID": 79,
+		"RU_ID": 780,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 806,
+		"RS_ID": 719,
+		"RU_ID": 589,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 807,
+		"RS_ID": 859,
+		"RU_ID": 585,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 808,
+		"RS_ID": 1,
+		"RU_ID": 610,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 809,
+		"RS_ID": 979,
+		"RU_ID": 128,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 810,
+		"RS_ID": 462,
+		"RU_ID": 757,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 811,
+		"RS_ID": 294,
+		"RU_ID": 81,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 812,
+		"RS_ID": 302,
+		"RU_ID": 870,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 813,
+		"RS_ID": 303,
+		"RU_ID": 440,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 814,
+		"RS_ID": 765,
+		"RU_ID": 868,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 815,
+		"RS_ID": 93,
+		"RU_ID": 610,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 816,
+		"RS_ID": 434,
+		"RU_ID": 553,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 817,
+		"RS_ID": 899,
+		"RU_ID": 146,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 818,
+		"RS_ID": 971,
+		"RU_ID": 282,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 819,
+		"RS_ID": 119,
+		"RU_ID": 969,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 820,
+		"RS_ID": 573,
+		"RU_ID": 930,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 821,
+		"RS_ID": 706,
+		"RU_ID": 435,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 822,
+		"RS_ID": 603,
+		"RU_ID": 562,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 823,
+		"RS_ID": 789,
+		"RU_ID": 923,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 824,
+		"RS_ID": 543,
+		"RU_ID": 9,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 825,
+		"RS_ID": 953,
+		"RU_ID": 971,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 826,
+		"RS_ID": 252,
+		"RU_ID": 55,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 827,
+		"RS_ID": 653,
+		"RU_ID": 471,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 828,
+		"RS_ID": 611,
+		"RU_ID": 841,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 829,
+		"RS_ID": 98,
+		"RU_ID": 964,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 830,
+		"RS_ID": 392,
+		"RU_ID": 656,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 831,
+		"RS_ID": 720,
+		"RU_ID": 323,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 832,
+		"RS_ID": 903,
+		"RU_ID": 499,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 833,
+		"RS_ID": 833,
+		"RU_ID": 665,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 834,
+		"RS_ID": 349,
+		"RU_ID": 538,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 835,
+		"RS_ID": 634,
+		"RU_ID": 200,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 836,
+		"RS_ID": 159,
+		"RU_ID": 880,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 837,
+		"RS_ID": 453,
+		"RU_ID": 515,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 838,
+		"RS_ID": 439,
+		"RU_ID": 898,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 839,
+		"RS_ID": 97,
+		"RU_ID": 467,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 840,
+		"RS_ID": 46,
+		"RU_ID": 681,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 841,
+		"RS_ID": 323,
+		"RU_ID": 39,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 842,
+		"RS_ID": 684,
+		"RU_ID": 453,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 843,
+		"RS_ID": 700,
+		"RU_ID": 961,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 844,
+		"RS_ID": 739,
+		"RU_ID": 807,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 845,
+		"RS_ID": 366,
+		"RU_ID": 759,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 846,
+		"RS_ID": 919,
+		"RU_ID": 326,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 847,
+		"RS_ID": 228,
+		"RU_ID": 244,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 848,
+		"RS_ID": 624,
+		"RU_ID": 372,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 849,
+		"RS_ID": 473,
+		"RU_ID": 607,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 850,
+		"RS_ID": 52,
+		"RU_ID": 11,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 851,
+		"RS_ID": 518,
+		"RU_ID": 231,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 852,
+		"RS_ID": 245,
+		"RU_ID": 375,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 853,
+		"RS_ID": 915,
+		"RU_ID": 514,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 854,
+		"RS_ID": 379,
+		"RU_ID": 628,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 855,
+		"RS_ID": 275,
+		"RU_ID": 331,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 856,
+		"RS_ID": 195,
+		"RU_ID": 335,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 857,
+		"RS_ID": 458,
+		"RU_ID": 704,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 858,
+		"RS_ID": 991,
+		"RU_ID": 286,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 859,
+		"RS_ID": 455,
+		"RU_ID": 436,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 860,
+		"RS_ID": 637,
+		"RU_ID": 392,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 861,
+		"RS_ID": 776,
+		"RU_ID": 951,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 862,
+		"RS_ID": 305,
+		"RU_ID": 988,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 863,
+		"RS_ID": 704,
+		"RU_ID": 534,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 864,
+		"RS_ID": 913,
+		"RU_ID": 130,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 865,
+		"RS_ID": 854,
+		"RU_ID": 991,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 866,
+		"RS_ID": 824,
+		"RU_ID": 600,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 867,
+		"RS_ID": 103,
+		"RU_ID": 330,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 868,
+		"RS_ID": 96,
+		"RU_ID": 429,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 869,
+		"RS_ID": 83,
+		"RU_ID": 974,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 870,
+		"RS_ID": 707,
+		"RU_ID": 767,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 871,
+		"RS_ID": 536,
+		"RU_ID": 558,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 872,
+		"RS_ID": 475,
+		"RU_ID": 665,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 873,
+		"RS_ID": 321,
+		"RU_ID": 553,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 874,
+		"RS_ID": 135,
+		"RU_ID": 122,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 875,
+		"RS_ID": 232,
+		"RU_ID": 962,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 876,
+		"RS_ID": 355,
+		"RU_ID": 166,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 877,
+		"RS_ID": 936,
+		"RU_ID": 904,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 878,
+		"RS_ID": 339,
+		"RU_ID": 69,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 879,
+		"RS_ID": 247,
+		"RU_ID": 611,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 880,
+		"RS_ID": 90,
+		"RU_ID": 927,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 881,
+		"RS_ID": 905,
+		"RU_ID": 624,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 882,
+		"RS_ID": 74,
+		"RU_ID": 890,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 883,
+		"RS_ID": 736,
+		"RU_ID": 575,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 884,
+		"RS_ID": 14,
+		"RU_ID": 869,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 885,
+		"RS_ID": 890,
+		"RU_ID": 820,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 886,
+		"RS_ID": 122,
+		"RU_ID": 710,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 887,
+		"RS_ID": 588,
+		"RU_ID": 651,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 888,
+		"RS_ID": 474,
+		"RU_ID": 794,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 889,
+		"RS_ID": 815,
+		"RU_ID": 121,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 890,
+		"RS_ID": 272,
+		"RU_ID": 668,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 891,
+		"RS_ID": 349,
+		"RU_ID": 691,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 892,
+		"RS_ID": 205,
+		"RU_ID": 771,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 893,
+		"RS_ID": 507,
+		"RU_ID": 979,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 894,
+		"RS_ID": 343,
+		"RU_ID": 853,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 895,
+		"RS_ID": 638,
+		"RU_ID": 57,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 896,
+		"RS_ID": 340,
+		"RU_ID": 697,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 897,
+		"RS_ID": 295,
+		"RU_ID": 468,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 898,
+		"RS_ID": 280,
+		"RU_ID": 885,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 899,
+		"RS_ID": 842,
+		"RU_ID": 140,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 900,
+		"RS_ID": 886,
+		"RU_ID": 95,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 901,
+		"RS_ID": 528,
+		"RU_ID": 242,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 902,
+		"RS_ID": 229,
+		"RU_ID": 854,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 903,
+		"RS_ID": 443,
+		"RU_ID": 452,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 904,
+		"RS_ID": 878,
+		"RU_ID": 661,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 905,
+		"RS_ID": 267,
+		"RU_ID": 629,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 906,
+		"RS_ID": 669,
+		"RU_ID": 366,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 907,
+		"RS_ID": 409,
+		"RU_ID": 328,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 908,
+		"RS_ID": 147,
+		"RU_ID": 814,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 909,
+		"RS_ID": 716,
+		"RU_ID": 733,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 910,
+		"RS_ID": 164,
+		"RU_ID": 767,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 911,
+		"RS_ID": 784,
+		"RU_ID": 676,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 912,
+		"RS_ID": 341,
+		"RU_ID": 550,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 913,
+		"RS_ID": 657,
+		"RU_ID": 965,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 914,
+		"RS_ID": 567,
+		"RU_ID": 157,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 915,
+		"RS_ID": 336,
+		"RU_ID": 19,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 916,
+		"RS_ID": 831,
+		"RU_ID": 842,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 917,
+		"RS_ID": 820,
+		"RU_ID": 691,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 918,
+		"RS_ID": 588,
+		"RU_ID": 268,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 919,
+		"RS_ID": 789,
+		"RU_ID": 981,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 920,
+		"RS_ID": 538,
+		"RU_ID": 966,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 921,
+		"RS_ID": 793,
+		"RU_ID": 220,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 922,
+		"RS_ID": 914,
+		"RU_ID": 733,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 923,
+		"RS_ID": 225,
+		"RU_ID": 942,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 924,
+		"RS_ID": 24,
+		"RU_ID": 718,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 925,
+		"RS_ID": 321,
+		"RU_ID": 175,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 926,
+		"RS_ID": 228,
+		"RU_ID": 781,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 927,
+		"RS_ID": 810,
+		"RU_ID": 47,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 928,
+		"RS_ID": 725,
+		"RU_ID": 399,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 929,
+		"RS_ID": 450,
+		"RU_ID": 779,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 930,
+		"RS_ID": 360,
+		"RU_ID": 303,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 931,
+		"RS_ID": 143,
+		"RU_ID": 754,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 932,
+		"RS_ID": 542,
+		"RU_ID": 647,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 933,
+		"RS_ID": 346,
+		"RU_ID": 505,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 934,
+		"RS_ID": 472,
+		"RU_ID": 618,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 935,
+		"RS_ID": 13,
+		"RU_ID": 795,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 936,
+		"RS_ID": 613,
+		"RU_ID": 864,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 937,
+		"RS_ID": 381,
+		"RU_ID": 238,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 938,
+		"RS_ID": 337,
+		"RU_ID": 116,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 939,
+		"RS_ID": 908,
+		"RU_ID": 536,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 940,
+		"RS_ID": 12,
+		"RU_ID": 164,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 941,
+		"RS_ID": 999,
+		"RU_ID": 857,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 942,
+		"RS_ID": 813,
+		"RU_ID": 333,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 943,
+		"RS_ID": 232,
+		"RU_ID": 48,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 944,
+		"RS_ID": 455,
+		"RU_ID": 583,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 945,
+		"RS_ID": 721,
+		"RU_ID": 460,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 946,
+		"RS_ID": 857,
+		"RU_ID": 251,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 947,
+		"RS_ID": 86,
+		"RU_ID": 95,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 948,
+		"RS_ID": 876,
+		"RU_ID": 667,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 949,
+		"RS_ID": 303,
+		"RU_ID": 250,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 950,
+		"RS_ID": 863,
+		"RU_ID": 590,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 951,
+		"RS_ID": 547,
+		"RU_ID": 413,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 952,
+		"RS_ID": 120,
+		"RU_ID": 137,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 953,
+		"RS_ID": 667,
+		"RU_ID": 230,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 954,
+		"RS_ID": 111,
+		"RU_ID": 155,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 955,
+		"RS_ID": 520,
+		"RU_ID": 666,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 956,
+		"RS_ID": 168,
+		"RU_ID": 114,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 957,
+		"RS_ID": 573,
+		"RU_ID": 658,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 958,
+		"RS_ID": 889,
+		"RU_ID": 341,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 959,
+		"RS_ID": 336,
+		"RU_ID": 283,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 960,
+		"RS_ID": 164,
+		"RU_ID": 243,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 961,
+		"RS_ID": 539,
+		"RU_ID": 1,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 962,
+		"RS_ID": 143,
+		"RU_ID": 60,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 963,
+		"RS_ID": 705,
+		"RU_ID": 451,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 964,
+		"RS_ID": 687,
+		"RU_ID": 362,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 965,
+		"RS_ID": 373,
+		"RU_ID": 222,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 966,
+		"RS_ID": 923,
+		"RU_ID": 786,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 967,
+		"RS_ID": 681,
+		"RU_ID": 479,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 968,
+		"RS_ID": 270,
+		"RU_ID": 460,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 969,
+		"RS_ID": 217,
+		"RU_ID": 974,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 970,
+		"RS_ID": 907,
+		"RU_ID": 380,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 971,
+		"RS_ID": 693,
+		"RU_ID": 16,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 972,
+		"RS_ID": 416,
+		"RU_ID": 892,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 973,
+		"RS_ID": 946,
+		"RU_ID": 12,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 974,
+		"RS_ID": 967,
+		"RU_ID": 332,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 975,
+		"RS_ID": 237,
+		"RU_ID": 495,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 976,
+		"RS_ID": 327,
+		"RU_ID": 670,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 977,
+		"RS_ID": 493,
+		"RU_ID": 830,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 978,
+		"RS_ID": 348,
+		"RU_ID": 979,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 979,
+		"RS_ID": 461,
+		"RU_ID": 136,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 980,
+		"RS_ID": 544,
+		"RU_ID": 364,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 981,
+		"RS_ID": 408,
+		"RU_ID": 251,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 982,
+		"RS_ID": 291,
+		"RU_ID": 795,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 983,
+		"RS_ID": 299,
+		"RU_ID": 829,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 984,
+		"RS_ID": 648,
+		"RU_ID": 149,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 985,
+		"RS_ID": 124,
+		"RU_ID": 557,
+		"POINTS": 3
+	},
+	{
+		"REVIEW_ID": 986,
+		"RS_ID": 204,
+		"RU_ID": 341,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 987,
+		"RS_ID": 590,
+		"RU_ID": 839,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 988,
+		"RS_ID": 106,
+		"RU_ID": 816,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 989,
+		"RS_ID": 178,
+		"RU_ID": 32,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 990,
+		"RS_ID": 875,
+		"RU_ID": 989,
+		"POINTS": 2
+	},
+	{
+		"REVIEW_ID": 991,
+		"RS_ID": 917,
+		"RU_ID": 398,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 992,
+		"RS_ID": 449,
+		"RU_ID": 861,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 993,
+		"RS_ID": 328,
+		"RU_ID": 12,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 994,
+		"RS_ID": 758,
+		"RU_ID": 585,
+		"POINTS": 1
+	},
+	{
+		"REVIEW_ID": 995,
+		"RS_ID": 152,
+		"RU_ID": 585,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 996,
+		"RS_ID": 262,
+		"RU_ID": 820,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 997,
+		"RS_ID": 897,
+		"RU_ID": 292,
+		"POINTS": 4
+	},
+	{
+		"REVIEW_ID": 998,
+		"RS_ID": 311,
+		"RU_ID": 976,
+		"POINTS": 5
+	},
+	{
+		"REVIEW_ID": 999,
+		"RS_ID": 24,
+		"RU_ID": 701,
+		"POINTS": 2
+	}
+]

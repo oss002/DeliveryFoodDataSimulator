@@ -54,9 +54,9 @@ def makeData1(num_stores, num_delApp, STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT)
         #STORE_OP_TIME
         for j in range(0,7):
             if(j < 5):
-                STORE_OP_TIME.append({'O_S_ID': i,'O_DATE':DATE[j],'O_START_TIME':op_time_week,'O_CLOSE_TIME':close_time_week,'O_BREAK_TSTART':week_break , 'O_BREAK_END':week_break_end})
+                STORE_OP_TIME.append({'O_S_ID': i,'O_DATE':DATE[j],'O_START_TIME':op_time_week,'O_CLOSE_TIME':close_time_week,'O_BREAK_TIME':week_break , 'O_BREAK_END':week_break_end})
             else :
-                STORE_OP_TIME.append({'O_S_ID': i,'O_DATE':DATE[j],'O_START_TIME':op_time_weekend,'O_CLOSE_TIME':close_time_weekend,'O_BREAK_TSTART':week_break , 'O_BREAK_END':week_break_end})
+                STORE_OP_TIME.append({'O_S_ID': i,'O_DATE':DATE[j],'O_START_TIME':op_time_weekend,'O_CLOSE_TIME':close_time_weekend,'O_BREAK_TIME':week_break , 'O_BREAK_END':week_break_end})
 
 
         #DERIVERY_TIP, APP_DISCOUNT
@@ -76,7 +76,7 @@ def makeData2(num_review, num_user, REVIEW, USER) :
         USER.append({'U_ID':i,'ID':ID[i],'PW':PASSWORD[i],'NAME':NAME[i],'NICKNAME':NICKNAME[i]})
         
     for j in range(0,num_review):
-        temp_storeID = random.randrange(1,1001)
+        temp_storeID = random.randrange(1,1991)
         temp_userID = random.randrange(1,num_user+1)
         temp_point = random.randrange(1,6)
         REVIEW.append({'REVIEW_ID':j, 'RS_ID': temp_storeID, 'RU_ID':temp_userID, 'POINTS':temp_point})
@@ -89,7 +89,7 @@ APP_DISCOUNT=[]
 REVIEW=[]
 USER=[]
 
-makeData1(8000,4,STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT)
+makeData1(1991,4,STORE_OP_TIME, DERIVERY_TIP, APP_DISCOUNT)
 makeData2(1000,1000,REVIEW,USER)
 
 print(STORE_OP_TIME[10])
@@ -105,17 +105,17 @@ print(len(REVIEW))
 print(len(USER))
 
 #create jsonFile
-with open('STORE_OP_TIME.json','w',encoding='utf-8') as file:
+with open('resultjsons/STORE_OP_TIME.json','w',encoding='utf-8') as file:
     json.dump(STORE_OP_TIME, file, ensure_ascii=False, indent='\t')
 
-with open('DERIVERY_TIP.json','w',encoding='utf-8') as file:
+with open('resultjsons/DERIVERY_TIP.json','w',encoding='utf-8') as file:
     json.dump(DERIVERY_TIP, file, ensure_ascii=False, indent='\t')
 
-with open('APP_DISCOUNT.json','w',encoding='utf-8') as file:
+with open('resultjsons/APP_DISCOUNT.json','w',encoding='utf-8') as file:
     json.dump(APP_DISCOUNT, file, ensure_ascii=False, indent='\t')
 
-with open('REVIEW.json','w',encoding='utf-8') as file:
+with open('resultjsons/REVIEW.json','w',encoding='utf-8') as file:
     json.dump(REVIEW, file, ensure_ascii=False, indent='\t')
 
-with open('USER.json','w',encoding='utf-8') as file:
+with open('resultjsons/USER.json','w',encoding='utf-8') as file:
     json.dump(USER, file, ensure_ascii=False, indent='\t')
