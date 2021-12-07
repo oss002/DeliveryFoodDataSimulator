@@ -8,7 +8,7 @@ def insertsql_from_json():
     conn = pymysql.connect(
         host="127.0.0.1",
         port=3306, user="root",  # ex) root
-        password="Kkj0405love!",
+        password="",
         database="Delivery_DB",
         charset='utf8'
     )
